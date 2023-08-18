@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="USC {{page.title}}, {{page.semester}}.">
+    <meta name="author" content="Robin Jia">
+
+    <!-- Favicon -->
+    <!--
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/favicon/site.webmanifest">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    -->
+
+    <title>{{page.title}}</title>
+
+    <!-- Bootstrap core CSS -->
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
+
+    <!-- Custom styles for this page -->
+    <link href="/assets/css/main.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+
+  </head>
+
+  <body>
+    <div id="content">
+      <div id="header" class="title-section">
+        <div class="title">{{page.title}}</div>
+        <div class="subtitle">
+          {{page.semester}}, {{page.time}} in <a href={{page.location_link}} target="_blank">{{page.location}}</a><br/>
+          {% if page.section_time %}
+          Section: {{page.section_time}} in <a href={{page.section_location_link}} target="_blank">{{page.section_location}}</a><br/>
+          {% endif %}
+          Instructor: {{page.instructor}}
+        </div>
+      </div>
+      {{content}}
+    </div>
+    <script type="text/javascript">
+var schedule = document.getElementById("schedule-table");
+var tr_list = schedule.getElementsByTagName("tr");
+for (var i = 0; i < tr_list.length; i++) {
+  var tr = tr_list[i];
+
+  // Apply first column style
+  tr.children[0].classList.add('first-column');
+
+  // Apply styles hidden inside empty <a> elements
+  var inner_links = tr.getElementsByTagName("a");
+  for (var j = 0; j < inner_links.length; j++) {
+    var link = inner_links[j];
+    for (var k = 0; k < link.classList.length; k++) {
+      tr.classList.add(link.classList[k]);
+    }
+  }
+}
+    </script>
+  </body>
+</html>
