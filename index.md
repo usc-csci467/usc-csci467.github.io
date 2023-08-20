@@ -60,12 +60,12 @@ Finally, we will cover **reinforcement learning,** in which an agent (e.g., a ro
 Instructor
 </div>
 <div class="staff-photo" markdown=1>
-![Soumya Sanyal](/assets/images/person_placeholder.jpg)  
+![Soumya Sanyal](/assets/images/soumya.jpg)  
 **Soumya Sanyal**  
 Teaching Assistant
 </div>
 <div class="staff-photo" markdown=1>
-![Wang (Bill) Zhu](/assets/images/person_placeholder.jpg)  
+![Wang (Bill) Zhu](//billzhu.me/author/admin/avatar_hu42410483742cac5c8006d54d4d8d8fd3_63927_250x250_fill_q90_lanczos_center.jpg)  
 **Wang (Bill) Zhu**  
 Teaching Assistant
 </div>
@@ -80,12 +80,12 @@ Course Producer
 Course Producer
 </div>
 <div class="staff-photo" markdown=1>
-![Ryan Wang](/assets/images/person_placeholder.jpg)  
+![Ryan Wang](/assets/images/ryan.jpg)  
 **Ryan Wang**  
 Course Producer
 </div>
 <div class="staff-photo" markdown=1>
-![Lorena Yan](/assets/images/person_placeholder.jpg)  
+![Lorena Yan](/assets/images/lorena.jpg)  
 **Lorena Yan**  
 Course Producer
 </div>
