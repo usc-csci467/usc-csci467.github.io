@@ -94,7 +94,9 @@ Course Producer
 * **Office hours**: See [calendar](https://calendar.google.com/calendar/embed?src=c_86e4982ab98a1b157f078d62c4489999c4833f08ae66003b169896dd26cca926%40group.calendar.google.com&ctz=America%2FLos_Angeles).
 * **Assignments**: Assignments should be submitted through [Gradescope](https://www.gradescope.com/courses/577750). Feedback will also be provided on Gradescope. All enrolled students should be in Gradescope automatically--let me know if you are not!
 You should submit both your PDF writeup and your code on Gradescope; there will be separate assignments for each.
-* **Discussions**: We will be using Piazza ([sign-up link](https://piazza.com/usc/fall2023/csci467)) for general course-related questions and announcements. If you have an individual matter to discuss, email me directly (please put "CSCI 467" in the subject line) or come to my office hours. For grading questions, go to the office hours of the person who graded the problem in question.
+* **Discussions**: We will be using Piazza for general course-related questions and announcements. 
+All enrolled students were added at the beginning of the semester; you can also use this [sign-up link](https://piazza.com/usc/fall2023/csci467).
+If you have an individual matter to discuss, email me directly (please put "CSCI 467" in the subject line) or come to my office hours. For grading questions, go to the office hours of the person who graded the problem in question.
 
 ## Prerequisites
 * Algorithms: CSCI 270 
