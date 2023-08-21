@@ -26,6 +26,8 @@ Source: [xkcd](https://xkcd.com/1425/)
 
 
 **News:**   
+* Homework 0 has been released ([pdf](assets/hw0.pdf), [code](assets/hw0.zip))!
+It is due **Thursday, August 31**.
 * First day of class is August 22!
 
 Some problems in computer science admit precise algorithmic solutions.
@@ -112,7 +114,7 @@ All assignments are due by **11:59pm** on the indicated date.
 
 |Date|Topic|Related Readings|Assignments|
 |--|--|--|--|
-|Tue Aug 22|Introduction |PML 1| Homework 0 released |
+|Tue Aug 22|Introduction |PML 1| Homework 0 released ([pdf](assets/hw0.pdf), [code](assets/hw0.zip)) |
 |Thu Aug 24|Linear Regression |PML 7.8, 8.2|
 |Fri Aug 25|Section: Probability, Linear Algebra, & Calculus Review [](){: .schedule-section} | |
 |Tue Aug 29|Featurization, Convexity, Normal Equations |PML 2.6.3, 8.1, 11.1-11.2 ||
