@@ -75,7 +75,7 @@ Teaching Assistant
 Course Producer
 </div>
 <div class="staff-photo" markdown=1>
-![Atharva Mundada](/assets/images/person_placeholder.jpg)  
+![Atharva Mundada](/assets/images/atharva.jpg)  
 **Atharva Mundada**  
 Course Producer
 </div>
