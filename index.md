@@ -70,7 +70,7 @@ Teaching Assistant
 Teaching Assistant
 </div>
 <div class="staff-photo" markdown=1>
-![Vishesh Agrawal](/assets/images/person_placeholder.jpg)  
+![Vishesh Agrawal](/assets/images/vishesh.jpg)  
 **Vishesh Agrawal**  
 Course Producer
 </div>
@@ -114,7 +114,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Aug 24|Linear Regression |PML 7.8, 8.2|
 |Fri Aug 25|Section: Probability, Linear Algebra, & Calculus Review [](){: .schedule-section} | |
 |Tue Aug 29|Featurization, Convexity, Normal Equations |PML 2.6.3, 8.1, 11.1-11.2 ||
-|Thu Aug 31|Maximum Likelihood Estimation, Logistic Regression |PML 4.2, 10.1-10.2| Homework 0 due |
+|Thu Aug 31|Maximum Likelihood Estimation, Logistic Regression |PML 4.2, 10.1-10.2| **Homework 0 due** |
 |Fri Sep 1|Section: Python & numpy tutorial [](){: .schedule-section}| | 
 |Tue Sep 5|Softmax Regression, Second-order optimization |PML 8.3, 10.3||
 |Thu Sep 7|Overfitting, Regularization, Bias and Variance|PML 4.5, 4.7, 11.3-11.4 |Homework 1 released |
@@ -122,14 +122,14 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Sep 12|Generative Classifiers, Naive Bayes  |PML 9.3-9.4 |
 |Thu Sep 14 |Nearest Neighbors, Project discussion |PML 16.1, 16.3 |
 |Fri Sep 15 |Section: TBD [](){: .schedule-section}| | 
-|Tue Sep 19 |Kernel methods |PML 4.3, 17.1, 17.3|Homework 1 due |
+|Tue Sep 19 |Kernel methods |PML 4.3, 17.1, 17.3| **Homework 1 due** |
 |Thu Sep 21|Introduction to Neural Networks, Dropout, Early Stopping |PML 13.1-13.3 | Homework 2 released |
 |Fri Sep 22| Section: Scikit-learn tutorial [](){: .schedule-section}| | 
-|Tue Sep 26|Backpropagation |PML 13.4-13.5 |Project Proposal due|
+|Tue Sep 26|Backpropagation |PML 13.4-13.5 | **Project Proposal due** |
 |Thu Sep 28|Convolutional Neural Networks |PML 14.1-14.2 |
 |Fri Sep 29|Section: Pytorch tutorial [](){: .schedule-section}| | 
 |Tue Oct 3|Recurrent Neural Networks |PML 15.1-15.2 |
-|Thu Oct 5|Sequence-to-sequence, Attention |PML 15.1-15.2 | Homework 2 due |
+|Thu Oct 5|Sequence-to-sequence, Attention |PML 15.1-15.2 | **Homework 2 due** |
 |Fri Oct 6 |Section: Midterm preparation [](){: .schedule-section}| | 
 |Tue Oct 10 |**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Oct 12-13|No class or section (Fall break) [](){: .schedule-break}| |
@@ -137,12 +137,12 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Oct 19 |Decision Trees, Ensembling |PML 18.1-18.5 |
 |Fri Oct 20|Section: Midterm Exam Discussion [](){: .schedule-section}| | 
 |Tue Oct 24|k-Means Clustering, Start of Gaussian Mixture Models |PML 21.3 | Homework 3 released
-|Thu Oct 26|Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2| Project Midterm Report due |
-|Fri Oct 27|Section: Optimization strategies for neural networks [](){: .schedule-section}| | 
-|Tue Oct 31|Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 |
+|Thu Oct 26|Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2| 
+|Fri Oct 27|Section: Optimization strategies for neural networks [](){: .schedule-section}| 
+|Tue Oct 31|Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 |**Project Midterm Report due** |
 |Thu Nov 2 |Embedding models, Word Vectors |PML 20.5 |
 |Fri Nov 3 |Section: Practical guide to pretrained language models [](){: .schedule-section}| | 
-|Tue Nov 7 |Multi-Armed Bandits | PML2 34.1-34.4 | Homework 3 due
+|Tue Nov 7 |Multi-Armed Bandits | PML2 34.1-34.4 | **Homework 3 due**
 |Thu Nov 9|Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 | |
 |Fri Nov 10|Section: Practical guide to computer vision models [](){: .schedule-section}| | 
 |Tue Nov 14|Q-Learning with Function Approximation, Policy Gradient |PML2 35.2-35.3 | Homework 4 released|
@@ -151,7 +151,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Nov 21|Fairness in Machine Learning | FAML 1-4 | 
 |Nov 23-24|No class or section (Thanksgiving) [](){: .schedule-break}| |
 |Tue Nov 28|How does ChatGPT work?  | 
-|Thu Nov 30|Conclusion | | Homework 4 due |
+|Thu Nov 30|Conclusion | | **Homework 4 due** |
 |Fri Nov 31|No section (End of class) [](){: .schedule-break}| | 
 |Thu Dec 7|**Final Exam, 2-4pm** [](){:.schedule-exam} | | **Project Final Report due Dec 12**|
 {: .schedule #schedule-table}
