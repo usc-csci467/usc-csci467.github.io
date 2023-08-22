@@ -114,7 +114,7 @@ All assignments are due by **11:59pm** on the indicated date.
 
 |Date|Topic|Related Readings|Assignments|
 |--|--|--|--|
-|Tue Aug 22|Introduction |PML 1| Homework 0 released ([pdf](assets/hw0.pdf), [code](assets/hw0.zip)) |
+|Tue Aug 22|Introduction ([slides](assets/lectures/01_intro.pdf)) |PML 1| Homework 0 released ([pdf](assets/hw0.pdf), [code](assets/hw0.zip)) |
 |Thu Aug 24|Linear Regression |PML 7.8, 8.2|
 |Fri Aug 25|Section: Probability, Linear Algebra, & Calculus Review [](){: .schedule-section} | |
 |Tue Aug 29|Featurization, Convexity, Normal Equations |PML 2.6.3, 8.1, 11.1-11.2 ||
