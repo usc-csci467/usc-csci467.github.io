@@ -19,8 +19,10 @@ Source: [xkcd](https://xkcd.com/1425/)
 <div class="col-intro" markdown=1>
 
 
-{::comment}
 **Quick Links:**
+* **[Lecture Notes](assets/notes.pdf)** (will be continuously updated throughout the semester)
+
+{::comment}
 * **[Final Project information](project)**
 {:/comment}
 
@@ -28,7 +30,6 @@ Source: [xkcd](https://xkcd.com/1425/)
 **News:**   
 * Homework 0 has been released ([pdf](assets/hw0.pdf), [code](assets/hw0.zip))!
 It is due **Thursday, August 31**.
-* First day of class is August 22!
 
 Some problems in computer science admit precise algorithmic solutions.
 Checking if someone is in a national park is, in some sense, straightforward:
