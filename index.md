@@ -78,11 +78,6 @@ Teaching Assistant
 Course Producer
 </div>
 <div class="staff-photo" markdown=1>
-![Atharva Mundada](/assets/images/atharva.jpg)  
-**Atharva Mundada**  
-Course Producer
-</div>
-<div class="staff-photo" markdown=1>
 ![Ryan Wang](/assets/images/ryan.jpg)  
 **Ryan Wang**  
 Course Producer
@@ -116,7 +111,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Date|Topic|Related Readings|Assignments|
 |--|--|--|--|
 |Tue Aug 22|Introduction ([slides](assets/lectures/01_intro.pdf)) |PML 1| Homework 0 released ([pdf](assets/hw0.pdf), [code](assets/hw0.zip)) |
-|Thu Aug 24|Linear Regression |PML 7.8, 8.2|
+|Thu Aug 24|Linear Regression ([demo](https://colab.research.google.com/drive/11hdXd0C7GGrxpJlC-PV6eImcWJ3Bk_Q2?usp=sharing)) |PML 7.8, 8.2|
 |Fri Aug 25|Section: Probability, Linear Algebra, & Calculus Review [Soumya] ([handout](https://hackmd.io/@charlotteTYC/prerequisites){: .schedule-section}) | |
 |Tue Aug 29|Featurization, Convexity, Normal Equations |PML 2.6.3, 8.1, 11.1-11.2 ||
 |Thu Aug 31|Maximum Likelihood Estimation, Logistic Regression |PML 4.2, 10.1-10.2| **Homework 0 due** |
