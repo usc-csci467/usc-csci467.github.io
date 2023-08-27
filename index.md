@@ -117,17 +117,17 @@ All assignments are due by **11:59pm** on the indicated date.
 |--|--|--|--|
 |Tue Aug 22|Introduction ([slides](assets/lectures/01_intro.pdf)) |PML 1| Homework 0 released ([pdf](assets/hw0.pdf), [code](assets/hw0.zip)) |
 |Thu Aug 24|Linear Regression ([lecture](assets/lectures/02_linreg.pdf), [demo](https://colab.research.google.com/drive/11hdXd0C7GGrxpJlC-PV6eImcWJ3Bk_Q2?usp=sharing)) |PML 7.8, 8.2|
-|Fri Aug 25|Section: Probability, Linear Algebra, & Calculus Review [Soumya] ([handout](https://hackmd.io/@charlotteTYC/prerequisites){: .schedule-section} [notes](assets/lectures/section1_notes.pdf)) | |
-|Tue Aug 29|Featurization, Convexity, Normal Equations |PML 2.6.3, 8.1, 11.1-11.2 ||
-|Thu Aug 31|Maximum Likelihood Estimation, Logistic Regression |PML 4.2, 10.1-10.2| **Homework 0 due** |
+|Fri Aug 25|Section: Probability, Linear Algebra, & Calculus Review [Soumya] ([handout](https://hackmd.io/@charlotteTYC/prerequisites){: .schedule-section}, [notes](assets/lectures/section1_notes.pdf)) | |
+|Tue Aug 29|Featurization, Convexity, Maximum Likelihood Estimation |PML 2.6.3, 4.2, 8.1 ||
+|Thu Aug 31|Logistic Regression, Softmax Regression |PML 10.1-10.3| **Homework 0 due** |
 |Fri Sep 1|Section: Python & numpy tutorial [](){: .schedule-section}| | 
-|Tue Sep 5|Softmax Regression, Second-order optimization |PML 8.3, 10.3||
-|Thu Sep 7|Overfitting, Regularization, Bias and Variance|PML 4.5, 4.7, 11.3-11.4 |Homework 1 released |
+|Tue Sep 5|Overfitting, Regularization, Bias and Variance|PML 4.5, 4.7, 11.3-11.4 |
+|Thu Sep 7|Generative Classifiers, Naive Bayes  |PML 9.3-9.4 |Homework 1 released |
 |Fri Sep 8|Section: Cross-Validation, Evaluation Metrics  [](){: .schedule-section}| | 
-|Tue Sep 12|Generative Classifiers, Naive Bayes  |PML 9.3-9.4 |
-|Thu Sep 14 |Nearest Neighbors, Project discussion |PML 16.1, 16.3 |
+|Tue Sep 12|Nearest Neighbors, Project discussion |PML 16.1, 16.3 |
+|Thu Sep 14 |Kernel methods |PML 4.3, 17.1, 17.3|
 |Fri Sep 15 |Section: TBD [](){: .schedule-section}| | 
-|Tue Sep 19 |Kernel methods |PML 4.3, 17.1, 17.3| **Homework 1 due** |
+|Tue Sep 19 |Normal Equations, Second-order optimization | PML 8.3, 11.2| **Homework 1 due** |
 |Thu Sep 21|Introduction to Neural Networks, Dropout, Early Stopping |PML 13.1-13.3 | Homework 2 released |
 |Fri Sep 22| Section: Scikit-learn tutorial [](){: .schedule-section}| | 
 |Tue Sep 26|Backpropagation |PML 13.4-13.5 | **Project Proposal due** |
