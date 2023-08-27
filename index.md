@@ -87,6 +87,11 @@ Course Producer
 **Lorena Yan**  
 Course Producer
 </div>
+<div class="staff-photo" markdown=1>
+![Wenyang Zhang](/assets/images/wenyang.jpg)  
+**Wenyang Zhang**  
+Course Producer
+</div>
 
 ## Logistics
 * **Office hours**: See [calendar](https://calendar.google.com/calendar/embed?src=c_86e4982ab98a1b157f078d62c4489999c4833f08ae66003b169896dd26cca926%40group.calendar.google.com&ctz=America%2FLos_Angeles).
