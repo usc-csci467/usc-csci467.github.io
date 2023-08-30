@@ -120,10 +120,10 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Aug 25|Section: Probability, Linear Algebra, & Calculus Review [Soumya] ([handout](https://hackmd.io/@charlotteTYC/prerequisites){: .schedule-section}, [notes](assets/lectures/section1_notes.pdf)) | |
 |Tue Aug 29|Featurization, Convexity, Maximum Likelihood Estimation ([lecture](assets/lectures/03_linreg2.pdf)) |PML 2.6.3, 4.2, 8.1 ||
 |Thu Aug 31|Logistic Regression, Softmax Regression |PML 10.1-10.3| **Homework 0 due** |
-|Fri Sep 1|Section: Python & numpy tutorial [Bill] ([colab](https://colab.research.google.com/drive/1Qe_HXHHD2KyvOZbbXyl-ly2zSmD_qucp?usp=sharing)){: .schedule-section}| | 
+|Fri Sep 1|Section: Python & numpy tutorial [Bill] ([colab](https://colab.research.google.com/drive/1Qe_HXHHD2KyvOZbbXyl-ly2zSmD_qucp?usp=sharing){: .schedule-section}) | | 
 |Tue Sep 5|Overfitting, Regularization, Bias and Variance|PML 4.5, 4.7, 11.3-11.4 |
 |Thu Sep 7|Generative Classifiers, Naive Bayes  |PML 9.3-9.4 |Homework 1 released |
-|Fri Sep 8|Section: Cross-Validation, Evaluation Metrics  [Bill] ([slides](assets/section/section3.pdf)){: .schedule-section}| | 
+|Fri Sep 8|Section: Cross-Validation, Evaluation Metrics  [Bill] ([slides](assets/section/section3.pdf){: .schedule-section}) | | 
 |Tue Sep 12|Nearest Neighbors, Project discussion |PML 16.1, 16.3 |
 |Thu Sep 14 |Kernel methods |PML 4.3, 17.1, 17.3|
 |Fri Sep 15 |Section: TBD [](){: .schedule-section}| | 
