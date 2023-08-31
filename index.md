@@ -119,7 +119,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Aug 24|Linear Regression ([lecture](assets/lectures/02_linreg.pdf), [demo](https://colab.research.google.com/drive/11hdXd0C7GGrxpJlC-PV6eImcWJ3Bk_Q2?usp=sharing)) |PML 7.8, 8.2|
 |Fri Aug 25|Section: Probability, Linear Algebra, & Calculus Review [Soumya] ([handout](https://hackmd.io/@charlotteTYC/prerequisites){: .schedule-section}, [notes](assets/lectures/section1_notes.pdf)) | |
 |Tue Aug 29|Featurization, Convexity, Maximum Likelihood Estimation ([lecture](assets/lectures/03_linreg2.pdf)) |PML 2.6.3, 4.2, 8.1 ||
-|Thu Aug 31|Logistic Regression, Softmax Regression |PML 10.1-10.3| **Homework 0 due** |
+|Thu Aug 31|Logistic Regression, Softmax Regression ([lecture](assets/lectures/04_logreg.pdf)) |PML 10.1-10.3| **Homework 0 due** |
 |Fri Sep 1|Section: Python & numpy tutorial [Bill] ([colab](https://colab.research.google.com/drive/1Qe_HXHHD2KyvOZbbXyl-ly2zSmD_qucp?usp=sharing){: .schedule-section}) | | 
 |Tue Sep 5|Overfitting, Regularization, Bias and Variance|PML 4.5, 4.7, 11.3-11.4 |
 |Thu Sep 7|Normal Equations, Second-order optimization | PML 8.3, 11.2| Homework 1 released |
@@ -200,7 +200,10 @@ A list of example projects is now available at [here](project).
 {:/comment}
 
 ## Resources
-While there is no required textbook for this class, you may find the following useful:
+This semester, I am writing **[Lecture Notes](assets/notes.pdf)** that accompany all the iPad lectures.
+I recommend using these notes as reference material for studying.
+There is no required textbook for this class.
+If you do want to learn from a textbook, the following may be useful:
 - [*Probabilistic Machine Learning: An Introduction*](https://probml.github.io/pml-book/book1.html) (PML) and [*Probabilistic Machine Learning: Advanced Topics*](https://probml.github.io/pml-book/book2.html) (PML2) by Kevin Murphy. You may also find PML Chapters 2-3 and 7 useful for reviewing prerequisites.
 - [*The Elements of Statistical Learning*](https://hastie.su.domains/Papers/ESLII.pdf) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman.
 - [*Patterns, Predictions, and Actions: A Story about Machine Learning*](https://mlstory.org/) by Moritz Hardt and Benjamin Recht
