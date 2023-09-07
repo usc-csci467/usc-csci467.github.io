@@ -18,6 +18,12 @@ Source: [xkcd](https://xkcd.com/1425/)
 </div>
 <div class="col-intro" markdown=1>
 
+{% capture hw0 %}{% include hw.html num=0 %}{% endcapture %}
+{% capture hw1 %}{% include hw.html num=1 %}{% endcapture %}
+{% capture hw2 %}{% include hw.html num=2 %}{% endcapture %}
+{% capture hw3 %}{% include hw.html num=3 %}{% endcapture %}
+{% capture hw4 %}{% include hw.html num=4 %}{% endcapture %}
+
 
 **Quick Links:**
 * **[Lecture Notes](assets/notes.pdf)** (will be continuously updated throughout the semester)
@@ -28,8 +34,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 
 
 **News:**   
-* Homework 0 has been released ([pdf](assets/hw0.pdf), [code](assets/hw0.zip))!
-It is due **Thursday, August 31**.
+* Homework 1 has been released {{hw1 | strip_newlines }}. It is due **Tuesday, September 19**.
 
 Some problems in computer science admit precise algorithmic solutions.
 Checking if someone is in a national park is, in some sense, straightforward:
@@ -115,14 +120,14 @@ All assignments are due by **11:59pm** on the indicated date.
 
 |Date|Topic|Related Readings|Assignments|
 |--|--|--|--|
-|Tue Aug 22|Introduction ([slides](assets/lectures/01_intro.pdf)) |PML 1| Homework 0 released ([pdf](assets/hw0.pdf), [code](assets/hw0.zip)) |
+|Tue Aug 22|Introduction ([slides](assets/lectures/01_intro.pdf)) |PML 1| Homework 0 released {{ hw0 | strip_newlines }}
 |Thu Aug 24|Linear Regression ([lecture](assets/lectures/02_linreg.pdf), [demo](https://colab.research.google.com/drive/11hdXd0C7GGrxpJlC-PV6eImcWJ3Bk_Q2?usp=sharing)) |PML 7.8, 8.2|
 |Fri Aug 25|Section: Probability, Linear Algebra, & Calculus Review [Soumya] ([handout](https://hackmd.io/@charlotteTYC/prerequisites){: .schedule-section}, [notes](assets/lectures/section1_notes.pdf)) | |
 |Tue Aug 29|Featurization, Convexity, Maximum Likelihood Estimation ([lecture](assets/lectures/03_linreg2.pdf)) |PML 2.6.3, 4.2, 8.1 ||
 |Thu Aug 31|Logistic Regression, Softmax Regression ([lecture](assets/lectures/04_logreg.pdf)) |PML 10.1-10.3| **Homework 0 due** |
 |Fri Sep 1|Section: Python & numpy tutorial [Bill] ([colab](https://colab.research.google.com/drive/1Qe_HXHHD2KyvOZbbXyl-ly2zSmD_qucp?usp=sharing){: .schedule-section}) | | 
-|Tue Sep 5|Overfitting, Regularization, Bias and Variance|PML 4.5, 4.7, 11.3-11.4 |
-|Thu Sep 7|Normal Equations, Second-order optimization | PML 8.3, 11.2| Homework 1 released |
+|Tue Sep 5|Overfitting, Regularization|PML 4.5, 4.7, 11.3-11.4 |
+|Thu Sep 7|Bias and Variance, Normal Equations | PML 11.2| Homework 1 released {{hw1 | strip_newlines }}
 |Fri Sep 8|Section: Probability review continued, taking gradients [Soumya] [](){: .schedule-section}| | 
 |Tue Sep 12| Generative Classifiers, Naive Bayes  |PML 9.3-9.4 |
 |Thu Sep 14 |Nearest Neighbors, Project discussion |PML 16.1, 16.3 |
