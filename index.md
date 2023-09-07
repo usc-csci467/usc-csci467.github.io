@@ -126,7 +126,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Aug 29|Featurization, Convexity, Maximum Likelihood Estimation ([lecture](assets/lectures/03_linreg2.pdf)) |PML 2.6.3, 4.2, 8.1 ||
 |Thu Aug 31|Logistic Regression, Softmax Regression ([lecture](assets/lectures/04_logreg.pdf)) |PML 10.1-10.3| **Homework 0 due** |
 |Fri Sep 1|Section: Python & numpy tutorial [Bill] ([colab](https://colab.research.google.com/drive/1Qe_HXHHD2KyvOZbbXyl-ly2zSmD_qucp?usp=sharing){: .schedule-section}) | | 
-|Tue Sep 5|Overfitting, Regularization|PML 4.5, 4.7, 11.3-11.4 |
+|Tue Sep 5|Overfitting, Regularization ([lecture](assets/lectures/05_overfitting.pdf)) |PML 4.5, 4.7, 11.3-11.4 |
 |Thu Sep 7|Bias and Variance, Normal Equations | PML 11.2| Homework 1 released {{hw1 | strip_newlines }}
 |Fri Sep 8|Section: Probability review continued, taking gradients [Soumya] [](){: .schedule-section}| | 
 |Tue Sep 12| Generative Classifiers, Naive Bayes  |PML 9.3-9.4 |
