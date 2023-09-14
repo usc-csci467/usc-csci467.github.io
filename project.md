@@ -24,17 +24,26 @@ Note that for the proposal, you only need to fill in some of the sections.
 All groups will be graded on the same criteria, regardless of size.
 Each member of a team should contribute both to the technical implementation and to the writing of the reports.
 
+### Project resources
+- Some useful sources of datasets include the UC Irvine Machine Learning Repository (https://archive-beta.ics.uci.edu/) and Kaggle (https://www.kaggle.com/datasets).
+- [USC CARC Discovery Cluster](https://www.carc.usc.edu/user-information/user-guides/hpc-basics/getting-started-discovery) is a computing cluster run by USC. 
+I have requested and received quota to run jobs specifically for class final projects.
+Follow the link more to learn about how to use this resource.
+Note that both CPU and GPU-based machines are available---GPUs will be useful for running deep learning models.
+- [Google Colab](https://colab.research.google.com/) provides free computational resources, though there are limits (e.g., jobs can only run for 12 hours at a time). See their [FAQ](https://research.google.com/colaboratory/faq.html) for details.
+
 ### Project Proposal
-The project proposal should be 1.5-2 pages (not including references), and should include the following:
-- **Problem statement and task definition**. Your goal is to build a new system. What is your system supposed to do? Describe what is the input and desired output in detail. Also describe why you chose this problem---what real world problem does this try to address? Try to make scope neither too narrow nor too broad. If you need help with this, please come to office hours.
-- **Related work**. Search the Internet for similar projects and describe what they do and what challenges they faced.
-- **Dataset**. Machine learning methods all rely on having a dataset. Your proposal **must** either describe an existing dataset that you have found that you will use, or include a detailed plan of how you will create an appropriate dataset so that it can be used for experiments in your midterm report.
-- **Evaluation plan**. Once you have built a system, how will you evaluate it? First, you need to have an appropriate test dataset. You could choose to take one dataset and randomly split it into train, development, and test sets. You could also use test data from a different source to test whether your system generalizes to new situations. Second, what metric will you use? Standard metrics are accuracy (for classification) or RMSE (for regression), but depending on your problem other metrics may also be appropriate (such as precision/recall/F1 if your problem has label imbalance). You might also wish to consider other factors such as efficiency.
-- **Plans for baselines**. A baseline is a simple initial solution to your task. Baselines are important as they give you a starting point that you can hope to improve upon . For some problems, there may be a way to have a non-machine learning baseline (e.g., hard-coding some rules to make predictions). In other cases, such a baseline may be difficult to come up with. In this case, think of a simpler machine learning approach that could serve as a baseline (e.g., logistic regression with a small set of simple features).
-- **Plans for main methods**. How do you plan to solve your problem? Talk about specific algorithms you will use---these can be from class or can be other machine learning methods you know about. You should also describe the key challenges of the problem you've chosen, and then talk about how you hope to address them. 
+The project proposal should be 1-2 pages (not including references), and should include the following:
+
+1. **Introduction**: Define the task you are trying to solve in your project.  Your goal should be to build a new machine learning system---what is it supposed to do? Describe what is the input and desired output in detail. Also describe why you chose this problem---what real world problem does this try to address? Try to make scope neither too narrow nor too broad. If you need help with this, please come to office hours.
+2. **Related work**. Search the Internet for similar projects and describe what they do and what challenges they faced.
+3. **Dataset and Evaluation**. Machine learning methods all rely on having a dataset. Your proposal **must** either describe an existing dataset that you have found that you will use, or include a detailed plan of how you will create an appropriate dataset so that it can be used for experiments in your midterm report.
+Next, once you have built a system, how will you evaluate it? First, you need to have an appropriate test dataset. You could choose to take one dataset and randomly split it into train, development, and test sets. You could also use test data from a different source to test whether your system generalizes to new situations. Second, what metric will you use? Standard metrics are accuracy (for classification) or RMSE (for regression), but depending on your problem other metrics may also be appropriate (such as precision/recall/F1 if your problem has label imbalance). You might also wish to consider other factors such as efficiency.
+4. **Plans for baselines and methods**. A baseline is a simple initial solution to your task. Baselines are important as they give you a starting point that you can hope to improve upon. For some problems, there may be a way to have a non-machine learning baseline (e.g., hard-coding some rules to make predictions). In other cases, such a baseline may be difficult to come up with. In this case, think of a simpler machine learning approach that could serve as a baseline (e.g., logistic regression with a small set of simple features).
+After that, describe how you plan to solve your problem. Talk about specific algorithms you will use---these can be from class or can be other machine learning methods you know about. You should also describe the key challenges of the problem you've chosen, and then talk about how you hope to address them. 
 
 Note that you can adjust the topic of your final project or the specific methods used after the proposal.
-If you want to make a significant change, come talk to me or one of the TA's first, 
+If you want to make a significant change, come talk to me or a member of the course staff first, 
 so we can help determine if the new project plan is feasible.
 
 ### Midterm Report
@@ -122,19 +131,13 @@ It must include the following:
 * A list of commands used to generate all of your results. You do not need to explain the code in detail, but make sure it's clear how all the results in your report were generated.
 
 ### Example projects
-To give you a rough sense of the expectations for this project (and since this is a new type of assignment for CSCI 467),
-I have compiled a list of example final projects from Stanford's machine learning class a few years ago (see [here](https://cs229.stanford.edu/proj2017/) for the full list).
-While the exact guidelines will differ, these projects ideas and experiments would all be appropriate for this class as well.
-* [Music Genre Classification via Machine Learning](https://cs229.stanford.edu/proj2017/final-reports/5244969.pdf)
-* [Terrain Classification for Off-Road Driving](https://cs229.stanford.edu/proj2017/final-reports/5243384.pdf)
-* [Real Time Tennis Match Prediction Using Machine Learning](https://cs229.stanford.edu/proj2017/final-reports/5243744.pdf)
-* [Learning the Language of Wine](https://cs229.stanford.edu/proj2017/final-reports/5244216.pdf)
-* [Speech Command Recognition with Convolutional Neural Network](https://cs229.stanford.edu/proj2017/final-reports/5244201.pdf)
-* [An AI Approach to Automatic Natural Music Transcription](https://cs229.stanford.edu/proj2017/final-reports/5244388.pdf)
-* [Predicting Insurance Claims in Brazil](https://cs229.stanford.edu/proj2017/final-reports/5244182.pdf)
-* [Molecular Structure Prediction Using Infrared Spectra](Molecular Structure Prediction Using Infrared Spectra)
-* [Forage: Optimizing Food Use With Machine Learning Generated Recipes](https://cs229.stanford.edu/proj2017/final-reports/5244233.pdf)
-* [Balancing Classifier Fairness with Public Safety in Traffic Stops](https://cs229.stanford.edu/proj2017/final-reports/5244311.pdf)
+I have selected a few final reports from last semester as example projects.
+All these final reports received high marks.
+These should give you an idea of the expectations for the final project, as well as the breadth of projects that are possible:
+* [Applying Binary Classification Techniques on Prediction of Heart Failure](assets/report1.pdf) by Lily Qiang
+* [Predicting Suicidality from Social Media Posts](assets/report2.pdf) by Stephanie Yoshimoto
+* [Music Genre Classification with Machine Learning](assets/report3.pdf) by Lorena Yan, Ryan Wang, and Tianhao Wu
+* [Machine Learning on Stock Data to Inform Future Investment Choices](assets/report4.pdf) by Rohan Gupta, Rithik Pothuganti, and Alex Gao
 
 ### FAQ
 *What if we try something but it doesn't work? (e.g., doesn't improve over the baseline)*
@@ -149,10 +152,3 @@ For the project, you are free to use any open source libraries for machine learn
 including Sci-kit learn, Pytorch, Tensorflow, and Huggingface libraries.
 If you use a complicated method (e.g., some deep neural network), be sure to also include a simpler method as a baseline.
 
-### Project resources
-- [USC CARC Discovery Cluster](https://www.carc.usc.edu/user-information/user-guides/hpc-basics/getting-started-discovery) is a computing cluster run by USC. 
-I have requested and received quota to run jobs specifically for class final projects.
-I have already added all enrolled students to the list of authorized users.
-Follow the link more to learn about how to use this resource.
-Note that both CPU and GPU-based machines are available---GPUs will be useful for running deep learning models.
-- [Google Colab](https://colab.research.google.com/) provides free computational resources, though there are limits (e.g., jobs can only run for 12 hours at a time). See their [FAQ](https://research.google.com/colaboratory/faq.html) for details.

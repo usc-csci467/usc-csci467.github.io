@@ -27,11 +27,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 
 **Quick Links:**
 * **[Lecture Notes](assets/notes.pdf)** (will be continuously updated throughout the semester)
-
-{::comment}
 * **[Final Project information](project)**
-{:/comment}
-
 
 **News:**   
 * Homework 1 has been released {{hw1 | strip_newlines }}. It is due **Tuesday, September 19**.
@@ -129,7 +125,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Sep 5|Overfitting, Regularization ([lecture](assets/lectures/05_overfitting.pdf)) |PML 4.5, 4.7, 11.3-11.4 |
 |Thu Sep 7|Bias and Variance, Normal Equations ([lecture](assets/lectures/06_biasvariance.pdf)) | PML 11.2| Homework 1 released {{hw1 | strip_newlines }}
 |Fri Sep 8|Section: Probability review continued, taking gradients [Soumya] ([notes](assets/sections/section3_notes.pdf){: .schedule-section})| |
-|Tue Sep 12| Generative Classifiers, Naive Bayes  |PML 9.3-9.4 |
+|Tue Sep 12| Generative Classifiers, Naive Bayes ([lecture](assets/lectures/07_naivebayes.pdf)) |PML 9.3-9.4 |
 |Thu Sep 14 |Nearest Neighbors, Project discussion |PML 16.1, 16.3 |
 |Fri Sep 15|Section: Cross-Validation, Evaluation Metrics  [Bill] ([slides](assets/sections/section3.pdf){: .schedule-section}) | | 
 |Tue Sep 19 |Kernel methods |PML 4.3, 17.1, 17.3| **Homework 1 due** |
@@ -198,11 +194,7 @@ We will **not accept any assignments more than 3 days late.**
 The final project can be done individually or in groups of up to 3.
 This is your chance to freely explore machine learning methods and how they can be applied to a task of our choice.
 You will also learn about best practices for developing machine learning methods---inspecting your data, establishing baselines, and analyzing your errors.
-More information about the final project will be released at a later date. 
-
-{::comment}
-A list of example projects is now available at [here](project).
-{:/comment}
+More information about the final project is available [here](project).
 
 ## Resources
 This semester, I am writing **[Lecture Notes](assets/notes.pdf)** that accompany all the iPad lectures.
