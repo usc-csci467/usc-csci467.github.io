@@ -130,7 +130,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Sep 15|Section: Cross-Validation, Evaluation Metrics  [Bill] ([slides](assets/sections/section3.pdf){: .schedule-section}) | | 
 |Tue Sep 19 |Kernel methods continued ([lecture](assets/lectures/09_kernels.pdf)) |PML 4.3, 17.1, 17.3| **Homework 1 due** |
 |Thu Sep 21|Introduction to Neural Networks, Dropout, Early Stopping ([lecture](assets/lectures/10_neuralnets.pdf)) |PML 13.1-13.3 | Homework 2 released {{hw2 | strip_newlines}} |
-|Fri Sep 22| Section: Scikit-learn tutorial [](){: .schedule-section}| | 
+|Fri Sep 22| Section: Scikit-learn tutorial [Vishesh] ([colab](https://colab.research.google.com/drive/1EJ-E1QPGWHWpZU9eMXQuEqMkAhy0yai-?usp=sharing))  [](){: .schedule-section}| | 
 |Tue Sep 26|Backpropagation |PML 13.4-13.5 | **Project Proposal due** |
 |Thu Sep 28|Convolutional Neural Networks |PML 14.1-14.2 |
 |Fri Sep 29|Section: Pytorch tutorial [](){: .schedule-section}| | 
