@@ -127,7 +127,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Sep 8|Section: Probability review continued, taking gradients [Soumya] ([notes](assets/sections/section3_notes.pdf){: .schedule-section})| |
 |Tue Sep 12| Generative Classifiers, Naive Bayes ([lecture](assets/lectures/07_naivebayes.pdf)) |PML 9.3-9.4 |
 |Thu Sep 14 |Nearest Neighbors, start of Kernels; Project discussion ([lecture](assets/lectures/08_nonparametric.pdf)) |PML 16.1, 16.3 |
-|Fri Sep 15|Section: Cross-Validation, Evaluation Metrics  [Bill] ([slides](assets/sections/section3.pdf){: .schedule-section}) | | 
+|Fri Sep 15|Section: Cross-Validation, Evaluation Metrics  [Bill] ([slides](assets/sections/section4.pdf){: .schedule-section}) | | 
 |Tue Sep 19 |Kernel methods continued ([lecture](assets/lectures/09_kernels.pdf)) |PML 4.3, 17.1, 17.3| **Homework 1 due** |
 |Thu Sep 21|Introduction to Neural Networks, Dropout, Early Stopping ([lecture](assets/lectures/10_neuralnets.pdf)) |PML 13.1-13.3 | Homework 2 released {{hw2 | strip_newlines}} |
 |Fri Sep 22| Section: Scikit-learn tutorial [Vishesh] ([colab](https://colab.research.google.com/drive/1EJ-E1QPGWHWpZU9eMXQuEqMkAhy0yai-?usp=sharing))  [](){: .schedule-section}| | 
