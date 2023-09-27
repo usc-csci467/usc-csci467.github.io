@@ -30,6 +30,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 * **[Final Project information](project)**
 
 **News:**   
+* Last year's midterm exam ([questions only](assets/exams/practice_midterm.pdf), [solutions](assets/exams/practice_midterm_solutions.pdf)) has been released as a practice midterm.
 * Homework 2 has been released {{hw2 | strip_newlines }}. It is due **Thursday, October 5**.
 
 Some problems in computer science admit precise algorithmic solutions.
