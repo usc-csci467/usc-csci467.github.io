@@ -132,8 +132,8 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Sep 21|Introduction to Neural Networks, Dropout, Early Stopping ([lecture](assets/lectures/10_neuralnets.pdf)) |PML 13.1-13.3 | Homework 2 released {{hw2 | strip_newlines}} |
 |Fri Sep 22| Section: Scikit-learn tutorial [Vishesh] ([colab](https://colab.research.google.com/drive/1EJ-E1QPGWHWpZU9eMXQuEqMkAhy0yai-?usp=sharing))  [](){: .schedule-section}| | 
 |Tue Sep 26|Backpropagation ([slides](assets/lectures/11_backprop.pdf); demo [part 1](assets/backprop/part1_forward_only.py), [part 2](assets/backprop/part2_trees.py), [part 3](assets/backprop/part3_dags.py)) |PML 13.4-13.5 | **Project Proposal due** |
-|Thu Sep 28|Convolutional Neural Networks |PML 14.1-14.2 |
-|Fri Sep 29|Section: Pytorch tutorial [](){: .schedule-section}| | 
+|Thu Sep 28|Convolutional Neural Networks ([slides](assets/lectures/12_convnets.pdf)) |PML 14.1-14.2 |
+|Fri Sep 29|Section: Pytorch tutorial [Soumya] [](){: .schedule-section}| | 
 |Tue Oct 3|Recurrent Neural Networks |PML 15.1-15.2 |
 |Thu Oct 5|Sequence-to-sequence, Attention |PML 15.1-15.2 | **Homework 2 due** |
 |Fri Oct 6 |Section: Midterm preparation [](){: .schedule-section}| | 
