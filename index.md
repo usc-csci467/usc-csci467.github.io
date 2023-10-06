@@ -136,7 +136,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Sep 28|Convolutional Neural Networks ([slides](assets/lectures/12_convnets.pdf)) |PML 14.1-14.2 |
 |Fri Sep 29|Section: Pytorch tutorial [Soumya] [](){: .schedule-section}| | 
 |Tue Oct 3|Recurrent Neural Networks ([slides](assets/lectures/13_rnns.pdf)) |PML 15.1-15.2 |
-|Thu Oct 5|Sequence-to-sequence, Attention ([slides](assets/lectures/14_attention.pdf)) |PML 15.1-15.2 | **Homework 2 due** |
+|Thu Oct 5|Sequence-to-sequence, Attention ([slides](assets/lectures/14_attention.pdf), [review](assets/lectures/14_review.pdf)) |PML 15.1-15.2 | **Homework 2 due** |
 |Fri Oct 6 |Section: Midterm preparation [](){: .schedule-section}| | 
 |Tue Oct 10 |**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Oct 12-13|No class or section (Fall break) [](){: .schedule-break}| |
