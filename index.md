@@ -140,10 +140,10 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Oct 6 |Section: Midterm preparation [](){: .schedule-section}| | 
 |Tue Oct 10 |**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Oct 12-13|No class or section (Fall break) [](){: .schedule-break}| |
-|Tue Oct 17 |Transformers, Pretraining |PML 15.4-15.7| |
-|Thu Oct 19 |Decision Trees, Ensembling |PML 18.1-18.5 |
+|Tue Oct 17 |Transformers I ([slides](assets/lectures/15_transformers.pdf)) |PML 15.4-15.7| |
+|Thu Oct 19 |Transformers II, Pretraining |PML 15.4-15.7 |
 |Fri Oct 20|Section: Midterm Exam Discussion [](){: .schedule-section}| | 
-|Tue Oct 24|k-Means Clustering, Start of Gaussian Mixture Models |PML 21.3 | Homework 3 released
+|Tue Oct 24|Decision Trees, k-Means Clustering |PML 18.1-18.5, 21.3 | Homework 3 released
 |Thu Oct 26|Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2| 
 |Fri Oct 27|Section: Optimization strategies for neural networks [](){: .schedule-section}| 
 |Tue Oct 31|Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 |**Project Midterm Report due** |
