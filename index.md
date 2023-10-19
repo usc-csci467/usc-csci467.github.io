@@ -141,7 +141,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Oct 10 |**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Oct 12-13|No class or section (Fall break) [](){: .schedule-break}| |
 |Tue Oct 17 |Transformers I ([slides](assets/lectures/15_transformers.pdf)) |PML 15.4-15.7| |
-|Thu Oct 19 |Transformers II, Pretraining |PML 15.4-15.7 |
+|Thu Oct 19 |Transformers II, Pretraining ([slides](assets/lectures/16_transformers2.pdf)) |PML 15.4-15.7 |
 |Fri Oct 20|Section: RNNs & backpropagation in pytorch [](){: .schedule-section}| | 
 |Tue Oct 24|Decision Trees, k-Means Clustering |PML 18.1-18.5, 21.3 | Homework 3 released
 |Thu Oct 26|Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2| 
