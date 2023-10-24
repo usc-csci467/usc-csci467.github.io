@@ -134,7 +134,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Sep 22| Section: Scikit-learn tutorial [Vishesh] ([colab](https://colab.research.google.com/drive/1EJ-E1QPGWHWpZU9eMXQuEqMkAhy0yai-?usp=sharing))  [](){: .schedule-section}| | 
 |Tue Sep 26|Backpropagation ([slides](assets/lectures/11_backprop.pdf); demo [part 1](assets/backprop/part1_forward_only.py), [part 2](assets/backprop/part2_trees.py), [part 3](assets/backprop/part3_dags.py)) |PML 13.4-13.5 | **Project Proposal due** |
 |Thu Sep 28|Convolutional Neural Networks ([slides](assets/lectures/12_convnets.pdf)) |PML 14.1-14.2 |
-|Fri Sep 29|Section: Pytorch tutorial [Soumya] [](){: .schedule-section}| | 
+|Fri Sep 29|Section: Pytorch tutorial [Soumya] ([colab](https://colab.research.google.com/drive/1qJspmUBaQIgXv93L3Bk3Jt5SIN4kEI7O?usp=sharing)) [](){: .schedule-section}| | 
 |Tue Oct 3|Recurrent Neural Networks ([slides](assets/lectures/13_rnns.pdf)) |PML 15.1-15.2 |
 |Thu Oct 5|Sequence-to-sequence, Attention ([slides](assets/lectures/14_attention.pdf), [review](assets/lectures/14_review.pdf)) |PML 15.1-15.2 | **Homework 2 due** |
 |Fri Oct 6 |Section: Midterm preparation [](){: .schedule-section}| | 
@@ -142,7 +142,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Oct 12-13|No class or section (Fall break) [](){: .schedule-break}| |
 |Tue Oct 17 |Transformers I ([slides](assets/lectures/15_transformers.pdf)) |PML 15.4-15.7| |
 |Thu Oct 19 |Transformers II, Pretraining ([slides](assets/lectures/16_transformers2.pdf)) |PML 15.4-15.7 |
-|Fri Oct 20|Section: RNNs & backpropagation in pytorch [](){: .schedule-section}| | 
+|Fri Oct 20|Section: RNNs & backpropagation in pytorch ([tutorial](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)) [](){: .schedule-section}| | 
 |Tue Oct 24|Decision Trees, k-Means Clustering |PML 18.1-18.5, 21.3 | Homework 3 released
 |Thu Oct 26|Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2| 
 |Fri Oct 27|Section: Optimization strategies for neural networks [](){: .schedule-section}| 
