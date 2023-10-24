@@ -143,13 +143,13 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Oct 17 |Transformers I ([slides](assets/lectures/15_transformers.pdf)) |PML 15.4-15.7| |
 |Thu Oct 19 |Transformers II, Pretraining ([slides](assets/lectures/16_transformers2.pdf)) |PML 15.4-15.7 |
 |Fri Oct 20|Section: RNNs & backpropagation in pytorch [](){: .schedule-section}| | 
-|Tue Oct 24|Decision Trees, k-Means Clustering |PML 18.1-18.5, 21.3 | Homework 3 released
-|Thu Oct 26|Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2| 
+|Tue Oct 24|Decision Trees, ensembles ([slides](assets/lectures/17_trees.pdf)) |PML 18.1-18.5 | Homework 3 released
+|Thu Oct 26|k-Means Clustering | PML 21.3|
 |Fri Oct 27|Section: Optimization strategies for neural networks [](){: .schedule-section}| 
-|Tue Oct 31|Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 |**Project Midterm Report due** |
-|Thu Nov 2 |Embedding models, Word Vectors |PML 20.5 |
+|Tue Oct 31|Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2|**Project Midterm Report due** |
+|Thu Nov 2 |Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 |
 |Fri Nov 3 |Section: Practical guide to pretrained language models [](){: .schedule-section}| | 
-|Tue Nov 7 |Multi-Armed Bandits | PML2 34.1-34.4 | 
+|Tue Nov 7 |Embedding models, Word Vectors |PML 20.5 |
 |Thu Nov 9|Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 | **Homework 3 due**|
 |Fri Nov 10|Section: Practical guide to computer vision models [](){: .schedule-section}| | 
 |Tue Nov 14|Q-Learning with Function Approximation, Policy Gradient |PML2 35.2-35.3 | Homework 4 released|
