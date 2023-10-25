@@ -30,8 +30,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 * **[Final Project information](project)**
 
 **News:**   
-* Last year's midterm exam ([questions only](assets/exams/practice_midterm.pdf), [solutions](assets/exams/practice_midterm_solutions.pdf)) has been released as a practice midterm.
-* Homework 2 has been released {{hw2 | strip_newlines }}. It is due **Thursday, October 5**.
+* Homework 3 has been released {{hw3 | strip_newlines }}. It is due **Thursday, November 9**.
 
 Some problems in computer science admit precise algorithmic solutions.
 Checking if someone is in a national park is, in some sense, straightforward:
@@ -143,7 +142,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Oct 17 |Transformers I ([slides](assets/lectures/15_transformers.pdf)) |PML 15.4-15.7| |
 |Thu Oct 19 |Transformers II, Pretraining ([slides](assets/lectures/16_transformers2.pdf)) |PML 15.4-15.7 |
 |Fri Oct 20|Section: RNNs & backpropagation in pytorch [Soumya] ([tutorial](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)) [](){: .schedule-section}| | 
-|Tue Oct 24|Decision Trees, ensembles ([slides](assets/lectures/17_trees.pdf)) |PML 18.1-18.5 | Homework 3 released
+|Tue Oct 24|Decision Trees, ensembles ([slides](assets/lectures/17_trees.pdf)) |PML 18.1-18.5 | Homework 3 released {{hw3 | strip_newlines}}
 |Thu Oct 26|k-Means Clustering | PML 21.3|
 |Fri Oct 27|Section: Optimization strategies for neural networks [](){: .schedule-section}| 
 |Tue Oct 31|Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2|**Project Midterm Report due** |
