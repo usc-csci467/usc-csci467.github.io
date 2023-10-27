@@ -30,7 +30,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 * **[Final Project information](project)**
 
 **News:**   
-* Homework 3 has been released {{hw3 | strip_newlines }}. It is due **Thursday, November 9**.
+* Homework 2 has been released {{hw2 | strip_newlines }}. It is due **Thursday, October 5**.
 
 Some problems in computer science admit precise algorithmic solutions.
 Checking if someone is in a national park is, in some sense, straightforward:
@@ -132,24 +132,24 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Sep 21|Introduction to Neural Networks, Dropout, Early Stopping ([lecture](assets/lectures/10_neuralnets.pdf)) |PML 13.1-13.3 | Homework 2 released {{hw2 | strip_newlines}} |
 |Fri Sep 22| Section: Scikit-learn tutorial [Vishesh] ([colab](https://colab.research.google.com/drive/1EJ-E1QPGWHWpZU9eMXQuEqMkAhy0yai-?usp=sharing))  [](){: .schedule-section}| | 
 |Tue Sep 26|Backpropagation ([slides](assets/lectures/11_backprop.pdf); demo [part 1](assets/backprop/part1_forward_only.py), [part 2](assets/backprop/part2_trees.py), [part 3](assets/backprop/part3_dags.py)) |PML 13.4-13.5 | **Project Proposal due** |
-|Thu Sep 28|Convolutional Neural Networks ([slides](assets/lectures/12_convnets.pdf)) |PML 14.1-14.2 |
-|Fri Sep 29|Section: Pytorch tutorial [Soumya] ([colab](https://colab.research.google.com/drive/1qJspmUBaQIgXv93L3Bk3Jt5SIN4kEI7O?usp=sharing)) [](){: .schedule-section}| | 
-|Tue Oct 3|Recurrent Neural Networks ([slides](assets/lectures/13_rnns.pdf)) |PML 15.1-15.2 |
-|Thu Oct 5|Sequence-to-sequence, Attention ([slides](assets/lectures/14_attention.pdf), [review](assets/lectures/14_review.pdf)) |PML 15.1-15.2 | **Homework 2 due** |
+|Thu Sep 28|Convolutional Neural Networks |PML 14.1-14.2 |
+|Fri Sep 29|Section: Pytorch tutorial [](){: .schedule-section}| | 
+|Tue Oct 3|Recurrent Neural Networks |PML 15.1-15.2 |
+|Thu Oct 5|Sequence-to-sequence, Attention |PML 15.1-15.2 | **Homework 2 due** |
 |Fri Oct 6 |Section: Midterm preparation [](){: .schedule-section}| | 
 |Tue Oct 10 |**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Oct 12-13|No class or section (Fall break) [](){: .schedule-break}| |
-|Tue Oct 17 |Transformers I ([slides](assets/lectures/15_transformers.pdf)) |PML 15.4-15.7| |
-|Thu Oct 19 |Transformers II, Pretraining ([slides](assets/lectures/16_transformers2.pdf)) |PML 15.4-15.7 |
-|Fri Oct 20|Section: RNNs & backpropagation in pytorch [Soumya] ([tutorial](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)) [](){: .schedule-section}| | 
-|Tue Oct 24|Decision Trees, ensembles ([slides](assets/lectures/17_trees.pdf)) |PML 18.1-18.5 | Homework 3 released {{hw3 | strip_newlines}}
-|Thu Oct 26|k-Means Clustering | PML 21.3|
+|Tue Oct 17 |Transformers, Pretraining |PML 15.4-15.7| |
+|Thu Oct 19 |Decision Trees, Ensembling |PML 18.1-18.5 |
+|Fri Oct 20|Section: Midterm Exam Discussion [](){: .schedule-section}| | 
+|Tue Oct 24|k-Means Clustering, Start of Gaussian Mixture Models |PML 21.3 | Homework 3 released
+|Thu Oct 26|Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2| 
 |Fri Oct 27|Section: Optimization strategies for neural networks [](){: .schedule-section}| 
-|Tue Oct 31|Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2|**Project Midterm Report due** |
-|Thu Nov 2 |Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 |
+|Tue Oct 31|Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 |**Project Midterm Report due** |
+|Thu Nov 2 |Embedding models, Word Vectors |PML 20.5 |
 |Fri Nov 3 |Section: Practical guide to pretrained language models [](){: .schedule-section}| | 
-|Tue Nov 7 |Embedding models, Word Vectors |PML 20.5 |
-|Thu Nov 9|Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 | **Homework 3 due**|
+|Tue Nov 7 |Multi-Armed Bandits | PML2 34.1-34.4 | **Homework 3 due**
+|Thu Nov 9|Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 | |
 |Fri Nov 10|Section: Practical guide to computer vision models [](){: .schedule-section}| | 
 |Tue Nov 14|Q-Learning with Function Approximation, Policy Gradient |PML2 35.2-35.3 | Homework 4 released|
 |Thu Nov 16|Robustness, Adversarial Examples, Spurious Correlations  |PML2 19.1-19.8 |
