@@ -144,7 +144,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Oct 20|Section: RNNs & backpropagation in pytorch [Soumya] ([tutorial](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)) [](){: .schedule-section}| | 
 |Tue Oct 24|Decision Trees, ensembles ([slides](assets/lectures/17_trees.pdf)) |PML 18.1-18.5 | Homework 3 released {{hw3 | strip_newlines}}
 |Thu Oct 26|k-Means Clustering ([lecture](assets/lectures/18_kmeans.pdf)) | PML 21.3|
-|Fri Oct 27|Section: Optimization strategies for neural networks [](){: .schedule-section}| 
+|Fri Oct 27|Section: Optimization strategies for neural networks [Bill] ([tutorial](https://docs.google.com/presentation/d/1eC7QRXejFUoxthSlbN5kM27NHuXoojjn_Xhp9QbMBS0/edit?usp=sharing)) [](){: .schedule-section}| | 
 |Tue Oct 31|Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2|**Project Midterm Report due** |
 |Thu Nov 2 |Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 |
 |Fri Nov 3 |Section: Practical guide to pretrained language models [](){: .schedule-section}| | 
