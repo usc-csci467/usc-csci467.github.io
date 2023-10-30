@@ -145,20 +145,20 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Oct 24|Decision Trees, ensembles ([slides](assets/lectures/17_trees.pdf)) |PML 18.1-18.5 | Homework 3 released {{hw3 | strip_newlines}}
 |Thu Oct 26|k-Means Clustering ([lecture](assets/lectures/18_kmeans.pdf)) | PML 21.3|
 |Fri Oct 27|Section: Optimization strategies for neural networks [Bill] ([tutorial](https://docs.google.com/presentation/d/1eC7QRXejFUoxthSlbN5kM27NHuXoojjn_Xhp9QbMBS0/edit?usp=sharing)) [](){: .schedule-section}| | 
-|Tue Oct 31|Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2|**Project Midterm Report due** |
+|Tue Oct 31|Gaussian Mixture Models, Expectation Maximization ([lecture](assets/lectures/19_gmm.pdf)) | PML 21.4, PML2 8.1-8.2|**Project Midterm Report due** |
 |Thu Nov 2 |Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 |
 |Fri Nov 3 |Section: Practical guide to pretrained language models [](){: .schedule-section}| | 
 |Tue Nov 7 |Embedding models, Word Vectors |PML 20.5 |
 |Thu Nov 9|Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 | **Homework 3 due**|
-|Fri Nov 10|Section: Practical guide to computer vision models [](){: .schedule-section}| | 
+|Fri Nov 10|No section (Veteran's Day) [](){: .schedule-break}| | 
 |Tue Nov 14|Q-Learning with Function Approximation, Policy Gradient |PML2 35.2-35.3 | Homework 4 released|
 |Thu Nov 16|Robustness, Adversarial Examples, Spurious Correlations  |PML2 19.1-19.8 |
-|Fri Nov 17|Section: Final Exam preparation [](){: .schedule-section}| | 
+|Fri Nov 17|Section: Practical guide to computer vision models [](){: .schedule-section}| | 
 |Tue Nov 21|Fairness in Machine Learning | FAML 1-4 | 
 |Nov 23-24|No class or section (Thanksgiving) [](){: .schedule-break}| |
 |Tue Nov 28|How does ChatGPT work?  | 
 |Thu Nov 30|Conclusion | | **Homework 4 due** |
-|Fri Nov 31|No section (End of class) [](){: .schedule-break}| | 
+|Fri Nov 31|Section: Final Exam preparation [](){: .schedule-section}| | 
 |Thu Dec 7|**Final Exam, 2-4pm** [](){:.schedule-exam} | | **Project Final Report due Dec 12**|
 {: .schedule #schedule-table}
 
