@@ -135,12 +135,12 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Sep 28|Convolutional Neural Networks ([slides](assets/lectures/12_convnets.pdf)) |PML 14.1-14.2 |
 |Fri Sep 29|Section: Pytorch tutorial [Soumya] ([colab](https://colab.research.google.com/drive/1qJspmUBaQIgXv93L3Bk3Jt5SIN4kEI7O?usp=sharing)) [](){: .schedule-section}| | 
 |Tue Oct 3|Recurrent Neural Networks ([slides](assets/lectures/13_rnns.pdf)) |PML 15.1-15.2 |
-|Thu Oct 5|Sequence-to-sequence, Attention ([slides](assets/lectures/14_attention.pdf), [review](assets/lectures/14_review.pdf)) |PML 15.1-15.2 | **Homework 2 due** |
+|Thu Oct 5|Sequence-to-sequence, Attention ([slides](assets/lectures/14_attention.pdf), [review](assets/lectures/14_review.pdf)) |PML 15.4 | **Homework 2 due** |
 |Fri Oct 6 |Section: Midterm preparation [](){: .schedule-section}| | 
 |Tue Oct 10 |**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Oct 12-13|No class or section (Fall break) [](){: .schedule-break}| |
-|Tue Oct 17 |Transformers I ([slides](assets/lectures/15_transformers.pdf)) |PML 15.4-15.7| |
-|Thu Oct 19 |Transformers II, Pretraining ([slides](assets/lectures/16_transformers2.pdf)) |PML 15.4-15.7 |
+|Tue Oct 17 |Transformers I ([slides](assets/lectures/15_transformers.pdf)) |PML 15.5-15.6| |
+|Thu Oct 19 |Transformers II, Pretraining ([slides](assets/lectures/16_transformers2.pdf)) |PML 15.7 |
 |Fri Oct 20|Section: RNNs & backpropagation in pytorch [Soumya] ([tutorial](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)) [](){: .schedule-section}| | 
 |Tue Oct 24|Decision Trees, ensembles ([slides](assets/lectures/17_trees.pdf)) |PML 18.1-18.5 | Homework 3 released {{hw3 | strip_newlines}}
 |Thu Oct 26|k-Means Clustering ([lecture](assets/lectures/18_kmeans.pdf)) | PML 21.3|
@@ -148,7 +148,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Oct 31|Gaussian Mixture Models, Expectation Maximization ([lecture](assets/lectures/19_gmm.pdf)) | PML 21.4, PML2 8.1-8.2|**Project Midterm Report due** |
 |Thu Nov 2 |Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 |
 |Fri Nov 3 |Section: Practical guide to pretrained language models [](){: .schedule-section}| | 
-|Tue Nov 7 |Embedding models, Word Vectors |PML 20.5 |
+|Tue Nov 7 |Embedding models, Word Vectors ([wordvec slides](assets/lectures/21_wordvec.pdf))  |PML 20.5 |
 |Thu Nov 9|Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 | **Homework 3 due**|
 |Fri Nov 10|No section (Veteran's Day) [](){: .schedule-break}| | 
 |Tue Nov 14|Q-Learning with Function Approximation, Policy Gradient |PML2 35.2-35.3 | Homework 4 released|
