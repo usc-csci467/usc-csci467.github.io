@@ -146,7 +146,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Oct 26|k-Means Clustering ([lecture](assets/lectures/18_kmeans.pdf)) | PML 21.3|
 |Fri Oct 27|Section: Optimization strategies for neural networks [Bill] ([tutorial](https://docs.google.com/presentation/d/1eC7QRXejFUoxthSlbN5kM27NHuXoojjn_Xhp9QbMBS0/edit?usp=sharing)) [](){: .schedule-section}| | 
 |Tue Oct 31|Gaussian Mixture Models, Expectation Maximization ([lecture](assets/lectures/19_gmm.pdf)) | PML 21.4, PML2 8.1-8.2|**Project Midterm Report due** |
-|Thu Nov 2 |Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 |
+|Thu Nov 2 |Dimensionality Reduction, Principal Component Analysis ([lecture](assets/lectures/20_em.pdf)) |PML 20.1, 20.4 |
 |Fri Nov 3 |Section: Practical guide to pretrained language models [](){: .schedule-section}| | 
 |Tue Nov 7 |Embedding models, Word Vectors ([wordvec slides](assets/lectures/21_wordvec.pdf))  |PML 20.5 |
 |Thu Nov 9|Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 | **Homework 3 due**|
