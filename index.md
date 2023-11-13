@@ -149,7 +149,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Nov 2 |Dimensionality Reduction, Principal Component Analysis ([lecture](assets/lectures/20_em.pdf)) |PML 20.1, 20.4 |
 |Fri Nov 3 |Section: Practical guide to pretrained language models [](){: .schedule-section}| | 
 |Tue Nov 7 |Embedding models, Word Vectors ([wordvec slides](assets/lectures/21_wordvec.pdf))  |PML 20.5 |
-|Thu Nov 9|Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 | **Homework 3 due**|
+|Thu Nov 9|Markov Decision Processes, Reinforcement Learning ([lecture](assets/lectures/22_rl1.pdf)) |PML2 34.5-34.6, 35.1, 35.4 | **Homework 3 due**|
 |Fri Nov 10|No section (Veteran's Day) [](){: .schedule-break}| | 
 |Tue Nov 14|Q-Learning with Function Approximation, Policy Gradient |PML2 35.2-35.3 | Homework 4 released|
 |Thu Nov 16|Robustness, Adversarial Examples, Spurious Correlations  |PML2 19.1-19.8 |
