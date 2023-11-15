@@ -30,7 +30,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 * **[Final Project information](project)**
 
 **News:**   
-* Homework 3 has been released {{hw3 | strip_newlines }}. It is due **Thursday, November 9**.
+* Homework 4 has been released {{hw4 | strip_newlines }}. It is due **Thursday, November 30**.
 
 Some problems in computer science admit precise algorithmic solutions.
 Checking if someone is in a national park is, in some sense, straightforward:
@@ -151,7 +151,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Nov 7 |Embedding models, Word Vectors ([wordvec slides](assets/lectures/21_wordvec.pdf))  |PML 20.5 |
 |Thu Nov 9|Markov Decision Processes, Reinforcement Learning ([lecture](assets/lectures/22_rl1.pdf)) |PML2 34.5-34.6, 35.1, 35.4 | **Homework 3 due**|
 |Fri Nov 10|No section (Veteran's Day) [](){: .schedule-break}| | 
-|Tue Nov 14|Q-Learning with Function Approximation, Policy Gradient |PML2 35.2-35.3 | Homework 4 released|
+|Tue Nov 14|Q-Learning with Function Approximation, Policy Gradient |PML2 35.2-35.3 | Homework 4 released {{hw4 | strip_newlines}} |
 |Thu Nov 16|Robustness, Adversarial Examples, Spurious Correlations  |PML2 19.1-19.8 |
 |Fri Nov 17|Section: Practical guide to computer vision models [](){: .schedule-section}| | 
 |Tue Nov 21|Fairness in Machine Learning | FAML 1-4 | 
