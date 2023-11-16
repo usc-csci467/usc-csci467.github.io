@@ -151,10 +151,10 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Nov 7 |Embedding models, Word Vectors ([wordvec slides](assets/lectures/21_wordvec.pdf))  |PML 20.5 |
 |Thu Nov 9|Markov Decision Processes, Reinforcement Learning ([lecture](assets/lectures/22_rl1.pdf)) |PML2 34.5-34.6, 35.1, 35.4 | **Homework 3 due**|
 |Fri Nov 10|No section (Veteran's Day) [](){: .schedule-break}| | 
-|Tue Nov 14|Q-Learning with Function Approximation, Policy Gradient |PML2 35.2-35.3 | Homework 4 released {{hw4 | strip_newlines}} |
-|Thu Nov 16|Robustness, Adversarial Examples, Spurious Correlations  |PML2 19.1-19.8 |
+|Tue Nov 14|Q-Learning ([lecture](assets/lectures/23_rl2.pdf)) |PML2 35.2-35.3 | Homework 4 released {{hw4 | strip_newlines}} |
+|Thu Nov 16|Policy Gradient, Robustness, Adversarial Examples |PML2 19.1-19.8 |
 |Fri Nov 17|Section: Practical guide to computer vision models [](){: .schedule-section}| | 
-|Tue Nov 21|Fairness in Machine Learning | FAML 1-4 | 
+|Tue Nov 21|Spurious Correlations, Fairness in Machine Learning | FAML 1-4 | 
 |Nov 23-24|No class or section (Thanksgiving) [](){: .schedule-break}| |
 |Tue Nov 28|How does ChatGPT work?  | 
 |Thu Nov 30|Conclusion | | **Homework 4 due** |
