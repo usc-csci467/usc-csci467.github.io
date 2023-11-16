@@ -152,7 +152,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Nov 9|Markov Decision Processes, Reinforcement Learning ([lecture](assets/lectures/22_rl1.pdf)) |PML2 34.5-34.6, 35.1, 35.4 | **Homework 3 due**|
 |Fri Nov 10|No section (Veteran's Day) [](){: .schedule-break}| | 
 |Tue Nov 14|Q-Learning ([lecture](assets/lectures/23_rl2.pdf)) |PML2 35.2-35.3 | Homework 4 released {{hw4 | strip_newlines}} |
-|Thu Nov 16|Policy Gradient, Robustness, Adversarial Examples |PML2 19.1-19.8 |
+|Thu Nov 16|Policy Gradient, Robustness, Adversarial Examples ([adversarial slides](assets/lectures/24_adversarial.pdf)) |PML2 19.1-19.8 |
 |Fri Nov 17|Section: Practical guide to computer vision models [](){: .schedule-section}| | 
 |Tue Nov 21|Spurious Correlations, Fairness in Machine Learning | FAML 1-4 | 
 |Nov 23-24|No class or section (Thanksgiving) [](){: .schedule-break}| |
