@@ -153,7 +153,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Nov 10|No section (Veteran's Day) [](){: .schedule-break}| | 
 |Tue Nov 14|Q-Learning ([lecture](assets/lectures/23_rl2.pdf)) |PML2 35.2-35.3 | Homework 4 released {{hw4 | strip_newlines}} |
 |Thu Nov 16|Policy Gradient, Robustness, Adversarial Examples ([policy gradient lecture](assets/lectures/24_policygrad.pdf), [adversarial slides](assets/lectures/24_adversarial.pdf)) |PML2 19.1-19.8 |
-|Fri Nov 17|Section: Practical guide to computer vision models [Vishesh] ([tutorial](https://colab.research.google.com/drive/1FUjO0tYUz_n5YKuTLwrxFiZMUAy7M9UX?usp=sharing)) [](){: .schedule-section}| | 
+|Fri Nov 17|Section: Practical guide to computer vision models [Vishesh] ([tutorial](https://colab.research.google.com/drive/1FUjO0tYUz_n5YKuTLwrxFiZMUAy7M9UX?usp=sharing)) ([slides] (https://docs.google.com/presentation/d/1dlvPa_MPIS4OQT1yMpVWOkYHuQ8gWaje_pKo5MQfJ_4/edit#slide=id.p)) [](){: .schedule-section}| | 
 |Tue Nov 21|Spurious Correlations, Fairness in Machine Learning | FAML 1-4 | 
 |Nov 23-24|No class or section (Thanksgiving) [](){: .schedule-break}| |
 |Tue Nov 28|How does ChatGPT work?  | 
