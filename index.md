@@ -31,6 +31,8 @@ Source: [xkcd](https://xkcd.com/1425/)
 
 **News:**   
 * Homework 4 has been released {{hw4 | strip_newlines }}. It is due **Thursday, November 30**.
+* I have released a [practice final exam](assets/exams/practice_final.pdf) with [solutions](assets/exams/practice_final_solutions.pdf).
+* The final exam will be **Thursday, December 7 from 2-4pm in SLH 200**.
 
 Some problems in computer science admit precise algorithmic solutions.
 Checking if someone is in a national park is, in some sense, straightforward:
