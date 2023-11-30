@@ -159,7 +159,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Nov 21|Spurious Correlations, Fairness in Machine Learning ([slides](assets/lectures/25_fairness.pdf)) | FAML 1-4 | 
 |Nov 23-24|No class or section (Thanksgiving) [](){: .schedule-break}| |
 |Tue Nov 28|How does ChatGPT work? ([slides](assets/lectures/26_chatgpt.pdf)) | 
-|Thu Nov 30|Conclusion | | **Homework 4 due** |
+|Thu Nov 30|Conclusion ([slides](assets/lectures/27_conclusion.pdf)) | | **Homework 4 due** |
 |Fri Nov 31|Section: Final Exam preparation [](){: .schedule-section}| | 
 |Thu Dec 7|**Final Exam, 2-4pm** [](){:.schedule-exam} | | **Project Final Report due Dec 12**|
 {: .schedule #schedule-table}
