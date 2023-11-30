@@ -150,7 +150,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Oct 31|Gaussian Mixture Models, Expectation Maximization ([lecture](assets/lectures/19_gmm.pdf)) | PML 21.4, PML2 8.1-8.2|**Project Midterm Report due** |
 |Thu Nov 2 |Dimensionality Reduction, Principal Component Analysis ([lecture](assets/lectures/20_em.pdf)) |PML 20.1, 20.4 |
 |Fri Nov 3 |Section: Practical guide to pretrained language models [](){: .schedule-section}| | 
-|Tue Nov 7 |Embedding models, Word Vectors ([wordvec slides](assets/lectures/21_wordvec.pdf))  |PML 20.5 |
+|Tue Nov 7 |Embedding models, Word Vectors ([pca part 2](assets/lectures/21_pca.pdf), [wordvec slides](assets/lectures/21_wordvec.pdf))  |PML 20.5 |
 |Thu Nov 9|Markov Decision Processes, Reinforcement Learning ([lecture](assets/lectures/22_rl1.pdf)) |PML2 34.5-34.6, 35.1, 35.4 | **Homework 3 due**|
 |Fri Nov 10|No section (Veteran's Day) [](){: .schedule-break}| | 
 |Tue Nov 14|Q-Learning ([lecture](assets/lectures/23_rl2.pdf)) |PML2 35.2-35.3 | Homework 4 released {{hw4 | strip_newlines}} |
