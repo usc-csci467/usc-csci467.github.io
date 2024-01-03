@@ -1,1 +1,5 @@
-(<a href="assets/hw{{include.num}}.pdf">pdf</a>, <a href="assets/hw{{include.num}}.zip">code</a>)
+{% if include.sem %}
+(<a href="/assets/{{include.sem}}/hw{{include.num}}.pdf">pdf</a>, <a href="/assets/{{include.sem}}/hw{{include.num}}.zip">code</a>)
+{% else %}
+(<a href="/assets/hw{{include.num}}.pdf">pdf</a>, <a href="/assets/hw{{include.num}}.zip">code</a>)
+{% endif %}
