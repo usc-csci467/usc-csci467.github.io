@@ -1,12 +1,12 @@
 ---
 layout: class
 title: "CSCI 467: Introduction to Machine Learning"
-semester: Fall 2023
-time: Tuesdays and Thursdays at 2:00-3:20pm
-location: LVL 17
-location_link: "https://maps.usc.edu/?id=1928&reference=LVL"
-section_time: Fridays at 2:00-2:50pm
-section_location: DMC 100
+semester: Spring 2024
+time: Tuesdays and Thursdays at 3:30-4:50pm
+location: DMC 100
+location_link: "https://maps.usc.edu/?id=1928&reference=DMC"
+section_time: Fridays at 3:00-3:50pm
+section_location: DMC 102
 section_location_link: "https://maps.usc.edu/?id=1928&reference=DMC"
 instructor: Robin Jia
 order: 1
@@ -26,13 +26,12 @@ Source: [xkcd](https://xkcd.com/1425/)
 
 
 **Quick Links:**
-* **[Lecture Notes](assets/notes.pdf)** (will be continuously updated throughout the semester)
-* **[Final Project information](project)**
+* **[Lecture Notes](assets/notes.pdf)**
+{::comment}* **[Final Project information](project){:/}
 
 **News:**   
-* Homework 4 has been released {{hw4 | strip_newlines }}. It is due **Thursday, November 30**.
-* I have released a [practice final exam](assets/exams/practice_final.pdf) with [solutions](assets/exams/practice_final_solutions.pdf).
-* The final exam will be **Thursday, December 7 from 2-4pm in SLH 200**.
+* The first day of class is **January 9, 2024**!
+* If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
 Some problems in computer science admit precise algorithmic solutions.
 Checking if someone is in a national park is, in some sense, straightforward:
@@ -66,13 +65,13 @@ Finally, we will cover **reinforcement learning,** in which an agent (e.g., a ro
 Instructor
 </div>
 <div class="staff-photo" markdown=1>
-![Soumya Sanyal](/assets/images/soumya.jpg)  
-**Soumya Sanyal**  
+![Ameya Godbole](//ameyagodbole.github.io/author/ameya-godbole/avatar_hu9afa71fa26308691f7ae3d1b2e56b92b_138836_270x270_fill_q90_lanczos_center.jpg)  
+**Ameya Godbole**  
 Teaching Assistant
 </div>
 <div class="staff-photo" markdown=1>
-![Wang (Bill) Zhu](//billzhu.me/author/admin/avatar_hu42410483742cac5c8006d54d4d8d8fd3_63927_250x250_fill_q90_lanczos_center.jpg)  
-**Wang (Bill) Zhu**  
+![Soumya Sanyal](/assets/images/soumya.jpg)  
+**Soumya Sanyal**  
 Teaching Assistant
 </div>
 <div class="staff-photo" markdown=1>
@@ -97,11 +96,13 @@ Course Producer
 </div>
 
 ## Logistics
-* **Office hours**: See [calendar](https://calendar.google.com/calendar/embed?src=c_86e4982ab98a1b157f078d62c4489999c4833f08ae66003b169896dd26cca926%40group.calendar.google.com&ctz=America%2FLos_Angeles).
-* **Assignments**: Assignments should be submitted through [Gradescope](https://www.gradescope.com/courses/577750). Feedback will also be provided on Gradescope. All enrolled students should be in Gradescope automatically--let me know if you are not!
+* **Office hours and drop-in peer mentoring**: See [calendar](https://calendar.google.com/calendar/embed?src=c_86e4982ab98a1b157f078d62c4489999c4833f08ae66003b169896dd26cca926%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+The instructor and TA's will have regular office hours every week.
+Course producers will have drop-in peer mentoring sessions before each assignment is due.
+* **Assignments**: Assignments should be submitted through [Gradescope](https://www.gradescope.com/courses/697428). Feedback will also be provided on Gradescope. All enrolled students should be in Gradescope automatically--let me know if you are not!
 You should submit both your PDF writeup and your code on Gradescope; there will be separate assignments for each.
 * **Discussions**: We will be using Piazza for general course-related questions and announcements. 
-All enrolled students were added at the beginning of the semester; you can also use this [sign-up link](https://piazza.com/usc/fall2023/csci467).
+All enrolled students were added at the beginning of the semester; you can also use this [sign-up link](https://piazza.com/usc/spring2024/csci467).
 If you have an individual matter to discuss, email me directly (please put "CSCI 467" in the subject line) or come to my office hours. For grading questions, go to the office hours of the person who graded the problem in question.
 
 ## Prerequisites
@@ -112,56 +113,61 @@ If you have an individual matter to discuss, email me directly (please put "CSCI
 This class will also use some basic multivariate calculus (taking partial derivatives and gradients).
 However, knowledge of single-variable calculus is sufficient as we will introduce the required material during class and section. 
 
+All programming assignments will be in Python.
+Basics of Python will be covered in discussion sections.
+Students who are not familiar with Python may need to spend some time becoming more familiar with it as needed.
 
 ## Schedule
 All assignments are due by **11:59pm** on the indicated date.
 
 |Date|Topic|Related Readings|Assignments|
 |--|--|--|--|
-|Tue Aug 22|Introduction ([slides](assets/lectures/01_intro.pdf)) |PML 1| Homework 0 released {{ hw0 | strip_newlines }}
-|Thu Aug 24|Linear Regression ([lecture](assets/lectures/02_linreg.pdf), [demo](https://colab.research.google.com/drive/11hdXd0C7GGrxpJlC-PV6eImcWJ3Bk_Q2?usp=sharing)) |PML 7.8, 8.2|
-|Fri Aug 25|Section: Probability, Linear Algebra, & Calculus Review [Soumya] ([handout](https://hackmd.io/@charlotteTYC/prerequisites){: .schedule-section}, [notes](assets/sections/section1_notes.pdf)) | |
-|Tue Aug 29|Featurization, Convexity, Maximum Likelihood Estimation ([lecture](assets/lectures/03_linreg2.pdf)) |PML 2.6.3, 4.2, 8.1 ||
-|Thu Aug 31|Logistic Regression, Softmax Regression ([lecture](assets/lectures/04_logreg.pdf)) |PML 10.1-10.3| **Homework 0 due** |
-|Fri Sep 1|Section: Python & numpy tutorial [Bill] ([colab](https://colab.research.google.com/drive/1Qe_HXHHD2KyvOZbbXyl-ly2zSmD_qucp?usp=sharing){: .schedule-section}) | | 
-|Tue Sep 5|Overfitting, Regularization ([lecture](assets/lectures/05_overfitting.pdf)) |PML 4.5, 4.7, 11.3-11.4 |
-|Thu Sep 7|Bias and Variance, Normal Equations ([lecture](assets/lectures/06_biasvariance.pdf)) | PML 11.2| Homework 1 released {{hw1 | strip_newlines }}
-|Fri Sep 8|Section: Probability review continued, taking gradients [Soumya] ([notes](assets/sections/section3_notes.pdf){: .schedule-section})| |
-|Tue Sep 12| Generative Classifiers, Naive Bayes ([lecture](assets/lectures/07_naivebayes.pdf)) |PML 9.3-9.4 |
-|Thu Sep 14 |Nearest Neighbors, start of Kernels; Project discussion ([lecture](assets/lectures/08_nonparametric.pdf)) |PML 16.1, 16.3 |
-|Fri Sep 15|Section: Cross-Validation, Evaluation Metrics  [Bill] ([slides](assets/sections/section4.pdf){: .schedule-section}) | | 
-|Tue Sep 19 |Kernel methods continued ([lecture](assets/lectures/09_kernels.pdf)) |PML 4.3, 17.1, 17.3| **Homework 1 due** |
-|Thu Sep 21|Introduction to Neural Networks, Dropout, Early Stopping ([lecture](assets/lectures/10_neuralnets.pdf)) |PML 13.1-13.3 | Homework 2 released {{hw2 | strip_newlines}} |
-|Fri Sep 22| Section: Scikit-learn tutorial [Vishesh] ([colab](https://colab.research.google.com/drive/1EJ-E1QPGWHWpZU9eMXQuEqMkAhy0yai-?usp=sharing))  [](){: .schedule-section}| | 
-|Tue Sep 26|Backpropagation ([slides](assets/lectures/11_backprop.pdf); demo [part 1](assets/backprop/part1_forward_only.py), [part 2](assets/backprop/part2_trees.py), [part 3](assets/backprop/part3_dags.py)) |PML 13.4-13.5 | **Project Proposal due** |
-|Thu Sep 28|Convolutional Neural Networks ([slides](assets/lectures/12_convnets.pdf)) |PML 14.1-14.2 |
-|Fri Sep 29|Section: Pytorch tutorial [Soumya] ([colab](https://colab.research.google.com/drive/1qJspmUBaQIgXv93L3Bk3Jt5SIN4kEI7O?usp=sharing)) [](){: .schedule-section}| | 
-|Tue Oct 3|Recurrent Neural Networks ([slides](assets/lectures/13_rnns.pdf)) |PML 15.1-15.2 |
-|Thu Oct 5|Sequence-to-sequence, Attention ([slides](assets/lectures/14_attention.pdf), [review](assets/lectures/14_review.pdf)) |PML 15.4 | **Homework 2 due** |
-|Fri Oct 6 |Section: Midterm preparation [](){: .schedule-section}| | 
-|Tue Oct 10 |**In-class Midterm Exam** [](){: .schedule-exam} | | 
-|Oct 12-13|No class or section (Fall break) [](){: .schedule-break}| |
-|Tue Oct 17 |Transformers I ([slides](assets/lectures/15_transformers.pdf)) |PML 15.5-15.6| |
-|Thu Oct 19 |Transformers II, Pretraining ([slides](assets/lectures/16_transformers2.pdf)) |PML 15.7 |
-|Fri Oct 20|Section: RNNs & backpropagation in pytorch [Soumya] ([tutorial](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)) [](){: .schedule-section}| | 
-|Tue Oct 24|Decision Trees, ensembles ([slides](assets/lectures/17_trees.pdf)) |PML 18.1-18.5 | Homework 3 released {{hw3 | strip_newlines}}
-|Thu Oct 26|k-Means Clustering ([lecture](assets/lectures/18_kmeans.pdf)) | PML 21.3|
-|Fri Oct 27|Section: Optimization strategies for neural networks [Bill] ([tutorial](https://docs.google.com/presentation/d/1eC7QRXejFUoxthSlbN5kM27NHuXoojjn_Xhp9QbMBS0/edit?usp=sharing)) [](){: .schedule-section}| | 
-|Tue Oct 31|Gaussian Mixture Models, Expectation Maximization ([lecture](assets/lectures/19_gmm.pdf)) | PML 21.4, PML2 8.1-8.2|**Project Midterm Report due** |
-|Thu Nov 2 |Dimensionality Reduction, Principal Component Analysis ([lecture](assets/lectures/20_em.pdf)) |PML 20.1, 20.4 |
-|Fri Nov 3 |Section: Practical guide to pretrained language models [](){: .schedule-section}| | 
-|Tue Nov 7 |Embedding models, Word Vectors ([pca part 2](assets/lectures/21_pca.pdf), [wordvec slides](assets/lectures/21_wordvec.pdf))  |PML 20.5 |
-|Thu Nov 9|Markov Decision Processes, Reinforcement Learning ([lecture](assets/lectures/22_rl1.pdf)) |PML2 34.5-34.6, 35.1, 35.4 | **Homework 3 due**|
-|Fri Nov 10|No section (Veteran's Day) [](){: .schedule-break}| | 
-|Tue Nov 14|Q-Learning ([lecture](assets/lectures/23_rl2.pdf)) |PML2 35.2-35.3 | Homework 4 released {{hw4 | strip_newlines}} |
-|Thu Nov 16|Policy Gradient, Robustness, Adversarial Examples ([policy gradient lecture](assets/lectures/24_policygrad.pdf), [adversarial slides](assets/lectures/24_adversarial.pdf)) |PML2 19.1-19.8 |
-|Fri Nov 17|Section: Practical guide to computer vision models [Vishesh] ([tutorial](https://colab.research.google.com/drive/1FUjO0tYUz_n5YKuTLwrxFiZMUAy7M9UX?usp=sharing)) ([slides](https://docs.google.com/presentation/d/1dlvPa_MPIS4OQT1yMpVWOkYHuQ8gWaje_pKo5MQfJ_4/edit#slide=id.p)) [](){: .schedule-section}| | 
-|Tue Nov 21|Spurious Correlations, Fairness in Machine Learning ([slides](assets/lectures/25_fairness.pdf)) | FAML 1-4 | 
-|Nov 23-24|No class or section (Thanksgiving) [](){: .schedule-break}| |
-|Tue Nov 28|How does ChatGPT work? ([slides](assets/lectures/26_chatgpt.pdf)) | 
-|Thu Nov 30|Conclusion ([slides](assets/lectures/27_conclusion.pdf)) | | **Homework 4 due** |
-|Fri Nov 31|Section: Final Exam preparation [](){: .schedule-section}| | 
-|Thu Dec 7|**Final Exam, 2-4pm** [](){:.schedule-exam} | | **Project Final Report due Dec 12**|
+|Tue Jan 9|Introduction |PML 1| Homework 0 released
+|Thu Jan 11|Linear Regression |PML 7.8, 8.2|
+|Fri Jan 12|Section: Review of Probability & Linear Algebra [](){: .schedule-section} | |
+|Tue Jan 16|Featurization, Convexity, Maximum Likelihood Estimation |PML 2.6.3, 4.2, 8.1 ||
+|Thu Jan 18|Logistic Regression, Softmax Regression |PML 10.1-10.3| **Homework 0 due** |
+|Fri Jan 19|Section: Python & numpy tutorial [](){: .schedule-section} | | 
+|Tue Jan 23|Overfitting, Regularization |PML 4.5, 4.7, 11.3-11.4 |
+|Thu Jan 25|Bias and Variance, Normal Equations | PML 11.2| Homework 1 released 
+|Fri Jan 26|Section: Calculus and Gradients [](){: .schedule-section}| |
+|Tue Jan 30| Generative Classifiers, Naive Bayes |PML 9.3-9.4 |
+|Thu Feb 1 |Nearest Neighbors, start of Kernels; Project discussion |PML 16.1, 16.3 |
+|Fri Feb 2 |Section: Cross-Validation, Evaluation Metrics  [](){: .schedule-section} | | 
+|Tue Feb 6 |Kernel methods continued |PML 4.3, 17.1, 17.3| **Homework 1 due** |
+|Thu Feb 8 |Introduction to Neural Networks |PML 13.1-13.3 | Homework 2 released |
+|Fri Feb 9 |Section: Scikit-learn tutorial [](){: .schedule-section}| | 
+|Tue Feb 13|Backpropagation |PML 13.4-13.5 | **Project Proposal due** |
+|Thu Feb 15|Neural Network Optimizers, Dropout, Early Stopping| PML 8.4, 13.4-13.5|
+|Fri Feb 16|Section: Pytorch tutorial [](){: .schedule-section}| | 
+|Tue Feb 20|Convolutional Neural Networks |PML 14.1-14.2 |
+|Thu Feb 22|Embedding models, Word Vectors|PML 20.5|
+|Fri Feb 23|Section: TBD [](){: .schedule-section}| | 
+|Tue Feb 27|Recurrent Neural Networks |PML 15.1-15.2 |
+|Thu Feb 29|Sequence-to-sequence, Attention |PML 15.4 | **Homework 2 due** |
+|Fri Mar 1 |Section: Midterm preparation [](){: .schedule-section}| | 
+|Tue Mar 5 |Decision Trees, ensembles |PML 18.1-18.5 | 
+|Thu Mar 7 |**In-class Midterm Exam** [](){: .schedule-exam} | | 
+|Mar 8-15  |No class or section (Spring break) [](){: .schedule-break}| |
+|Tue Mar 19|Transformers I |PML 15.5-15.6| |
+|Thu Mar 21|Transformers II, Pretraining |PML 15.7 |
+|Fri Mar 22|Section: RNNs and backpropagation in pytorch [](){: .schedule-section}| | 
+|Tue Mar 26|k-Means Clustering | PML 21.3|**Project Midterm Report due** |
+|Thu Mar 28|Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2|
+|Fri Mar 29|Section: TBD [](){: .schedule-section}| 
+|Tue Apr 2 |Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 |
+|Thu Apr 4 |Multi-armed Bandits |PML2 34.1-34.4 |**Homework 3 due**|
+|Fri Apr 5 |Section: Practical guide to pretrained language models [](){: .schedule-section}| | 
+|Tue Apr 9 |Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 | 
+|Thu Apr 11|Q-Learning |PML2 35.2-35.3 | Homework 4 released |
+|Fri Apr 12|Section: Practical guide to computer vision models [](){: .schedule-section}| | 
+|Tue Apr 16|Policy Gradient; Adversarial Examples |PML2 19.1-19.8 |
+|Thu Apr 18|Spurious Correlations, Fairness in Machine Learning | FAML 1-4 | 
+|Fri Apr 19|Section: TBD [](){: .schedule-section}| 
+|Tue Apr 23|How does ChatGPT work? | 
+|Thu Apr 25|Conclusion | | **Homework 4 due** |
+|Fri Apr 26|Section: Final Exam preparation [](){: .schedule-section}| | 
+|Thu May 7|**Final Exam, 2-4pm** [](){:.schedule-exam} | | **Project Final Report due Friday, May 3**|
 {: .schedule #schedule-table}
 
 ## Grading
@@ -196,10 +202,11 @@ We will **not accept any assignments more than 3 days late.**
 The final project can be done individually or in groups of up to 3.
 This is your chance to freely explore machine learning methods and how they can be applied to a task of our choice.
 You will also learn about best practices for developing machine learning methods---inspecting your data, establishing baselines, and analyzing your errors.
-More information about the final project is available [here](project).
+More information will be released soon.
+{::comment}More information about the final project is available [here](project).{:/}
 
 ## Resources
-This semester, I am writing **[Lecture Notes](assets/notes.pdf)** that accompany all the iPad lectures.
+I have written **[Lecture Notes](assets/notes.pdf)** that accompany all the iPad lectures.
 I recommend using these notes as reference material for studying.
 There is no required textbook for this class.
 If you do want to learn from a textbook, the following may be useful:
@@ -209,9 +216,16 @@ If you do want to learn from a textbook, the following may be useful:
 - [*Fairness and Machine Learning: Limitations and Opportunities*](https://fairmlbook.org/) (FAML) by Solon Barocas, Moritz Hardt, and Arvind Narayanan.
 
 To review mathematical background material, you may also find the following useful:
-- Probability: [*Introduction to Probability*](http://probabilitybook.net/) by Joseph Blitzstein and Jessica Hwang. Most relevant reading: Chapters 1-5, 7, 9-10.
-- Linear Algebra: [*Introduction to Applied Linear Algebra*](https://web.stanford.edu/~boyd/vmls/vmls.pdf) by Stephen Boyd and Lieven Vandenberghe. Most relevant reading: Chapters 1-3, 5-8, 10-11. (Chapters 4 and 12-14 overlap with content for this class.) 
-- Multivariate Calculus: [Oliver Knill's lecture notes](https://abel.math.harvard.edu/~knill/teaching/math21a2012/21a_fall_2012.pdf).
+- **Linear Algebra**: You don't need to remember many advanced theorems, but you need to be very comfortable with the basics (dot products, Euclidean distance, matrix multiplication, matrix invertibility, etc.). To review these concepts, I recommend using [3blue1brown's linear algebra videos](https://www.3blue1brown.com/topics/linear-algebra). You can skip chapters 6, 10-12, and 16.
+  - If you also want a textbook, my recommendation is [*Introduction to Applied Linear Algebra*](https://web.stanford.edu/~boyd/vmls/vmls.pdf) by Stephen Boyd and Lieven Vandenberghe. Most relevant reading: Chapters 1-3, 5-8, 10-11. (Chapters 4 and 12-14 overlap with content for this class.) 
+- **Probability**: I recommend [*Introduction to Probability*](http://probabilitybook.net/) by Joseph Blitzstein and Jessica Hwang. Reading Guide:
+  - Chapter 1: Optional but good background, recommended to read briefly.
+  - Chapter 2: Important for class, read carefully. (2.7-2.8 are optional but good for building understanding)
+  - Chapter 3: Read 3.1-3.3, 3.7-3.8.
+  - Chapter 4: Read 4.1-4.2, 4.4-4.6.
+  - Chapter 5: Read 5.1 and 5.4.
+  - Chapter 7: Read 7.1, 7.3, and 7.5. (Will only be relevant after the midterm exam)
+- **Multivariate Calculus**: [Oliver Knill's lecture notes](https://abel.math.harvard.edu/~knill/teaching/math21a2012/21a_fall_2012.pdf). Recommended reading: Lectures 11, 14, 15, 16, 17.
 
 ## Other Notes
 **Collaboration policy and academic integrity**: Our goal is to maintain an optimal learning environment. You may discuss the homework problems at a high level with other students, but you should not look at another student's solutions. Trying to find solutions online or from any other sources for any homework or project is prohibited, will result in zero grade and will be reported. Using AI tools to automatically generate solutions to written or programming problems is also prohibited. To prevent any future plagiarism, uploading any material from the course (your solutions, quizzes etc.) on the internet is prohibited, and any violations will also be reported. Please be considerate, and help us help everyone get the best out of this course.

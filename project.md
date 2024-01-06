@@ -1,10 +1,10 @@
 ---
 layout: class
-title: "CSCI 467 Final Project Information"
-semester: Fall 2023
-time: Tuesdays and Thursdays at 2:00-3:20pm
-location: LVL 17
-location_link: "https://maps.usc.edu/?id=1928&reference=LVL"
+title: "CSCI 467: Introduction to Machine Learning"
+semester: Spring 2024
+time: Tuesdays and Thursdays at 3:30-4:50pm
+location: DMC 100
+location_link: "https://maps.usc.edu/?id=1928&reference=DMC"
 instructor: Robin Jia
 order: 1
 ---
