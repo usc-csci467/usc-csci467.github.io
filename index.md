@@ -122,7 +122,7 @@ All assignments are due by **11:59pm** on the indicated date.
 
 |Date|Topic|Related Readings|Assignments|
 |--|--|--|--|
-|Tue Jan 9|Introduction |PML 1| Homework 0 released
+|Tue Jan 9|Introduction ([slides](/assets/lectures/01_intro.pdf)) |PML 1| Homework 0 released {{ hw0 | strip_newlines }}
 |Thu Jan 11|Linear Regression |PML 7.8, 8.2|
 |Fri Jan 12|Section: Review of Probability & Linear Algebra [](){: .schedule-section} | |
 |Tue Jan 16|Featurization, Convexity, Maximum Likelihood Estimation |PML 2.6.3, 4.2, 8.1 ||
@@ -135,9 +135,9 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Feb 1 |Nearest Neighbors, start of Kernels; Project discussion |PML 16.1, 16.3 |
 |Fri Feb 2 |Section: Cross-Validation, Evaluation Metrics  [](){: .schedule-section} | | 
 |Tue Feb 6 |Kernel methods continued |PML 4.3, 17.1, 17.3| **Homework 1 due** |
-|Thu Feb 8 |Introduction to Neural Networks |PML 13.1-13.3 | Homework 2 released |
+|Thu Feb 8 |Introduction to Neural Networks |PML 13.1-13.2 | Homework 2 released |
 |Fri Feb 9 |Section: Scikit-learn tutorial [](){: .schedule-section}| | 
-|Tue Feb 13|Backpropagation |PML 13.4-13.5 | **Project Proposal due** |
+|Tue Feb 13|Backpropagation |PML 13.3 | **Project Proposal due** |
 |Thu Feb 15|Neural Network Optimizers, Dropout, Early Stopping| PML 8.4, 13.4-13.5|
 |Fri Feb 16|Section: Pytorch tutorial [](){: .schedule-section}| | 
 |Tue Feb 20|Convolutional Neural Networks |PML 14.1-14.2 |
