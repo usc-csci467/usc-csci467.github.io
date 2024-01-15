@@ -96,9 +96,12 @@ Course Producer
 </div>
 
 ## Logistics
-* **Office hours and drop-in peer mentoring**: See [calendar](https://calendar.google.com/calendar/embed?src=c_86e4982ab98a1b157f078d62c4489999c4833f08ae66003b169896dd26cca926%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+* **Office hours and drop-in peer mentoring**: See the calendar below or [here](https://calendar.google.com/calendar/embed?src=c_86e4982ab98a1b157f078d62c4489999c4833f08ae66003b169896dd26cca926%40group.calendar.google.com&ctz=America%2FLos_Angeles).
 The instructor and TA's will have regular office hours every week.
 Course producers will have drop-in peer mentoring sessions before each assignment is due.
+<div class="center">
+<iframe src="https://calendar.google.com/calendar/embed?src=c_86e4982ab98a1b157f078d62c4489999c4833f08ae66003b169896dd26cca926%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
 * **Assignments**: Assignments should be submitted through [Gradescope](https://www.gradescope.com/courses/697428). Feedback will also be provided on Gradescope. All enrolled students should be in Gradescope automatically--let me know if you are not!
 You should submit both your PDF writeup and your code on Gradescope; there will be separate assignments for each.
 * **Discussions**: We will be using Piazza for general course-related questions and announcements. 

@@ -162,6 +162,10 @@ img[alt="Profile picture"] {
   clear: both;
 }
 
+.center {
+  text-align: center;
+}
+
 table.schedule {
   border: 1px solid black;
   width: 100%;
