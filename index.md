@@ -127,10 +127,10 @@ All assignments are due by **11:59pm** on the indicated date.
 |--|--|--|--|
 |Tue Jan 9|Introduction ([slides](/assets/lectures/01_intro.pdf)) |PML 1| Homework 0 released {{ hw0 | strip_newlines }}
 |Thu Jan 11|Linear Regression ([lecture](/assets/lectures/02_linreg.pdf), [demo](https://colab.research.google.com/drive/11hdXd0C7GGrxpJlC-PV6eImcWJ3Bk_Q2?usp=sharing#scrollTo=COxZk9G7bkW_)) |PML 7.8, 8.2|
-|Fri Jan 12|Section: Review of Probability & Linear Algebra ([notes](https://hackmd.io/@charlotteTYC/prerequisites), [section](/assets/sections/section1.pdf)) [](){: .schedule-section} | |
-|Tue Jan 16|Featurization, Convexity, Maximum Likelihood Estimation ([lecture](/assets/lectures/03_linreg2.pdf)), |PML 2.6.3, 4.2, 8.1 ||
-|Thu Jan 18|Logistic Regression, Softmax Regression |PML 10.1-10.3| **Homework 0 due** |
-|Fri Jan 19|Section: Python & numpy tutorial [](){: .schedule-section} | | 
+|Fri Jan 12|Section (Robin): Review of Probability & Linear Algebra ([notes](https://hackmd.io/@charlotteTYC/prerequisites), [section](/assets/sections/section1.pdf)) [](){: .schedule-section} | |
+|Tue Jan 16|Featurization, Convexity, Maximum Likelihood Estimation ([lecture](/assets/lectures/03_linreg2.pdf)) |PML 2.6.3, 4.2, 8.1 ||
+|Thu Jan 18|Logistic Regression, Softmax Regression ([lecture](/assets/lectures/04_classification.pdf)) |PML 10.1-10.3| **Homework 0 due** |
+|Fri Jan 19|Section (Ameya): Python & numpy tutorial [](){: .schedule-section} | | 
 |Tue Jan 23|Overfitting, Regularization |PML 4.5, 4.7, 11.3-11.4 |
 |Thu Jan 25|Bias and Variance, Normal Equations | PML 11.2| Homework 1 released 
 |Fri Jan 26|Section: Calculus and Gradients [](){: .schedule-section}| |
