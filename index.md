@@ -30,7 +30,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 {::comment}* **[Final Project information](project){:/}
 
 **News:**   
-* The first day of class is **January 9, 2024**!
+* Homework 0 has been released {{hw0 | strip_newlines }}. It is due **Thursday, January 18**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
 Some problems in computer science admit precise algorithmic solutions.
