@@ -132,7 +132,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Jan 18|Logistic Regression, Softmax Regression ([lecture](/assets/lectures/04_classification.pdf)) |PML 10.1-10.3| **Homework 0 due** |
 |Fri Jan 19|Section (Ameya): Python & numpy tutorial ([demo](https://colab.research.google.com/drive/1DTjbgRrAuphcW5l8aw6h00wLuvJDdBFJ?usp=sharing)) [](){: .schedule-section} | | 
 |Tue Jan 23|Overfitting, Regularization |PML 4.5, 4.7, 11.3-11.4 |
-|Thu Jan 25|Bias and Variance, Normal Equations | PML 11.2| Homework 0 released {{ hw1 | strip_newlines }} 
+|Thu Jan 25|Bias and Variance, Normal Equations | PML 11.2| Homework 1 released {{ hw1 | strip_newlines }} 
 |Fri Jan 26|Section: Calculus and Gradients [](){: .schedule-section}| |
 |Tue Jan 30| Generative Classifiers, Naive Bayes |PML 9.3-9.4 |
 |Thu Feb 1 |Nearest Neighbors, start of Kernels; Project discussion |PML 16.1, 16.3 |
