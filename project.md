@@ -25,7 +25,7 @@ All groups will be graded on the same criteria, regardless of size.
 Each member of a team should contribute both to the technical implementation and to the writing of the reports.
 
 ### Project resources
-- Some useful sources of datasets include the UC Irvine Machine Learning Repository (https://archive-beta.ics.uci.edu/) and Kaggle (https://www.kaggle.com/datasets).
+- If you're not sure how to find a good dataset, some possible sources include the [UC Irvine Machine Learning Repository](https://archive-beta.ics.uci.edu/) and [Kaggle](https://www.kaggle.com/datasets).
 - [USC CARC Discovery Cluster](https://www.carc.usc.edu/user-information/user-guides/hpc-basics/getting-started-discovery) is a computing cluster run by USC. 
 I have requested and received quota to run jobs specifically for class final projects.
 Follow the link more to learn about how to use this resource.
@@ -131,13 +131,14 @@ It must include the following:
 * A list of commands used to generate all of your results. You do not need to explain the code in detail, but make sure it's clear how all the results in your report were generated.
 
 ### Example projects
-I have selected a few final reports from last semester as example projects.
+I have selected a few final reports from previous semesters as example projects.
 All these final reports received high marks.
 These should give you an idea of the expectations for the final project, as well as the breadth of projects that are possible:
-* [Applying Binary Classification Techniques on Prediction of Heart Failure](assets/report1.pdf) by Lily Qiang
-* [Predicting Suicidality from Social Media Posts](assets/report2.pdf) by Stephanie Yoshimoto
-* [Music Genre Classification with Machine Learning](assets/report3.pdf) by Lorena Yan, Ryan Wang, and Tianhao Wu
-* [Machine Learning on Stock Data to Inform Future Investment Choices](assets/report4.pdf) by Rohan Gupta, Rithik Pothuganti, and Alex Gao
+* [Sentiment Analysis with Multi-Models: A Focus on Hate Speech Detection](assets/report1.pdf) by Keyu He, Haofeng Xu, and Qiang Zeng
+* [Cell Segmentation for MERFISH Human Heart Experiments](assets/report2.pdf) by Jackie Eschbach
+* [League of Legends Match Win Classifier](assets/report3.pdf) by Jonathan Ong
+* [Music Genre Classification with Machine Learning](assets/report4.pdf) by Lorena Yan, Ryan Wang, and Tianhao Wu
+* [Machine Learning on Stock Data to Inform Future Investment Choices](assets/report5.pdf) by Rohan Gupta, Rithik Pothuganti, and Alex Gao
 
 ### FAQ
 *What if we try something but it doesn't work? (e.g., doesn't improve over the baseline)*

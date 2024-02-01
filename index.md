@@ -27,9 +27,9 @@ Source: [xkcd](https://xkcd.com/1425/)
 
 **Quick Links:**
 * **[Lecture Notes](assets/notes.pdf)**
-{::comment}* **[Final Project information](project){:/}
+* **[Final Project information](project)**
 
-**News:**   
+**News:** 
 * Homework 1 has been released {{hw1 | strip_newlines }}. It is due **Tuesday, February 06**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
@@ -205,8 +205,8 @@ We will **not accept any assignments more than 3 days late.**
 The final project can be done individually or in groups of up to 3.
 This is your chance to freely explore machine learning methods and how they can be applied to a task of our choice.
 You will also learn about best practices for developing machine learning methods---inspecting your data, establishing baselines, and analyzing your errors.
-More information will be released soon.
-{::comment}More information about the final project is available [here](project).{:/}
+More information about the final project is available [here](project).
+{::comment} More information will be released soon.{:/}
 
 ## Resources
 I have written **[Lecture Notes](assets/notes.pdf)** that accompany all the iPad lectures.
