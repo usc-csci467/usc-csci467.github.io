@@ -136,7 +136,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Jan 26|Section (Soumya): Calculus and Gradients ([section](/assets/sections/section3.pdf)) [](){: .schedule-section}| |
 |Tue Jan 30| Generative Classifiers, Naive Bayes ([slides](/assets/lectures/07_naivebayes.pdf)) |PML 9.3-9.4 |
 |Thu Feb 1 |Nearest Neighbors, start of Kernels; Project discussion |PML 16.1, 16.3 |
-|Fri Feb 2 |Section: Cross-Validation, Evaluation Metrics  [](){: .schedule-section} | | 
+|Fri Feb 2 |Section: Cross-Validation, Evaluation Metrics ([section](/assets/sections/section4.pdf)) [](){: .schedule-section} | | 
 |Tue Feb 6 |Kernel methods continued |PML 4.3, 17.1, 17.3| **Homework 1 due** |
 |Thu Feb 8 |Introduction to Neural Networks |PML 13.1-13.2 | Homework 2 released |
 |Fri Feb 9 |Section: Scikit-learn tutorial [](){: .schedule-section}| | 
