@@ -139,7 +139,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Feb 2 |Section (Ameya): Cross-Validation, Evaluation Metrics ([section](/assets/sections/section4.pdf)) [](){: .schedule-section} | | 
 |Tue Feb 6 |Kernel methods continued ([lecture](/assets/lectures/09_kernels.pdf)) |PML 4.3, 17.1, 17.3| **Homework 1 due** |
 |Thu Feb 8 |Introduction to Neural Networks ([lecture](/assets/lectures/10_neuralnets.pdf)) |PML 13.1-13.2 | Homework 2 released {{ hw2 | strip_newlines }}
-|Fri Feb 9 |Section (Ameya): Review of linear methods [](){: .schedule-section}| | 
+|Fri Feb 9 |Section (Ameya): Review of linear methods ([section](/assets/sections/section5.pdf)) [](){: .schedule-section}| | 
 |Tue Feb 13|Backpropagation |PML 13.3 | **Project Proposal due** |
 |Thu Feb 15|Neural Network Optimizers, Dropout, Early Stopping| PML 8.4, 13.4-13.5|
 |Fri Feb 16|Section: Scikit-learn tutorial [](){: .schedule-section}| | 
