@@ -140,7 +140,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Feb 6 |Kernel methods continued ([lecture](/assets/lectures/09_kernels.pdf)) |PML 4.3, 17.1, 17.3| **Homework 1 due** |
 |Thu Feb 8 |Introduction to Neural Networks ([lecture](/assets/lectures/10_neuralnets.pdf)) |PML 13.1-13.2 | Homework 2 released {{ hw2 | strip_newlines }}
 |Fri Feb 9 |Section (Ameya): Review of linear methods ([section](/assets/sections/section5.pdf)) [](){: .schedule-section}| | 
-|Tue Feb 13|Backpropagation |PML 13.3 | **Project Proposal due** |
+|Tue Feb 13|Backpropagation ([lecture](/assets/lectures/11_backprop.pdf), demo [part 1](/assets/backprop/part1_forward_only.py), [part 2](/assets/backprop/part2_trees.py), [part 3](/assets/backprop/part3_dags.py)) |PML 13.3 | **Project Proposal due** |
 |Thu Feb 15|Neural Network Optimizers, Dropout, Early Stopping| PML 8.4, 13.4-13.5|
 |Fri Feb 16|Section: Scikit-learn tutorial [](){: .schedule-section}| | 
 |Tue Feb 20|Convolutional Neural Networks |PML 14.1-14.2 |
