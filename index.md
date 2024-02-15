@@ -30,7 +30,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 * **[Final Project information](project)**
 
 **News:** 
-* Homework 2 has been released {{hw2 | strip_newlines }}. It is due **Tuesday, February 06**.
+* Homework 2 has been released {{hw2 | strip_newlines }}. It is due **Thursday, February 29**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
 Some problems in computer science admit precise algorithmic solutions.
@@ -141,11 +141,11 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Feb 8 |Introduction to Neural Networks ([lecture](/assets/lectures/10_neuralnets.pdf)) |PML 13.1-13.2 | Homework 2 released {{ hw2 | strip_newlines }}
 |Fri Feb 9 |Section (Ameya): Review of linear methods ([section](/assets/sections/section5.pdf)) [](){: .schedule-section}| | 
 |Tue Feb 13|Backpropagation ([lecture](/assets/lectures/11_backprop.pdf), demo [part 1](/assets/backprop/part1_forward_only.py), [part 2](/assets/backprop/part2_trees.py), [part 3](/assets/backprop/part3_dags.py)) |PML 13.3 | **Project Proposal due** |
-|Thu Feb 15|Neural Network Optimizers, Dropout, Early Stopping| PML 8.4, 13.4-13.5|
-|Fri Feb 16|Section: Scikit-learn tutorial [](){: .schedule-section}| | 
+|Thu Feb 15|Neural Network Optimizers, Dropout, Early Stoppin ([slides](/assets/lectures/12_nnoptim.pdf)) | PML 8.4, 13.4-13.5|
+|Fri Feb 16|Section: Pytorch tutorial [](){: .schedule-section}| | 
 |Tue Feb 20|Convolutional Neural Networks |PML 14.1-14.2 |
 |Thu Feb 22|Embedding models, Word Vectors|PML 20.5|
-|Fri Feb 23|Section: Pytorch tutorial [](){: .schedule-section}| | 
+|Fri Feb 23|Section: Sci-kit Learn tutorial [](){: .schedule-section}| | 
 |Tue Feb 27|Recurrent Neural Networks |PML 15.1-15.2 |
 |Thu Feb 29|Sequence-to-sequence, Attention |PML 15.4 | **Homework 2 due** |
 |Fri Mar 1 |Section: Midterm preparation [](){: .schedule-section}| | 
