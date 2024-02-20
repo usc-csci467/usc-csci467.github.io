@@ -143,7 +143,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Feb 13|Backpropagation ([lecture](/assets/lectures/11_backprop.pdf), demo [part 1](/assets/backprop/part1_forward_only.py), [part 2](/assets/backprop/part2_trees.py), [part 3](/assets/backprop/part3_dags.py)) |PML 13.3 | **Project Proposal due** |
 |Thu Feb 15|Neural Network Optimizers, Dropout, Early Stoppin ([slides](/assets/lectures/12_nnoptim.pdf)) | PML 8.4, 13.4-13.5|
 |Fri Feb 16|Section: Pytorch tutorial [](){: .schedule-section}| | 
-|Tue Feb 20|Convolutional Neural Networks |PML 14.1-14.2 |
+|Tue Feb 20|Convolutional Neural Networks ([slides](/assets/lectures/13_convnets.pdf)) |PML 14.1-14.2 |
 |Thu Feb 22|Embedding models, Word Vectors|PML 20.5|
 |Fri Feb 23|Section: Sci-kit Learn tutorial [](){: .schedule-section}| | 
 |Tue Feb 27|Recurrent Neural Networks |PML 15.1-15.2 |
