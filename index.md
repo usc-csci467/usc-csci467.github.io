@@ -30,6 +30,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 * **[Final Project information](project)**
 
 **News:** 
+* We have released two practice midterm exams: Midterm 1 ([problems](/assets/exams/midterm_1.pdf), [solutions](/assets/exams/midterm_1_solutions.pdf)) and Midterm 2 ([problems](/assets/exams/midterm_2.pdf), [solutions](/assets/exams/midterm_2_solutions.pdf)).
 * Homework 2 has been released {{hw2 | strip_newlines }}. It is due **Thursday, February 29**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
