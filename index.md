@@ -147,7 +147,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Feb 20|Convolutional Neural Networks ([slides](/assets/lectures/13_convnets.pdf)) |PML 14.1-14.2 |
 |Thu Feb 22|Embedding models, Word Vectors ([slides](/assets/lectures/14_wordvec.pdf)) |PML 20.5|
 |Fri Feb 23|Section: Sci-kit Learn tutorial [](){: .schedule-section}| | 
-|Tue Feb 27|Recurrent Neural Networks |PML 15.1-15.2 |
+|Tue Feb 27|Recurrent Neural Networks ([slides](/assets/lectures/15_rnns.pdf)) |PML 15.1-15.2 |
 |Thu Feb 29|Sequence-to-sequence, Attention |PML 15.4 | **Homework 2 due** |
 |Fri Mar 1 |Section: Midterm preparation [](){: .schedule-section}| | 
 |Tue Mar 5 |Decision Trees, ensembles |PML 18.1-18.5 | 
