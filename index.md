@@ -150,7 +150,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Feb 27|Recurrent Neural Networks ([slides](/assets/lectures/15_rnns.pdf)) |PML 15.1-15.2 |
 |Thu Feb 29|Sequence-to-sequence, Attention ([slides](/assets/lectures/16_attention.pdf)) |PML 15.4 | **Homework 2 due** |
 |Fri Mar 1 |Section: Midterm preparation [](){: .schedule-section}| | 
-|Tue Mar 5 |Decision Trees, ensembles |PML 18.1-18.5 | 
+|Tue Mar 5 |Decision Trees, ensembles ([slides](/assets/lectures/17_trees.pdf)) |PML 18.1-18.5 | 
 |Thu Mar 7 |**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Mar 8-15  |No class or section (Spring break) [](){: .schedule-break}| |
 |Tue Mar 19|Transformers I |PML 15.5-15.6| |
