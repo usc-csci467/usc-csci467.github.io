@@ -153,7 +153,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Mar 5 |Decision Trees, ensembles ([slides](/assets/lectures/17_trees.pdf)) |PML 18.1-18.5 | 
 |Thu Mar 7 |**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Mar 8-15  |No class or section (Spring break) [](){: .schedule-break}| |
-|Tue Mar 19|Transformers I |PML 15.5-15.6| |
+|Tue Mar 19|Transformers I ([slides](/assets/lectures/18_transformers.pdf)) |PML 15.5-15.6| |
 |Thu Mar 21|Transformers II, Pretraining |PML 15.7 |
 |Fri Mar 22|Section: RNNs and backpropagation in pytorch [](){: .schedule-section}| | 
 |Tue Mar 26|k-Means Clustering | PML 21.3|**Project Midterm Report due** |
