@@ -31,7 +31,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 
 **News:** 
 * We have released two practice midterm exams: Midterm 1 ([problems](/assets/exams/midterm_1.pdf), [solutions](/assets/exams/midterm_1_solutions.pdf)) and Midterm 2 ([problems](/assets/exams/midterm_2.pdf), [solutions](/assets/exams/midterm_2_solutions.pdf)).
-* Homework 3 has been released {{ hw3 | strip_newlines }}. It is due **Thursday, April 4**.
+* Homework 3 has been released {{ hw3 | strip_newlines }}. It is due **Tuesday, April 9**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
 Some problems in computer science admit precise algorithmic solutions.
@@ -160,9 +160,9 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Mar 28|Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2|
 |Fri Mar 29|Section: TBD [](){: .schedule-section}| 
 |Tue Apr 2 |Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 |
-|Thu Apr 4 |Multi-armed Bandits |PML2 34.1-34.4 |**Homework 3 due**|
+|Thu Apr 4 |Multi-armed Bandits |PML2 34.1-34.4 ||
 |Fri Apr 5 |Section: Practical guide to pretrained language models [](){: .schedule-section}| | 
-|Tue Apr 9 |Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 | 
+|Tue Apr 9 |Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 |**Homework 3 due**| 
 |Thu Apr 11|Q-Learning |PML2 35.2-35.3 | Homework 4 released |
 |Fri Apr 12|Section: Practical guide to computer vision models [](){: .schedule-section}| | 
 |Tue Apr 16|Policy Gradient; Adversarial Examples |PML2 19.1-19.8 |
