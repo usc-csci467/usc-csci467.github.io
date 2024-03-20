@@ -31,7 +31,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 
 **News:** 
 * We have released two practice midterm exams: Midterm 1 ([problems](/assets/exams/midterm_1.pdf), [solutions](/assets/exams/midterm_1_solutions.pdf)) and Midterm 2 ([problems](/assets/exams/midterm_2.pdf), [solutions](/assets/exams/midterm_2_solutions.pdf)).
-* Homework 2 has been released {{hw2 | strip_newlines }}. It is due **Thursday, February 29**.
+* Homework 3 has been released {{ hw3 | strip_newlines }}. It is due **Thursday, April 4**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
 Some problems in computer science admit precise algorithmic solutions.
@@ -153,7 +153,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Mar 5 |Decision Trees, ensembles ([slides](/assets/lectures/17_trees.pdf)) |PML 18.1-18.5 | 
 |Thu Mar 7 |**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Mar 8-15  |No class or section (Spring break) [](){: .schedule-break}| |
-|Tue Mar 19|Transformers I ([slides](/assets/lectures/18_transformers.pdf)) |PML 15.5-15.6| |
+|Tue Mar 19|Transformers I ([slides](/assets/lectures/18_transformers.pdf)) |PML 15.5-15.6| Homework 3 released {{ hw3 | strip_newlines }} |
 |Thu Mar 21|Transformers II, Pretraining |PML 15.7 |
 |Fri Mar 22|Section: RNNs and backpropagation in pytorch [](){: .schedule-section}| | 
 |Tue Mar 26|k-Means Clustering | PML 21.3|**Project Midterm Report due** |
