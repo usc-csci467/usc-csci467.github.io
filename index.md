@@ -154,7 +154,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Mar 7 |**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Mar 8-15  |No class or section (Spring break) [](){: .schedule-break}| |
 |Tue Mar 19|Transformers I ([slides](/assets/lectures/18_transformers.pdf)) |PML 15.5-15.6| Homework 3 released {{ hw3 | strip_newlines }} |
-|Thu Mar 21|Transformers II, Pretraining |PML 15.7 |
+|Thu Mar 21|Transformers II, Pretraining ([slides](/assets/lectures/19_transformers2.pdf)) |PML 15.7 |
 |Fri Mar 22|Section: RNNs and backpropagation in pytorch [](){: .schedule-section}| | 
 |Tue Mar 26|k-Means Clustering | PML 21.3|**Project Midterm Report due** |
 |Thu Mar 28|Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2|
