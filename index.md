@@ -143,25 +143,25 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Feb 9 |Section (Ameya): Review of linear methods ([section](/assets/sections/section5.pdf)) [](){: .schedule-section}| | 
 |Tue Feb 13|Backpropagation ([lecture](/assets/lectures/11_backprop.pdf), demo [part 1](/assets/backprop/part1_forward_only.py), [part 2](/assets/backprop/part2_trees.py), [part 3](/assets/backprop/part3_dags.py)) |PML 13.3 | **Project Proposal due** |
 |Thu Feb 15|Neural Network Optimizers, Dropout, Early Stoppin ([slides](/assets/lectures/12_nnoptim.pdf)) | PML 8.4, 13.4-13.5|
-|Fri Feb 16|Section: Pytorch tutorial [](){: .schedule-section}| | 
+|Fri Feb 16|Section (Soumya): Pytorch tutorial ([colab](https://colab.research.google.com/drive/1BLD1Eic5yw3myxdDSnL6qgBIjawYCw-Y?usp=sharing)) [](){: .schedule-section}| | 
 |Tue Feb 20|Convolutional Neural Networks ([slides](/assets/lectures/13_convnets.pdf)) |PML 14.1-14.2 |
 |Thu Feb 22|Embedding models, Word Vectors ([slides](/assets/lectures/14_wordvec.pdf)) |PML 20.5|
-|Fri Feb 23|Section: Sci-kit Learn tutorial [](){: .schedule-section}| | 
+|Fri Feb 23|Section (Soumya): Sci-kit Learn tutorial ([colab](https://colab.research.google.com/drive/1WsH_gfVC7dIFtRtXNak0Lr2HR7ty4DPC?usp=sharing)) [](){: .schedule-section}| | 
 |Tue Feb 27|Recurrent Neural Networks ([slides](/assets/lectures/15_rnns.pdf)) |PML 15.1-15.2 |
 |Thu Feb 29|Sequence-to-sequence, Attention ([slides](/assets/lectures/16_attention.pdf)) |PML 15.4 | **Homework 2 due** |
-|Fri Mar 1 |Section: Midterm preparation [](){: .schedule-section}| | 
+|Fri Mar 1 |Section (Soumya): Midterm preparation ([slides](https://docs.google.com/presentation/d/1C-emdcya92vlaJFV7amxzpW54G6AjEYgugofnkeeSMw/edit?usp=sharing)) [](){: .schedule-section}| | 
 |Tue Mar 5 |Decision Trees, ensembles ([slides](/assets/lectures/17_trees.pdf)) |PML 18.1-18.5 | 
 |Thu Mar 7 |**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Mar 8-15  |No class or section (Spring break) [](){: .schedule-break}| |
 |Tue Mar 19|Transformers I ([slides](/assets/lectures/18_transformers.pdf)) |PML 15.5-15.6| Homework 3 released {{ hw3 | strip_newlines }} |
 |Thu Mar 21|Transformers II, Pretraining ([slides](/assets/lectures/19_transformers2.pdf)) |PML 15.7 |
-|Fri Mar 22|Section: RNNs and backpropagation in pytorch [](){: .schedule-section}| | 
+|Fri Mar 22|Section (Soumya): RNNs and backpropagation in pytorch ([tutorial](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)) [](){: .schedule-section}| | 
 |Tue Mar 26|k-Means Clustering ([lecture](/assets/lectures/20_kmeans.pdf)) | PML 21.3|**Project Midterm Report due** |
 |Thu Mar 28|Gaussian Mixture Models, Expectation Maximization ([lecture](/assets/lectures/21_gmm.pdf)) | PML 21.4, PML2 8.1-8.2|
 |Fri Mar 29|Section: Transformers in code [](){: .schedule-section}| 
 |Tue Apr 2 |Expectation Maximization for GMMs; Start of Dimensionality Reduction ([lecture](/assets/lectures/22_em.pdf)) |PML 20.1, 20.4 |
 |Thu Apr 4 |Finish Dimensionality Reduction and Principal Components Analysis; start Multi-armed Bandits |PML2 34.1-34.4 ||
-|Fri Apr 5 |Section: Practical guide to pretrained language models [](){: .schedule-section}| | 
+|Fri Apr 5 |Section (Soumya): Practical guide to pretrained language models ([colab](https://colab.research.google.com/drive/1GNmZPzG0qgDG_Kmqg3Uwu08VL-FF1_sW?usp=sharing)) ([slides](https://docs.google.com/presentation/d/1xqOHwtub3aEzouQgTqQtTTc-_Ncd0SGEd6-pqab902o/edit?usp=sharing)) [](){: .schedule-section}| | 
 |Tue Apr 9 |Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 |**Homework 3 due**| 
 |Thu Apr 11|Q-Learning |PML2 35.2-35.3 | Homework 4 released |
 |Fri Apr 12|Section: Practical guide to computer vision models [](){: .schedule-section}| | 
