@@ -159,8 +159,8 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Mar 26|k-Means Clustering ([lecture](/assets/lectures/20_kmeans.pdf)) | PML 21.3|**Project Midterm Report due** |
 |Thu Mar 28|Gaussian Mixture Models, Expectation Maximization ([lecture](/assets/lectures/21_gmm.pdf)) | PML 21.4, PML2 8.1-8.2|
 |Fri Mar 29|Section: Transformers in code [](){: .schedule-section}| 
-|Tue Apr 2 |Expectation Maximization for GMMs; Start of Dimensionality Reduction ([lecture](/assets/lectures/22_em.pdf)) |PML 20.1, 20.4 |
-|Thu Apr 4 |Finish Dimensionality Reduction and Principal Components Analysis; start Multi-armed Bandits |PML2 34.1-34.4 ||
+|Tue Apr 2 |Expectation Maximization for GMMs; Start Dimensionality Reduction ([lecture](/assets/lectures/22_em.pdf)) |PML 20.1, 20.4 |
+|Thu Apr 4 |Finish Principal Components Analysis; start Multi-armed Bandits ([lecture](/assets/lectures/23_pca.pdf)) |PML2 34.1-34.4 ||
 |Fri Apr 5 |Section (Soumya): Practical guide to pretrained language models ([colab](https://colab.research.google.com/drive/1GNmZPzG0qgDG_Kmqg3Uwu08VL-FF1_sW?usp=sharing)) ([slides](https://docs.google.com/presentation/d/1xqOHwtub3aEzouQgTqQtTTc-_Ncd0SGEd6-pqab902o/edit?usp=sharing)) [](){: .schedule-section}| | 
 |Tue Apr 9 |Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 |**Homework 3 due**| 
 |Thu Apr 11|Q-Learning |PML2 35.2-35.3 | Homework 4 released |
