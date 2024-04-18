@@ -31,7 +31,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 
 **News:** 
 * We have released two practice midterm exams: Midterm 1 ([problems](/assets/exams/midterm_1.pdf), [solutions](/assets/exams/midterm_1_solutions.pdf)) and Midterm 2 ([problems](/assets/exams/midterm_2.pdf), [solutions](/assets/exams/midterm_2_solutions.pdf)).
-* Homework 4 has been released {{ hw4 | strip_newlines }}. It is due **Tuesday, April 25**.
+* Homework 4 has been released {{ hw4 | strip_newlines }}. It is due **Thursday, April 25**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
 Some problems in computer science admit precise algorithmic solutions.
