@@ -165,9 +165,9 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Apr 9 |Markov Decision Processes, Reinforcement Learning ([lecture](/assets/lectures/24_mdp.pdf))  |PML2 34.5-34.6, 35.1, 35.4 |**Homework 3 due**| 
 |Thu Apr 11|Q-Learning ([lecture](/assets/lectures/25_qlearning.pdf)) |PML2 35.2-35.3 | Homework 4 released {{ hw4 | strip_newlines }}|
 |Fri Apr 12|Section (Ameya): Practical guide to computer vision models ([colab](https://colab.research.google.com/drive/1JiIBdWzCv0Jq7jeIaCww904AN82Hq1dL?usp=sharing)) ([slides](https://docs.google.com/presentation/d/19m8DGDO9vAFbArPUiWUITopNdYRtVQRe8TMqT2naNBc/edit?usp=sharing)) [](){: .schedule-section}| |
-|Tue Apr 16|Finishing RL; Adversarial Examples ([slides](/assets/lectures/26_adversarial.pdf)) |PML2 19.1-19.8 |
+|Tue Apr 16|Finishing RL ([lecture](/assets/lectures/26_policygrad.pdf)) ; Adversarial Examples ([slides](/assets/lectures/26_adversarial.pdf)) |PML2 19.1-19.8 |
 |Thu Apr 18|Spurious Correlations, Fairness in Machine Learning | FAML 1-4 | 
-|Fri Apr 19|Section: TBD [](){: .schedule-section}| 
+|Fri Apr 19|Section: Review [](){: .schedule-section}| 
 |Tue Apr 23|How does ChatGPT work? | 
 |Thu Apr 25|Conclusion | | **Homework 4 due** |
 |Fri Apr 26|Section: Final Exam preparation [](){: .schedule-section}| | 
