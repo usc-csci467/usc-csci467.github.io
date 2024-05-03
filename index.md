@@ -170,7 +170,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Apr 18|Spurious Correlations, Fairness in Machine Learning ([slides](/assets/lectures/27_fairness.pdf)) | FAML 1-4 | 
 |Fri Apr 19|Section: Review [](){: .schedule-section}| 
 |Tue Apr 23|How does ChatGPT work? ([slides](/assets/lectures/28_chatgpt.pdf)) | 
-|Thu Apr 25|Conclusion ([slides](/assets/lectures/29_conclusion.pdf)) | | **Homework 4 due** |
+|Thu Apr 25|Conclusion ([summary](/assets/lectures/29_summary.pdf), [slides](/assets/lectures/29_conclusion.pdf)) | | **Homework 4 due** |
 |Fri Apr 26|Section: Final Exam preparation [](){: .schedule-section}| | 
 |Tue May 7|**Final Exam, 2-4pm** [](){:.schedule-exam} | | **Project Final Report due Friday, May 3**|
 {: .schedule #schedule-table}
