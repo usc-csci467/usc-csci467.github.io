@@ -179,8 +179,8 @@ We will **not accept any assignments more than 3 days late.**
 The final project can be done individually or in groups of up to 3.
 This is your chance to freely explore machine learning methods and how they can be applied to a task of our choice.
 You will also learn about best practices for developing machine learning methods---inspecting your data, establishing baselines, and analyzing your errors.
-More information about the final project is available [here](project).
-{::comment} More information will be released soon.{:/}
+{::comment} More information about the final project is available [here](project). {:/}
+More information will be released soon.
 
 ## Resources
 I have written **[Lecture Notes](/assets/notes.pdf)** that accompany all the iPad lectures.
