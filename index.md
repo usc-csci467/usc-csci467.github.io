@@ -26,7 +26,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 
 
 **Quick Links:**
-* **[Lecture Notes](assets/notes.pdf)**
+* **[Lecture Notes](/assets/notes.pdf)**
 * **[Final Project information](project)**
 
 **News:** 
@@ -67,7 +67,7 @@ Finally, we will cover **reinforcement learning,** in which an agent (e.g., a ro
 Instructor
 </div>
 <div class="staff-photo" markdown=1>
-![Ameya Godbole](//ameyagodbole.github.io/author/ameya-godbole/avatar_hu9afa71fa26308691f7ae3d1b2e56b92b_138836_270x270_fill_q90_lanczos_center.jpg)  
+![Ameya Godbole](//ameyagodbole.github.io/assets/img/avatar-480.webp)  
 **Ameya Godbole**  
 Teaching Assistant
 </div>
@@ -211,7 +211,7 @@ More information about the final project is available [here](project).
 {::comment} More information will be released soon.{:/}
 
 ## Resources
-I have written **[Lecture Notes](assets/notes.pdf)** that accompany all the iPad lectures.
+I have written **[Lecture Notes](/assets/notes.pdf)** that accompany all the iPad lectures.
 I recommend using these notes as reference material for studying.
 There is no required textbook for this class.
 If you do want to learn from a textbook, the following may be useful:
