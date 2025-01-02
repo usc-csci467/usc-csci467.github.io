@@ -18,11 +18,11 @@ Source: [xkcd](https://xkcd.com/1425/)
 </div>
 <div class="col-intro" markdown=1>
 
-{% capture hw0 %}{% include hw.html num=0 %}{% endcapture %}
-{% capture hw1 %}{% include hw.html num=1 %}{% endcapture %}
-{% capture hw2 %}{% include hw.html num=2 %}{% endcapture %}
-{% capture hw3 %}{% include hw.html num=3 %}{% endcapture %}
-{% capture hw4 %}{% include hw.html num=4 %}{% endcapture %}
+{% capture hw0 %}{% include hw.html sem="spring2024" num=0 %}{% endcapture %}
+{% capture hw1 %}{% include hw.html sem="spring2024" num=1 %}{% endcapture %}
+{% capture hw2 %}{% include hw.html sem="spring2024" num=2 %}{% endcapture %}
+{% capture hw3 %}{% include hw.html sem="spring2024" num=3 %}{% endcapture %}
+{% capture hw4 %}{% include hw.html sem="spring2024" num=4 %}{% endcapture %}
 
 
 **Quick Links:**

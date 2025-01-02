@@ -11,6 +11,7 @@ mkdir -p $1
 cp index.md project.md $1
 cd $1
 sed -i -e "s@(/assets@(/assets/$1@g" index.md
+sed -i -e "s/include hw.html/include hw.html sem=\"$1\"/g" index.md
 sed -i -e "s@(/assets@(/assets/$1@g" project.md
 cd ..
 
