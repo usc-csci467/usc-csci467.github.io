@@ -1,7 +1,7 @@
 ---
 layout: class
 title: "CSCI 467: Introduction to Machine Learning"
-semester: Spring 2024
+semester: Spring 2025
 time: Tuesdays and Thursdays at 3:30-4:50pm
 location: DMC 100
 location_link: "https://maps.usc.edu/?id=1928&reference=DMC"
