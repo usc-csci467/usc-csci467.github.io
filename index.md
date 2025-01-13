@@ -30,6 +30,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 * **[Final Project information](project)**
 
 **News:** 
+* Homework 0 has been released {{ hw0 | strip_newlines }}. It is due **Thursday, January 23**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
 Some problems in computer science admit precise algorithmic solutions.
