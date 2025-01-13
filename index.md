@@ -27,6 +27,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 
 **Quick Links:**
 * **[Lecture Notes](/assets/notes.pdf)**
+* **[OneNote Notebook of Handwritten Lectures](https://1drv.ms/o/c/c7647f7ae642c6ff/EqrGz7KAwT5FmAsI_XOp1kEBE_igRdKcaGZHDPEKGCIIyQ?e=yQGf3Z)**
 * **[LaTeX Template for Homework Submissions](https://www.overleaf.com/read/kjvpshdfvwsd#593bd8)**
 {::comment}* **[Final Project information](project)** {:/}
 
