@@ -27,7 +27,8 @@ Source: [xkcd](https://xkcd.com/1425/)
 
 **Quick Links:**
 * **[Lecture Notes](/assets/notes.pdf)**
-* **[Final Project information](project)**
+* **[LaTeX Template for Homework Submissions](https://www.overleaf.com/read/kjvpshdfvwsd#593bd8)**
+{::comment}* **[Final Project information](project)** {:/}
 
 **News:** 
 * Homework 0 has been released {{ hw0 | strip_newlines }}. It is due **Thursday, January 23**.
