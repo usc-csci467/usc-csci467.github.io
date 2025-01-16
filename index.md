@@ -71,6 +71,21 @@ Instructor
 **Deqing Fu**  
 Teaching Assistant
 </div>
+<div class="staff-photo" markdown=1>
+![Steven Shi](/assets/images/steven.jpg)  
+**Steven Shi**  
+Course Producer
+</div>
+<div class="staff-photo" markdown=1>
+![Ryan Wang](/assets/images/ryan.jpg)  
+**Ryan Wang**  
+Course Producer
+</div>
+<div class="staff-photo" markdown=1>
+![Alice Wei](/assets/images/alice.jpg)  
+**Alice Wei**  
+Course Producer
+</div>
 
 ## Logistics
 * **Office hours and drop-in peer mentoring**: See the calendar below or [here](https://calendar.google.com/calendar/embed?src=c_86e4982ab98a1b157f078d62c4489999c4833f08ae66003b169896dd26cca926%40group.calendar.google.com&ctz=America%2FLos_Angeles).
