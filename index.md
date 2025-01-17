@@ -118,7 +118,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Date|Topic|Related Readings|Assignments|
 |--|--|--|--|
 |Tue Jan 14|Introduction ([slides](/assets/lectures/01_intro.pdf)) |PML 1| Homework 0 released {{ hw0 | strip_newlines }}
-|Thu Jan 16|Linear Regression |PML 7.8, 8.2|
+|Thu Jan 16|Linear Regression ([demo](https://colab.research.google.com/drive/11hdXd0C7GGrxpJlC-PV6eImcWJ3Bk_Q2)) |PML 7.8, 8.2|
 |Fri Jan 17|Section: Review of Probability & Linear Algebra [](){: .schedule-section} | |
 |Tue Jan 21|Featurization, Convexity, Maximum Likelihood Estimation |PML 2.6.3, 4.2, 8.1 ||
 |Thu Jan 23|Logistic Regression, Softmax Regression |PML 10.1-10.3| **Homework 0 due** |
