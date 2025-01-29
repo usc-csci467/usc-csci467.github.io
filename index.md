@@ -120,18 +120,18 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Jan 14|Introduction ([slides](/assets/lectures/01_intro.pdf)) |PML 1| Homework 0 released {{ hw0 | strip_newlines }}
 |Thu Jan 16|Linear Regression ([demo](https://colab.research.google.com/drive/11hdXd0C7GGrxpJlC-PV6eImcWJ3Bk_Q2)) |PML 7.8, 8.2|
 |Fri Jan 17|Section: Review of Probability & Linear Algebra [](){: .schedule-section} | |
-|Tue Jan 21|Featurization, Convexity, Maximum Likelihood Estimation |PML 2.6.3, 4.2, 8.1 ||
-|Thu Jan 23|Logistic Regression, Softmax Regression |PML 10.1-10.3| **Homework 0 due** |
+|Tue Jan 21|Featurization, Convexity |PML 2.6.3, 4.2, 8.1 ||
+|Thu Jan 23|Maximum Likelihood Estimation, Logistic Regression |PML 10.1-10.3| **Homework 0 due** |
 |Fri Jan 24|Section: Python & numpy tutorial [](){: .schedule-section} | | 
 |Tue Jan 28|Overfitting, Regularization |PML 4.5, 4.7, 11.3-11.4 |
 |Thu Jan 30|Bias and Variance, Normal Equations | PML 11.2| 
-|Fri Jan 31|Section: Calculus and Gradients [](){: .schedule-section}| |
+|Fri Jan 31|Section: Softmax Regression [](){: .schedule-section}| |
 |Tue Feb 4 | Generative Classifiers, Naive Bayes |PML 9.3-9.4 |
 |Thu Feb 6 |Nearest Neighbors, start of Kernels; Project discussion |PML 16.1, 16.3 |
-|Fri Feb 7 |Section: Cross-Validation, Evaluation Metrics [](){: .schedule-section} | | 
+|Fri Feb 7 |Section: Calculus and Gradients [](){: .schedule-section} | | 
 |Tue Feb 11|Kernel methods continued |PML 4.3, 17.1, 17.3| **Homework 1 due** |
 |Thu Feb 13|Introduction to Neural Networks |PML 13.1-13.2 |
-|Fri Feb 14|Section: Review of linear methods [](){: .schedule-section}| | 
+|Fri Feb 14|Section: Cross-Validation, Evaluation Metrics [](){: .schedule-section}| | 
 |Tue Feb 18|Backpropagation |PML 13.3 | **Project Proposal due** |
 |Thu Feb 20|Neural Network Optimizers, Dropout, Early Stoppin | PML 8.4, 13.4-13.5|
 |Fri Feb 21|Section: Pytorch tutorial [](){: .schedule-section}| | 
