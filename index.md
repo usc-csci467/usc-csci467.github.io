@@ -32,7 +32,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 {::comment}* **[Final Project information](project)** {:/}
 
 **News:** 
-* Homework 0 has been released {{ hw0 | strip_newlines }}. It is due **Thursday, January 23**.
+* Homework 1 has been released {{ hw1 | strip_newlines }}. It is due **Tuesday, February 11**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
 Some problems in computer science admit precise algorithmic solutions.
@@ -124,7 +124,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Jan 23|Maximum Likelihood Estimation, Logistic Regression |PML 10.1-10.3| **Homework 0 due** |
 |Fri Jan 24|Section: Python & numpy tutorial [](){: .schedule-section} | | 
 |Tue Jan 28|Overfitting, Regularization |PML 4.5, 4.7, 11.3-11.4 |
-|Thu Jan 30|Bias and Variance, Normal Equations | PML 11.2| 
+|Thu Jan 30|Bias and Variance, Normal Equations | PML 11.2| Homework 1 released {{ hw1 | strip_newlines }}
 |Fri Jan 31|Section: Softmax Regression [](){: .schedule-section}| |
 |Tue Feb 4 | Generative Classifiers, Naive Bayes |PML 9.3-9.4 |
 |Thu Feb 6 |Nearest Neighbors, start of Kernels; Project discussion |PML 16.1, 16.3 |
