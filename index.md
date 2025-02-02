@@ -126,7 +126,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Jan 28|Overfitting, Regularization |PML 4.5, 4.7, 11.3-11.4 |
 |Thu Jan 30|Bias and Variance, Normal Equations | PML 11.2| Homework 1 released {{ hw1 | strip_newlines }}
 |Fri Jan 31|Section: Softmax Regression [](){: .schedule-section}| |
-|Tue Feb 4 | Generative Classifiers, Naive Bayes |PML 9.3-9.4 |
+|Tue Feb 4 | Generative Classifiers, Naive Bayes ([slides](/assets/lectures/07_naivebayes.pdf))  |PML 9.3-9.4 |
 |Thu Feb 6 |Nearest Neighbors, start of Kernels; Project discussion |PML 16.1, 16.3 |
 |Fri Feb 7 |Section: Calculus and Gradients [](){: .schedule-section} | | 
 |Tue Feb 11|Kernel methods continued |PML 4.3, 17.1, 17.3| **Homework 1 due** |
