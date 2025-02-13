@@ -32,7 +32,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 * **[Final Project information](project)** 
 
 **News:** 
-* Homework 1 has been released {{ hw1 | strip_newlines }}. It is due **Tuesday, February 11**.
+* Homework 2 has been released {{ hw2 | strip_newlines }}. It is due **Thursday, March 6**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
 Some problems in computer science admit precise algorithmic solutions.
@@ -130,7 +130,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Feb 6 |Nearest Neighbors, start of Kernels; Project discussion |PML 16.1, 16.3 |
 |Fri Feb 7 |Section: Calculus and Gradients [](){: .schedule-section} | | 
 |Tue Feb 11|Kernel methods continued |PML 4.3, 17.1, 17.3| **Homework 1 due** |
-|Thu Feb 13|Introduction to Neural Networks ([slides](/assets/lectures/10_neuralnets.pdf)) |PML 13.1-13.2 |
+|Thu Feb 13|Introduction to Neural Networks ([slides](/assets/lectures/10_neuralnets.pdf)) |PML 13.1-13.2 | Homework 2 released {{ hw2 | strip_newlines }}
 |Fri Feb 14|Section: Cross-Validation, Evaluation Metrics [](){: .schedule-section}| | 
 |Tue Feb 18|Backpropagation |PML 13.3 | **Project Proposal due** |
 |Thu Feb 20|Neural Network Optimizers, Dropout, Early Stopping | PML 8.4, 13.4-13.5|
