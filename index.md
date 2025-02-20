@@ -133,7 +133,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Feb 13|Introduction to Neural Networks ([slides](/assets/lectures/10_neuralnets.pdf)) |PML 13.1-13.2 | Homework 2 released {{ hw2 | strip_newlines }}
 |Fri Feb 14|Section: Cross-Validation, Evaluation Metrics [](){: .schedule-section}| | 
 |Tue Feb 18|Backpropagation ([lecture](/assets/lectures/11_backprop.pdf), demo [part 1](/assets/backprop/part1_forward_only.py), [part 2](/assets/backprop/part2_trees.py), [part 3](/assets/backprop/part3_dags.py)) |PML 13.3 | **Project Proposal due** |
-|Thu Feb 20|Neural Network Optimizers, Dropout, Early Stopping | PML 8.4, 13.4-13.5|
+|Thu Feb 20|Neural Network Optimizers, Dropout, Early Stopping ([slides](/assets/lectures/12_nnoptim.pdf)) | PML 8.4, 13.4-13.5|
 |Fri Feb 21|Section: Pytorch tutorial [](){: .schedule-section}| | 
 |Tue Feb 25|Convolutional Neural Networks |PML 14.1-14.2 |
 |Thu Feb 27|Embedding models, Word Vectors |PML 20.5|
