@@ -119,10 +119,10 @@ All assignments are due by **11:59pm** on the indicated date.
 |--|--|--|--|
 |Tue Jan 14|Introduction ([slides](/assets/lectures/01_intro.pdf)) |PML 1| Homework 0 released {{ hw0 | strip_newlines }}
 |Thu Jan 16|Linear Regression ([demo](https://colab.research.google.com/drive/11hdXd0C7GGrxpJlC-PV6eImcWJ3Bk_Q2)) |PML 7.8, 8.2|
-|Fri Jan 17|Section: Review of Probability & Linear Algebra [](){: .schedule-section} | |
+|Fri Jan 17|Section: Review of Probability & Linear Algebra ([notes](https://hackmd.io/@charlotteTYC/prerequisites), [section](/assets/spring2024/sections/section1.pdf)) [](){: .schedule-section} | |
 |Tue Jan 21|Featurization, Convexity |PML 2.6.3, 4.2, 8.1 ||
 |Thu Jan 23|Maximum Likelihood Estimation, Logistic Regression |PML 10.1-10.3| **Homework 0 due** |
-|Fri Jan 24|Section: Python & numpy tutorial [](){: .schedule-section} | | 
+|Fri Jan 24|Section: Python & numpy tutorial ([demo](https://colab.research.google.com/drive/1DTjbgRrAuphcW5l8aw6h00wLuvJDdBFJ?usp=sharing)) [](){: .schedule-section} | | 
 |Tue Jan 28|Overfitting, Regularization |PML 4.5, 4.7, 11.3-11.4 |
 |Thu Jan 30|Bias and Variance, Normal Equations | PML 11.2| Homework 1 released {{ hw1 | strip_newlines }}
 |Fri Jan 31|Section: Softmax Regression [](){: .schedule-section}| |
