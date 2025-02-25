@@ -32,6 +32,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 * **[Final Project information](project)** 
 
 **News:** 
+* We have released three practice midterm exams: Midterm 1 ([problems](/assets/exams/midterm_1.pdf), [solutions](/assets/exams/midterm_1_solutions.pdf)), Midterm 2 ([problems](/assets/exams/midterm_2.pdf), [solutions](/assets/exams/midterm_2_solutions.pdf)), and Midterm 3 ([problems](/assets/exams/midterm_3.pdf), [solutions](/assets/exams/midterm_3_solutions.pdf)).
 * Homework 2 has been released {{ hw2 | strip_newlines }}. It is due **Thursday, March 6**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
@@ -135,7 +136,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Feb 18|Backpropagation ([lecture](/assets/lectures/11_backprop.pdf), demo [part 1](/assets/backprop/part1_forward_only.py), [part 2](/assets/backprop/part2_trees.py), [part 3](/assets/backprop/part3_dags.py)) |PML 13.3 | **Project Proposal due** |
 |Thu Feb 20|Neural Network Optimizers, Dropout, Early Stopping ([slides](/assets/lectures/12_nnoptim.pdf)) | PML 8.4, 13.4-13.5|
 |Fri Feb 21|Section: Pytorch tutorial [](){: .schedule-section}| | 
-|Tue Feb 25|Convolutional Neural Networks |PML 14.1-14.2 |
+|Tue Feb 25|Convolutional Neural Networks ([slides](/assets/lectures/13_convnets.pdf))  |PML 14.1-14.2 |
 |Thu Feb 27|Embedding models, Word Vectors |PML 20.5|
 |Fri Feb 28|Section: Sci-kit Learn tutorial [](){: .schedule-section}| | 
 |Tue Mar 4 |Recurrent Neural Networks |PML 15.1-15.2 |
@@ -159,8 +160,8 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Apr 22|Finishing RL; Adversarial Examples |PML2 19.1-19.8 |
 |Thu Apr 24|Spurious Correlations, Fairness in Machine Learning | FAML 1-4 | 
 |Fri Apr 25|Section: Review [](){: .schedule-section}| 
-|Tue Apr 29|How does ChatGPT work? ([slides](/assets/lectures/28_chatgpt.pdf)) | 
-|Thu May 1 |Conclusion ([summary](/assets/lectures/29_summary.pdf), [slides](/assets/lectures/29_conclusion.pdf)) | | **Homework 4 due** |
+|Tue Apr 29|How does ChatGPT work? | 
+|Thu May 1 |Conclusion | | **Homework 4 due** |
 |Fri May 2 |Section: Final Exam preparation [](){: .schedule-section}| | 
 |Tue May 13|**Final Exam, 2-4pm** [](){:.schedule-exam} | | **Project Final Report due Thursday, May 8**|
 {: .schedule #schedule-table}
