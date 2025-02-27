@@ -137,29 +137,30 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Feb 20|Neural Network Optimizers, Dropout, Early Stopping ([slides](/assets/lectures/12_nnoptim.pdf)) | PML 8.4, 13.4-13.5|
 |Fri Feb 21|Section: Pytorch tutorial ([colab](https://colab.research.google.com/drive/1BLD1Eic5yw3myxdDSnL6qgBIjawYCw-Y?usp=sharing)) [](){: .schedule-section}| | 
 |Tue Feb 25|Convolutional Neural Networks ([slides](/assets/lectures/13_convnets.pdf))  |PML 14.1-14.2 |
-|Thu Feb 27|Embedding models, Word Vectors |PML 20.5|
+|Thu Feb 27|Embedding models, Word Vectors ([slides](/assets/lectures/14_wordvec.pdf))  |PML 20.5|
 |Fri Feb 28|Section: Sci-kit Learn tutorial [](){: .schedule-section}| | 
 |Tue Mar 4 |Recurrent Neural Networks |PML 15.1-15.2 |
 |Thu Mar 6 |Sequence-to-sequence, Attention |PML 15.4 | **Homework 2 due** |
 |Fri Mar 7 |Section: Midterm preparation [](){: .schedule-section}| | 
 |Tue Mar 11|Decision Trees, ensembles |PML 18.1-18.5 | 
 |Thu Mar 13|**In-class Midterm Exam** [](){: .schedule-exam} | | 
-|Mar 14-21 |No class or section (Spring break) [](){: .schedule-break}| |
+|Fri Mar 14|Section: Reading AlexNet paper ([link](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)) [](){: .schedule-section}| | 
+|Mar 15-21 |No class or section (Spring break) [](){: .schedule-break}| |
 |Tue Mar 25|Transformers I |PML 15.5-15.6| |
 |Thu Mar 27|Transformers II, Pretraining |PML 15.7 |
 |Fri Mar 28|Section: RNNs and backpropagation in pytorch [](){: .schedule-section}| | 
 |Tue Apr 1 |k-Means Clustering | PML 21.3|**Project Midterm Report due** |
 |Thu Apr 3 |Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2|
-|Fri Apr 4 |Section: Transformers in code [](){: .schedule-section}| 
+|Fri Apr 4 |Section: Reading Transformers paper ([link](https://arxiv.org/abs/1706.03762)) [](){: .schedule-section}| 
 |Tue Apr 8 |Expectation Maximization for GMMs; Start Dimensionality Reduction |PML 20.1, 20.4 |
 |Thu Apr 10|Finish Principal Components Analysis; start Multi-armed Bandits |PML2 34.1-34.4 ||
-|Fri Apr 11|Section: Practical guide to pretrained language models [](){: .schedule-section}| | 
+|Fri Apr 11|Section: Practical guide to pretrained deep learning models [](){: .schedule-section}| | 
 |Tue Apr 15|Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 |**Homework 3 due**| 
 |Thu Apr 17|Q-Learning |PML2 35.2-35.3 | 
-|Fri Apr 18|Section: Practical guide to computer vision models [](){: .schedule-section}| |
+|Fri Apr 18|Section: Reading CLIP paper ([link](https://arxiv.org/abs/2103.00020))  [](){: .schedule-section}| |
 |Tue Apr 22|Finishing RL; Adversarial Examples |PML2 19.1-19.8 |
 |Thu Apr 24|Spurious Correlations, Fairness in Machine Learning | FAML 1-4 | 
-|Fri Apr 25|Section: Review [](){: .schedule-section}| 
+|Fri Apr 25|Section: Reading NeRF paper ([link](https://arxiv.org/abs/2003.08934)) [](){: .schedule-section}| 
 |Tue Apr 29|How does ChatGPT work? | 
 |Thu May 1 |Conclusion | | **Homework 4 due** |
 |Fri May 2 |Section: Final Exam preparation [](){: .schedule-section}| | 
