@@ -138,7 +138,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Jan 26|Section (Soumya): Calculus and Gradients ([section](/assets/spring2024/sections/section3.pdf)) [](){: .schedule-section}| |
 |Tue Jan 30| Generative Classifiers, Naive Bayes ([slides](/assets/spring2024/lectures/07_naivebayes.pdf)) |PML 9.3-9.4 |
 |Thu Feb 1 |Nearest Neighbors, start of Kernels; Project discussion ([lecture](/assets/spring2024/lectures/08_nonparametric.pdf)) |PML 16.1, 16.3 |
-|Fri Feb 2 |Section (Ameya): Cross-Validation, Evaluation Metrics ([section](/assets/spring2024/sections/section4.pdf)) [](){: .schedule-section} | | 
+|Fri Feb 2 |Section (Ameya): Cross-Validation, Evaluation Metrics ([section](/assets/spring2024/sections/section4.pdf)) [](){: .schedule-section}| | 
 |Tue Feb 6 |Kernel methods continued ([lecture](/assets/spring2024/lectures/09_kernels.pdf)) |PML 4.3, 17.1, 17.3| **Homework 1 due** |
 |Thu Feb 8 |Introduction to Neural Networks ([lecture](/assets/spring2024/lectures/10_neuralnets.pdf)) |PML 13.1-13.2 | Homework 2 released {{ hw2 | strip_newlines }}
 |Fri Feb 9 |Section (Ameya): Review of linear methods ([section](/assets/spring2024/sections/section5.pdf)) [](){: .schedule-section}| | 
