@@ -138,7 +138,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Feb 21|Section: Pytorch tutorial ([colab](https://colab.research.google.com/drive/1BLD1Eic5yw3myxdDSnL6qgBIjawYCw-Y?usp=sharing)) [](){: .schedule-section}| | 
 |Tue Feb 25|Convolutional Neural Networks ([slides](/assets/lectures/13_convnets.pdf))  |PML 14.1-14.2 |
 |Thu Feb 27|Embedding models, Word Vectors ([slides](/assets/lectures/14_wordvec.pdf))  |PML 20.5|
-|Fri Feb 28|Section: Sci-kit Learn tutorial [](){: .schedule-section}| | 
+|Fri Feb 28|Section: Sci-kit Learn tutorial ([colab](https://colab.research.google.com/drive/1WsH_gfVC7dIFtRtXNak0Lr2HR7ty4DPC?usp=sharing)) [](){: .schedule-section}| | 
 |Tue Mar 4 |Recurrent Neural Networks ([slides](/assets/lectures/15_rnns.pdf)) |PML 15.1-15.2 |
 |Thu Mar 6 |Sequence-to-sequence, Attention |PML 15.4 | **Homework 2 due** |
 |Fri Mar 7 |Section: Midterm preparation [](){: .schedule-section}| | 
