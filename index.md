@@ -140,7 +140,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Feb 27|Embedding models, Word Vectors ([slides](/assets/lectures/14_wordvec.pdf))  |PML 20.5|
 |Fri Feb 28|Section: Sci-kit Learn tutorial ([colab](https://colab.research.google.com/drive/1WsH_gfVC7dIFtRtXNak0Lr2HR7ty4DPC?usp=sharing)) [](){: .schedule-section}| | 
 |Tue Mar 4 |Recurrent Neural Networks ([slides](/assets/lectures/15_rnns.pdf)) |PML 15.1-15.2 |
-|Thu Mar 6 |Sequence-to-sequence, Attention |PML 15.4 | **Homework 2 due** |
+|Thu Mar 6 |Sequence-to-sequence, Attention ([slides](/assets/lectures/16_attention.pdf)) |PML 15.4 | **Homework 2 due** |
 |Fri Mar 7 |Section: Midterm preparation [](){: .schedule-section}| | 
 |Tue Mar 11|Decision Trees, ensembles |PML 18.1-18.5 | 
 |Thu Mar 13|**In-class Midterm Exam** [](){: .schedule-exam} | | 
