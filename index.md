@@ -146,7 +146,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Mar 13|**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Fri Mar 14|Section: Reading AlexNet paper ([link](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)) [](){: .schedule-section}| | 
 |Mar 15-21 |No class or section (Spring break) [](){: .schedule-break}| |
-|Tue Mar 25|Transformers I |PML 15.5-15.6| |
+|Tue Mar 25|Transformers I ([slides](/assets/lectures/18_transformers.pdf)) |PML 15.5-15.6| |
 |Thu Mar 27|Transformers II, Pretraining |PML 15.7 |
 |Fri Mar 28|Section: RNNs and backpropagation in pytorch [](){: .schedule-section}| | 
 |Tue Apr 1 |k-Means Clustering | PML 21.3|**Project Midterm Report due** |
