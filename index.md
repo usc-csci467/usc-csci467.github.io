@@ -32,8 +32,8 @@ Source: [xkcd](https://xkcd.com/1425/)
 * **[Final Project information](project)** 
 
 **News:** 
+* Homework 3 has been released {{ hw3 | strip_newlines }}. It is due **Tuesday, April 15**.
 * We have released three practice midterm exams: Midterm 1 ([problems](/assets/exams/midterm_1.pdf), [solutions](/assets/exams/midterm_1_solutions.pdf)), Midterm 2 ([problems](/assets/exams/midterm_2.pdf), [solutions](/assets/exams/midterm_2_solutions.pdf)), and Midterm 3 ([problems](/assets/exams/midterm_3.pdf), [solutions](/assets/exams/midterm_3_solutions.pdf)).
-* Homework 2 has been released {{ hw2 | strip_newlines }}. It is due **Thursday, March 6**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
 Some problems in computer science admit precise algorithmic solutions.
@@ -146,7 +146,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Mar 13|**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Fri Mar 14|Section: Reading AlexNet paper ([link](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)) [](){: .schedule-section}| | 
 |Mar 15-21 |No class or section (Spring break) [](){: .schedule-break}| |
-|Tue Mar 25|Transformers I ([slides](/assets/lectures/18_transformers.pdf)) |PML 15.5-15.6| |
+|Tue Mar 25|Transformers I ([slides](/assets/lectures/18_transformers.pdf)) |PML 15.5-15.6| Homework 3 released {{ hw3 | strip_newlines }}
 |Thu Mar 27|Transformers II, Pretraining |PML 15.7 |
 |Fri Mar 28|Section: RNNs and backpropagation in pytorch [](){: .schedule-section}| | 
 |Tue Apr 1 |k-Means Clustering | PML 21.3|**Project Midterm Report due** |
