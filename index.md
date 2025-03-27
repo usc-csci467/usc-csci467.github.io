@@ -149,9 +149,9 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Mar 25|Transformers I ([slides](/assets/lectures/18_transformers.pdf)) |PML 15.5-15.6| Homework 3 released {{ hw3 | strip_newlines }}
 |Thu Mar 27|Transformers II, Pretraining ([slides](/assets/lectures/19_transformers2.pdf)) |PML 15.7 |
 |Fri Mar 28|Section: RNNs and backpropagation in pytorch [](){: .schedule-section}| | 
-|Tue Apr 1 |k-Means Clustering | PML 21.3|**Project Midterm Report due** |
+|Tue Apr 1 |k-Means Clustering | PML 21.3||
 |Thu Apr 3 |Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2|
-|Fri Apr 4 |Section: Reading Transformers paper ([link](https://arxiv.org/abs/1706.03762)) [](){: .schedule-section}| 
+|Fri Apr 4 |Section: Reading Transformers paper ([link](https://arxiv.org/abs/1706.03762)) [](){: .schedule-section}| | **Project Midterm Report due** 
 |Tue Apr 8 |Expectation Maximization for GMMs; Start Dimensionality Reduction |PML 20.1, 20.4 |
 |Thu Apr 10|Finish Principal Components Analysis; start Multi-armed Bandits |PML2 34.1-34.4 ||
 |Fri Apr 11|Section: Practical guide to pretrained deep learning models [](){: .schedule-section}| | 
