@@ -130,7 +130,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Feb 4 | Generative Classifiers, Naive Bayes ([slides](/assets/lectures/07_naivebayes.pdf))  |PML 9.3-9.4 |
 |Thu Feb 6 |Nearest Neighbors, start of Kernels; Project discussion |PML 16.1, 16.3 |
 |Fri Feb 7 |Section: Calculus and Gradients [](){: .schedule-section} | | 
-|Tue Feb 11|Kernel methods continued |PML 4.3, 17.1, 17.3| **Homework 1 due** |
+|Tue Feb 11|Kernel methods continued ([visualization](https://www.youtube.com/watch?v=OdlNM96sHio)) |PML 4.3, 17.1, 17.3| **Homework 1 due** |
 |Thu Feb 13|Introduction to Neural Networks ([slides](/assets/lectures/10_neuralnets.pdf)) |PML 13.1-13.2 | Homework 2 released {{ hw2 | strip_newlines }}
 |Fri Feb 14|Section: Cross-Validation, Evaluation Metrics ([section](/assets/spring2024/sections/section4.pdf)) [](){: .schedule-section}| | 
 |Tue Feb 18|Backpropagation ([lecture](/assets/lectures/11_backprop.pdf), demo [part 1](/assets/backprop/part1_forward_only.py), [part 2](/assets/backprop/part2_trees.py), [part 3](/assets/backprop/part3_dags.py)) |PML 13.3 | **Project Proposal due** |
@@ -149,7 +149,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Mar 25|Transformers I ([slides](/assets/lectures/18_transformers.pdf)) |PML 15.5-15.6| Homework 3 released {{ hw3 | strip_newlines }}
 |Thu Mar 27|Transformers II, Pretraining ([slides](/assets/lectures/19_transformers2.pdf)) |PML 15.7 |
 |Fri Mar 28|Section: RNNs and backpropagation in pytorch [](){: .schedule-section}| | 
-|Tue Apr 1 |k-Means Clustering | PML 21.3||
+|Tue Apr 1 |k-Means Clustering ([visualization](https://www.youtube.com/watch?v=5I3Ei69I40s)) | PML 21.3||
 |Thu Apr 3 |Gaussian Mixture Models, Expectation Maximization | PML 21.4, PML2 8.1-8.2|
 |Fri Apr 4 |Section: Reading Transformers paper ([link](https://arxiv.org/abs/1706.03762)) [](){: .schedule-section}| | **Project Midterm Report due** 
 |Tue Apr 8 |Expectation Maximization for GMMs; Start Dimensionality Reduction |PML 20.1, 20.4 |
