@@ -26,7 +26,7 @@ Each member of a team should contribute both to the technical implementation and
 
 ### Project resources
 - If you're not sure how to find a good dataset, some possible sources include the [UC Irvine Machine Learning Repository](https://archive-beta.ics.uci.edu/) and [Kaggle](https://www.kaggle.com/datasets).
-- [USC CARC Discovery Cluster](https://www.carc.usc.edu/user-information/user-guides/hpc-basics/getting-started-discovery) is a computing cluster run by USC. 
+- [USC CARC Discovery Cluster](https://www.carc.usc.edu/user-guides/hpc-systems/discovery/getting-started-discovery) is a computing cluster run by USC. 
 I have requested and received quota to run jobs specifically for class final projects.
 Follow the link more to learn about how to use this resource.
 Note that both CPU and GPU-based machines are available---GPUs will be useful for running deep learning models.
