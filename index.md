@@ -32,7 +32,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 * **[Final Project information](project)** 
 
 **News:** 
-* Homework 3 has been released {{ hw3 | strip_newlines }}. It is due **Tuesday, April 15**.
+* Homework 4 has been released {{ hw4 | strip_newlines }}. It is due **Tuesday, April 15**.
 * We have released three practice midterm exams: Midterm 1 ([problems](/assets/exams/midterm_1.pdf), [solutions](/assets/exams/midterm_1_solutions.pdf)), Midterm 2 ([problems](/assets/exams/midterm_2.pdf), [solutions](/assets/exams/midterm_2_solutions.pdf)), and Midterm 3 ([problems](/assets/exams/midterm_3.pdf), [solutions](/assets/exams/midterm_3_solutions.pdf)).
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
@@ -156,7 +156,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Apr 10|Finish Principal Components Analysis; start Multi-armed Bandits |PML2 34.1-34.4 ||
 |Fri Apr 11|Section: Practical guide to pretrained deep learning models [](){: .schedule-section}| | 
 |Tue Apr 15|Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 |**Homework 3 due**| 
-|Thu Apr 17|Q-Learning |PML2 35.2-35.3 | 
+|Thu Apr 17|Q-Learning |PML2 35.2-35.3 | Homework 4 released {{ hw4 | strip_newlines }}
 |Fri Apr 18|Section: Reading CLIP paper ([link](https://arxiv.org/abs/2103.00020))  [](){: .schedule-section}| |
 |Tue Apr 22|Finishing RL; Adversarial Examples |PML2 19.1-19.8 |
 |Thu Apr 24|Spurious Correlations, Fairness in Machine Learning | FAML 1-4 | 
