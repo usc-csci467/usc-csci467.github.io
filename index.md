@@ -32,7 +32,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 * **[Final Project information](project)** 
 
 **News:** 
-* Homework 4 has been released {{ hw4 | strip_newlines }}. It is due **Tuesday, April 15**.
+* Homework 4 has been released {{ hw4 | strip_newlines }}. It is due **Thursday, May 1**.
 * We have released three practice midterm exams: Midterm 1 ([problems](/assets/exams/midterm_1.pdf), [solutions](/assets/exams/midterm_1_solutions.pdf)), Midterm 2 ([problems](/assets/exams/midterm_2.pdf), [solutions](/assets/exams/midterm_2_solutions.pdf)), and Midterm 3 ([problems](/assets/exams/midterm_3.pdf), [solutions](/assets/exams/midterm_3_solutions.pdf)).
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
