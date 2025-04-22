@@ -158,7 +158,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Apr 15|Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 |**Homework 3 due**| 
 |Thu Apr 17|Q-Learning |PML2 35.2-35.3 | Homework 4 released {{ hw4 | strip_newlines }}
 |Fri Apr 18|Section: Reading CLIP paper ([link](https://arxiv.org/abs/2103.00020))  [](){: .schedule-section}| |
-|Tue Apr 22|Finishing RL; Adversarial Examples |PML2 19.1-19.8 |
+|Tue Apr 22|Finishing RL; Adversarial Examples ([slides](/assets/lectures/26_adversarial.pdf)) |PML2 19.1-19.8 |
 |Thu Apr 24|Spurious Correlations, Fairness in Machine Learning | FAML 1-4 | 
 |Fri Apr 25|Section: Reading NeRF paper ([link](https://arxiv.org/abs/2003.08934)) [](){: .schedule-section}| 
 |Tue Apr 29|How does ChatGPT work? | 
