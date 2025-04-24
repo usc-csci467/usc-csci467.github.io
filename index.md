@@ -33,7 +33,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 
 **News:** 
 * Homework 4 has been released {{ hw4 | strip_newlines }}. It is due **Thursday, May 1**.
-* We have released three practice midterm exams: Midterm 1 ([problems](/assets/exams/midterm_1.pdf), [solutions](/assets/exams/midterm_1_solutions.pdf)), Midterm 2 ([problems](/assets/exams/midterm_2.pdf), [solutions](/assets/exams/midterm_2_solutions.pdf)), and Midterm 3 ([problems](/assets/exams/midterm_3.pdf), [solutions](/assets/exams/midterm_3_solutions.pdf)).
+* We have released three practice final exams: Final 1 ([problems](/assets/exams/final_1.pdf), [solutions](/assets/exams/final_1_solutions.pdf)), Final 2 ([problems](/assets/exams/final_2.pdf), [solutions](/assets/exams/final_2_solutions.pdf)), and Final 3 ([problems](/assets/exams/final_3.pdf), [solutions](/assets/exams/final_3_solutions.pdf)).
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
 Some problems in computer science admit precise algorithmic solutions.
@@ -159,7 +159,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Apr 17|Q-Learning |PML2 35.2-35.3 | Homework 4 released {{ hw4 | strip_newlines }}
 |Fri Apr 18|Section: Reading CLIP paper ([link](https://arxiv.org/abs/2103.00020))  [](){: .schedule-section}| |
 |Tue Apr 22|Finishing RL; Adversarial Examples ([slides](/assets/lectures/26_adversarial.pdf)) |PML2 19.1-19.8 |
-|Thu Apr 24|Spurious Correlations, Fairness in Machine Learning | FAML 1-4 | 
+|Thu Apr 24|Spurious Correlations, Fairness in Machine Learning ([slides](/assets/lectures/27_fairness.pdf)) | FAML 1-4 | 
 |Fri Apr 25|Section: Reading NeRF paper ([link](https://arxiv.org/abs/2003.08934)) [](){: .schedule-section}| 
 |Tue Apr 29|How does ChatGPT work? | 
 |Thu May 1 |Conclusion | | **Homework 4 due** |
