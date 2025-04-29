@@ -161,7 +161,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Tue Apr 22|Finishing RL; Adversarial Examples ([slides](/assets/lectures/26_adversarial.pdf)) |PML2 19.1-19.8 |
 |Thu Apr 24|Spurious Correlations, Fairness in Machine Learning ([slides](/assets/lectures/27_fairness.pdf)) | FAML 1-4 | 
 |Fri Apr 25|Section: Reading NeRF paper ([link](https://arxiv.org/abs/2003.08934)) [](){: .schedule-section}| 
-|Tue Apr 29|How does ChatGPT work? | 
+|Tue Apr 29|How does ChatGPT work? ([slides](/assets/lectures/28_chatgpt.pdf)) | 
 |Thu May 1 |Conclusion | | **Homework 4 due** |
 |Tue May 6 |Section: Final Exam preparation (in DMC 100) [](){: .schedule-section}| | 
 |Tue May 13|**Final Exam, 2-4pm** [](){:.schedule-exam} | | **Project Final Report due Thursday, May 8**|
