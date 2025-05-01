@@ -162,7 +162,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Thu Apr 24|Spurious Correlations, Fairness in Machine Learning ([slides](/assets/lectures/27_fairness.pdf)) | FAML 1-4 | 
 |Fri Apr 25|Section: Reading NeRF paper ([link](https://arxiv.org/abs/2003.08934)) [](){: .schedule-section}| 
 |Tue Apr 29|How does ChatGPT work? ([slides](/assets/lectures/28_chatgpt.pdf)) | 
-|Thu May 1 |Conclusion | | **Homework 4 due** |
+|Thu May 1 |Conclusion ([slides](/assets/lectures/29_conclusion.pdf)) | | **Homework 4 due** |
 |Tue May 6 |Section: Final Exam preparation (in DMC 100) [](){: .schedule-section}| | 
 |Tue May 13|**Final Exam, 2-4pm** [](){:.schedule-exam} | | **Project Final Report due Thursday, May 8**|
 {: .schedule #schedule-table}
