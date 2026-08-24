@@ -110,7 +110,7 @@ All assignments are due by **11:59pm** on the indicated date.
 
 |Date|Topic|Related Readings|Assignments|
 |--|--|--|--|
-|Mon Aug 24|Introduction |PML 1| 
+|Mon Aug 24|Introduction ([slides](/assets/lectures/01_intro.pdf)) |PML 1| 
 |Wed Aug 26|Linear Regression |PML 7.8, 8.2|
 |Fri Aug 28|Section: Python & numpy, Linear Regression in numpy [](){: .schedule-section} | |
 |Mon Aug 31|Featurization, Convexity |PML 2.6.3, 4.2, 8.1 ||
