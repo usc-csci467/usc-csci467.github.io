@@ -152,8 +152,8 @@ All assignments are due by **11:59pm** on the indicated date.
 |Nov 25-27|No class or section (Thanksgiving Break) [](){: .schedule-break}|
 |Mon Nov 30|Large Language Models | **Homework 4 due**
 |Wed Dec 2 |Conclusion ([slides](/assets/lectures/29_conclusion.pdf)) |
-|Fri May 6 |Section: Final Exam preparation [](){: .schedule-section}| | 
-|Fri Dec 11|**Final Exam, 2-4pm** [](){:.schedule-exam} | | **Project Final Report due Monday, May 7**|
+|Fri Dec 4 |Section: Final Exam preparation [](){: .schedule-section}| | 
+|Fri Dec 11|**Final Exam, 2-4pm** [](){:.schedule-exam} | | **Project Final Report due Monday, December 7**|
 {: .schedule #schedule-table}
 
 ## Grading
