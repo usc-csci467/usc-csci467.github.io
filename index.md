@@ -33,6 +33,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 {::comment} * **[Final Project information](project)** {:/}
 
 **News:** 
+* Homework 0 has been released {{ hw0 | strip_newlines }}. It is due **Tuesday, September 8**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
 Some problems in computer science admit precise algorithmic solutions.
@@ -111,7 +112,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Date|Topic|Related Readings|Assignments|
 |--|--|--|--|
 |Mon Aug 24|Introduction ([slides](/assets/lectures/01_intro.pdf)) |PML 1| 
-|Wed Aug 26|Linear Regression |PML 7.8, 8.2|
+|Wed Aug 26|Linear Regression |PML 7.8, 8.2| Homework 0 released {{ hw0 | strip_newlines }}
 |Fri Aug 28|Section: Python & numpy, Linear Regression in numpy [](){: .schedule-section} | |
 |Mon Aug 31|Featurization, Convexity |PML 2.6.3, 4.2, 8.1 ||
 |Wed Sep 2|Maximum Likelihood Estimation, Logistic Regression |PML 10.1-10.3|
@@ -151,7 +152,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Nov 20|Section: Reading CLIP paper ([link](https://arxiv.org/abs/2103.00020))  [](){: .schedule-section}| |
 |Mon Nov 23|Spurious Correlations, Fairness in Machine Learning ([slides](/assets/lectures/27_fairness.pdf)) | FAML 1-4 | 
 |Nov 25-27|No class or section (Thanksgiving Break) [](){: .schedule-break}|
-|Mon Nov 30|Large Language Models | **Homework 4 due**
+|Mon Nov 30|Large Language Models | | **Homework 4 due**
 |Wed Dec 2 |Conclusion ([slides](/assets/lectures/29_conclusion.pdf)) |
 |Fri Dec 4 |Section: Final Exam preparation [](){: .schedule-section}| | 
 |Fri Dec 11|**Final Exam, 2-4pm** [](){:.schedule-exam} | | **Project Final Report due Monday, December 7**|
