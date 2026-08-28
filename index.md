@@ -112,8 +112,8 @@ All assignments are due by **11:59pm** on the indicated date.
 |Date|Topic|Related Readings|Assignments|
 |--|--|--|--|
 |Mon Aug 24|Introduction ([slides](/assets/lectures/01_intro.pdf)) |PML 1| 
-|Wed Aug 26|Linear Regression |PML 7.8, 8.2| Homework 0 released {{ hw0 | strip_newlines }}
-|Fri Aug 28|Section: Python & numpy, Linear Regression in numpy [](){: .schedule-section} | |
+|Wed Aug 26|Linear Regression ([demo](https://colab.research.google.com/drive/11hdXd0C7GGrxpJlC-PV6eImcWJ3Bk_Q2#scrollTo=COxZk9G7bkW_)) |PML 7.8, 8.2| Homework 0 released {{ hw0 | strip_newlines }}
+|Fri Aug 28|Section: Linear algebra review, efficient linear regression in numpy [](){: .schedule-section} | |
 |Mon Aug 31|Featurization, Convexity |PML 2.6.3, 4.2, 8.1 ||
 |Wed Sep 2|Maximum Likelihood Estimation, Logistic Regression |PML 10.1-10.3|
 |Fri Sep 4|Section: Review of Probability & Linear Algebra ([notes](https://hackmd.io/@charlotteTYC/prerequisites)) [](){: .schedule-section} | | 
