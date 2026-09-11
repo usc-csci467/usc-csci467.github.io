@@ -33,7 +33,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 {::comment} * **[Final Project information](project)** {:/}
 
 **News:** 
-* Homework 0 has been released {{ hw0 | strip_newlines }}. It is due **Tuesday, September 8**.
+* Homework 1 has been released {{ hw1 | strip_newlines }}. It is due **Wednesday, September 23**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
 Some problems in computer science admit precise algorithmic solutions.
@@ -73,8 +73,23 @@ Instructor
 Teaching Assistant
 </div>
 <div class="staff-photo" markdown=1>
-![Course Producer](/assets/images/person_placeholder.jpg)  
-**TBD**  
+![Lohith Saradhi Kandukuri](/assets/images/lohith.jpg)  
+**Lohith Saradhi Kandukuri**  
+Course Producer
+</div>
+<div class="staff-photo" markdown=1>
+![Ryan Nader](/assets/images/ryan.jpg)  
+**Ryan Nader**  
+Course Producer
+</div>
+<div class="staff-photo" markdown=1>
+![Alekhya Nadimpalli](/assets/images/alekhya.jpg)  
+**Alekhya Nadimpalli**  
+Course Producer
+</div>
+<div class="staff-photo" markdown=1>
+![Kyle Ng](/assets/images/kyle.jpg)  
+**Kyle Ng**  
 Course Producer
 </div>
 
@@ -118,7 +133,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Wed Sep 2|Maximum Likelihood Estimation, Logistic Regression |PML 10.1-10.3|
 |Fri Sep 4|Section: Review of Probability & Linear Algebra ([notes](https://hackmd.io/@charlotteTYC/prerequisites)) [](){: .schedule-section} | | 
 |Mon Sep 7|No class (Labor Day) [](){: .schedule-break}| | **Homework 0 due Tuesday Sep 8**|
-|Wed Sep 9| Overfitting, Regularization |PML 4.5, 4.7, 11.3-11.4 |
+|Wed Sep 9| Overfitting, Regularization |PML 4.5, 4.7, 11.3-11.4 | Homework 1 released {{ hw1 | strip_newlines }}
 |Fri Sep 11|Section: Review of Calculus, Gradients [](){: .schedule-section}| |
 |Mon Sep 14|Bias and Variance, Normal Equations | PML 11.2| 
 |Wed Sep 16 | Generative Classifiers, Naive Bayes |PML 9.3-9.4 |
