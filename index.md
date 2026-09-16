@@ -136,7 +136,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Wed Sep 9| Overfitting, Regularization |PML 4.5, 4.7, 11.3-11.4 | Homework 1 released {{ hw1 | strip_newlines }}
 |Fri Sep 11|Section: Review of Calculus, Gradients [](){: .schedule-section}| |
 |Mon Sep 14|Bias and Variance, Normal Equations | PML 11.2| 
-|Wed Sep 16 | Generative Classifiers, Naive Bayes |PML 9.3-9.4 |
+|Wed Sep 16 | Generative Classifiers, Naive Bayes ([slides](/assets/lectures/07_naivebayes.pdf)) |PML 9.3-9.4 |
 |Fri Sep 18|Section: Cross-Validation, Evaluation Metrics [](){: .schedule-section}| | 
 |Mon Sep 21|Introduction to Neural Networks |PML 13.1-13.2 |
 |Wed Sep 23|Backpropagation |PML 13.3 | **Homework 1 due** |
