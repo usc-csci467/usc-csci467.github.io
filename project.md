@@ -1,14 +1,16 @@
 ---
 layout: class
 title: "CSCI 467: Introduction to Machine Learning"
-semester: Spring 2025
-time: Tuesdays and Thursdays at 3:30-4:50pm
-location: DMC 100
-location_link: "https://maps.usc.edu/?id=1928&reference=DMC"
+semester: Fall 2026
+time: Mondays and Wednesdays at 2:00-3:20pm
+location: THH 210
+location_link: "https://maps.usc.edu/?id=1928&reference=THH"
 instructor: Robin Jia
 order: 1
 ---
 In the final project, you will work in groups of 1-3 students to apply machine learning techniques to a problem of your choice.
+You are encouraged to be creative and imagine how machine learning could be used to tackle some problem that you care about.
+
 Before the final project, there will be a project proposal and midterm report due in the middle of the semester.
 These exist to ensure that you will be on track to complete a successful final project.
 
@@ -134,11 +136,11 @@ It must include the following:
 I have selected a few final reports from previous semesters as example projects.
 All these final reports received high marks.
 These should give you an idea of the expectations for the final project, as well as the breadth of projects that are possible:
-* [Sentiment Analysis with Multi-Models: A Focus on Hate Speech Detection](assets/report1.pdf) by Keyu He, Haofeng Xu, and Qiang Zeng
+* [Music Genre Classification with Machine Learning](assets/report1.pdf) by Lorena Yan, Ryan Wang, and Tianhao Wu
 * [Cell Segmentation for MERFISH Human Heart Experiments](assets/report2.pdf) by Jackie Eschbach
 * [League of Legends Match Win Classifier](assets/report3.pdf) by Jonathan Ong
-* [Music Genre Classification with Machine Learning](assets/report4.pdf) by Lorena Yan, Ryan Wang, and Tianhao Wu
-* [Machine Learning on Stock Data to Inform Future Investment Choices](assets/report5.pdf) by Rohan Gupta, Rithik Pothuganti, and Alex Gao
+* [Towards Mitigating the Reversal Curse in LLMs](assets/report4.pdf) by David Bai and Allison Lim
+* [Machine Learning for Short-Term Queue Time Prediction at Disneyland's Space Mountain](assets/report5.pdf) by Irika Katiyar and Jeremy Pogue
 
 ### FAQ
 *What if we try something but it doesn't work? (e.g., doesn't improve over the baseline)*

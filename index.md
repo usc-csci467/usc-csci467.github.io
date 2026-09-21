@@ -29,8 +29,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 * **[Lecture Notes](/assets/notes.pdf)**
 * **[OneNote Notebook of Handwritten Lectures](https://1drv.ms/o/c/c7647f7ae642c6ff/IgDR_n24ISqRRKJfVvoabQ92AXVSIEGddtHZvB7GXLxXotk?e=b7l1ZT)**
 * **[LaTeX Template for Homework Submissions](https://www.overleaf.com/read/kjvpshdfvwsd#593bd8)**
-{::comment} * **[OneNote Notebook of Handwritten Lectures](https://1drv.ms/o/c/c7647f7ae642c6ff/EqrGz7KAwT5FmAsI_XOp1kEBE_igRdKcaGZHDPEKGCIIyQ?e=yQGf3Z)**{:/}
-{::comment} * **[Final Project information](project)** {:/}
+* **[Final Project information](project)**
 
 **News:** 
 * Homework 1 has been released {{ hw1 | strip_newlines }}. It is due **Wednesday, September 23**.
@@ -207,8 +206,7 @@ We will **not accept any assignments more than 3 days late.**
 The final project can be done individually or in groups of up to 3.
 This is your chance to freely explore machine learning methods and how they can be applied to a task of our choice.
 You will also learn about best practices for developing machine learning methods---inspecting your data, establishing baselines, and analyzing your errors.
-{::comment}More information about the final project is available [here](project). {:/}
-More information will be released soon.
+More information about the final project is available [here](project).
 
 ## Resources
 I have written **[Lecture Notes](/assets/notes.pdf)** that accompany all the iPad lectures.
