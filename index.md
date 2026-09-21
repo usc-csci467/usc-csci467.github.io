@@ -137,7 +137,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Mon Sep 14|Bias and Variance, Normal Equations | PML 11.2| 
 |Wed Sep 16 | Generative Classifiers, Naive Bayes ([slides](/assets/lectures/07_naivebayes.pdf)) |PML 9.3-9.4 |
 |Fri Sep 18|Section: Cross-Validation, Evaluation Metrics [](){: .schedule-section}| | 
-|Mon Sep 21|Introduction to Neural Networks |PML 13.1-13.2 |
+|Mon Sep 21|Introduction to Neural Networks ([slides](/assets/lectures/08_neuralnets.pdf))  |PML 13.1-13.2 |
 |Wed Sep 23|Backpropagation |PML 13.3 | **Homework 1 due** |
 |Fri Sep 25|Section: Sci-kit Learn tutorial [](){: .schedule-section}| | 
 |Mon Sep 28|Neural Network Optimizers, Dropout, Early Stopping | PML 8.4, 13.4-13.5|**Oral exams this week**
