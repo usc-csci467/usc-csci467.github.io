@@ -138,7 +138,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Wed Sep 16 | Generative Classifiers, Naive Bayes ([slides](/assets/lectures/07_naivebayes.pdf)) |PML 9.3-9.4 |
 |Fri Sep 18|Section: Cross-Validation, Evaluation Metrics [](){: .schedule-section}| | 
 |Mon Sep 21|Introduction to Neural Networks ([slides](/assets/lectures/08_neuralnets.pdf))  |PML 13.1-13.2 |
-|Wed Sep 23|Backpropagation ([slides](/assets/lectures/09_backprop.pdf)) |PML 13.3 | **Homework 1 due** |
+|Wed Sep 23|Backpropagation ([slides](/assets/lectures/09_backprop.pdf), demo [part 1](/assets/backprop/part1_forward_only.py), [part 2](/assets/backprop/part2_trees.py), [part 3](/assets/spring2025/part3_dags.py))) |PML 13.3 | **Homework 1 due** |
 |Fri Sep 25|Section: Sci-kit Learn tutorial [](){: .schedule-section}| | 
 |Mon Sep 28|Neural Network Optimizers, Dropout, Early Stopping | PML 8.4, 13.4-13.5|**Oral exams this week**
 |Wed Sep 30|Convolutional Neural Networks |PML 14.1-14.2 |
