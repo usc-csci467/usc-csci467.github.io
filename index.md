@@ -141,7 +141,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Wed Sep 23|Backpropagation ([slides](/assets/lectures/09_backprop.pdf), demo [part 1](/assets/backprop/part1_forward_only.py), [part 2](/assets/backprop/part2_trees.py), [part 3](/assets/spring2025/part3_dags.py))) |PML 13.3 | **Homework 1 due** |
 |Fri Sep 25|Section: Sci-kit Learn tutorial [](){: .schedule-section}| | 
 |Mon Sep 28|Neural Network Optimizers, Dropout, Early Stopping ([slides](/assets/lectures/10_nnoptim.pdf)) | PML 8.4, 13.4-13.5|**Oral exams this week**
-|Wed Sep 30|Convolutional Neural Networks |PML 14.1-14.2 | Homework 0 released {{ hw2 | strip_newlines }}|
+|Wed Sep 30|Convolutional Neural Networks |PML 14.1-14.2 | Homework 2 released {{ hw2 | strip_newlines }}|
 |Fri Oct 2|Section: Pytorch tutorial ([colab](https://colab.research.google.com/drive/1BLD1Eic5yw3myxdDSnL6qgBIjawYCw-Y?usp=sharing)) [](){: .schedule-section}| | 
 |Mon Oct 5|Embedding models, Word Vectors |PML 20.5| **Project Proposal due**
 |Wed Oct 7 |Recurrent Neural Networks |PML 15.1-15.2 |
