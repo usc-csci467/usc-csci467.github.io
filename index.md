@@ -139,7 +139,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Sep 18|Section: Cross-Validation, Evaluation Metrics ([slides](https://docs.google.com/presentation/d/1mLWxPCAHPShF51xvnFkN1Y27QrJjGGIkAHVkaAywZ_c/edit?usp=sharing)) [](){: .schedule-section}| | 
 |Mon Sep 21|Introduction to Neural Networks ([slides](/assets/lectures/08_neuralnets.pdf))  |PML 13.1-13.2 |
 |Wed Sep 23|Backpropagation ([slides](/assets/lectures/09_backprop.pdf), demo [part 1](/assets/backprop/part1_forward_only.py), [part 2](/assets/backprop/part2_trees.py), [part 3](/assets/spring2025/part3_dags.py)) |PML 13.3 | **Homework 1 due** |
-|Fri Sep 25|Section: Sci-kit Learn tutorial [colab](https://colab.research.google.com/drive/1Quhd8KqvL0F_J90pEXlXobiiCUWlOmu1?usp=sharing) [](){: .schedule-section}| | 
+|Fri Sep 25|Section: Sci-kit Learn tutorial ([colab](https://colab.research.google.com/drive/1Quhd8KqvL0F_J90pEXlXobiiCUWlOmu1?usp=sharing)) [](){: .schedule-section}| | 
 |Mon Sep 28|Neural Network Optimizers, Dropout, Early Stopping ([slides](/assets/lectures/10_nnoptim.pdf)) | PML 8.4, 13.4-13.5|**Oral exams this week**
 |Wed Sep 30|Convolutional Neural Networks ([slides](/assets/lectures/11_convnets.pdf)) |PML 14.1-14.2 | Homework 2 released {{ hw2 | strip_newlines }}|
 |Fri Oct 2|Section: Pytorch tutorial ([colab](https://colab.research.google.com/drive/1BLD1Eic5yw3myxdDSnL6qgBIjawYCw-Y?usp=sharing)) [](){: .schedule-section}| | 
