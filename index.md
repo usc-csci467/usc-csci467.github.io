@@ -32,6 +32,11 @@ Source: [xkcd](https://xkcd.com/1425/)
 * **[Final Project information](project)**
 
 **News:** 
+* Practice midterm exams are available: [midterm 1](/assets/exams/midterm_1.pdf), [solutions 1](/assets/exams/midterm_1.pdf),
+[midterm 2](/assets/exams/midterm_2.pdf), [solutions 2](/assets/exams/midterm_2.pdf),
+[midterm 3](/assets/exams/midterm_3.pdf), [solutions 3](/assets/exams/midterm_3.pdf). 
+[midterm 4](/assets/exams/midterm_4.pdf), [solutions 4](/assets/exams/midterm_4.pdf). 
+Note: You may ignore any questions that mention k-nearest neighbors or kernels, as we are not covering these topics this semester.
 * Homework 2 has been released {{ hw2 | strip_newlines }}. It is due **Monday, October 12**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
@@ -143,7 +148,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Mon Sep 28|Neural Network Optimizers, Dropout, Early Stopping ([slides](/assets/lectures/10_nnoptim.pdf)) | PML 8.4, 13.4-13.5|**Oral exams this week**
 |Wed Sep 30|Convolutional Neural Networks ([slides](/assets/lectures/11_convnets.pdf)) |PML 14.1-14.2 | Homework 2 released {{ hw2 | strip_newlines }}|
 |Fri Oct 2|Section: Pytorch tutorial ([colab](https://colab.research.google.com/drive/1V-9adNhvhVN7AlOP8_KIwBx6vhEnpatx?usp=sharing)) [](){: .schedule-section}| | 
-|Mon Oct 5|Embedding models, Word Vectors |PML 20.5| **Project Proposal due**
+|Mon Oct 5|Embedding models, Word Vectors ([slides](/assets/lectures/12_wordvec.pdf)) |PML 20.5| **Project Proposal due**
 |Wed Oct 7 |Recurrent Neural Networks |PML 15.1-15.2 |
 |Fri Oct 9 |No Section (Fall Break) [](){: .schedule-break}| | 
 |Mon Oct 12 |Sequence-to-sequence, Attention |PML 15.4 | **Homework 2 due** |
