@@ -149,7 +149,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Wed Sep 30|Convolutional Neural Networks ([slides](/assets/lectures/11_convnets.pdf)) |PML 14.1-14.2 | Homework 2 released {{ hw2 | strip_newlines }}|
 |Fri Oct 2|Section: Pytorch tutorial ([colab](https://colab.research.google.com/drive/1V-9adNhvhVN7AlOP8_KIwBx6vhEnpatx?usp=sharing)) [](){: .schedule-section}| | 
 |Mon Oct 5|Embedding models, Word Vectors ([slides](/assets/lectures/12_wordvec.pdf)) |PML 20.5| **Project Proposal due**
-|Wed Oct 7 |Recurrent Neural Networks |PML 15.1-15.2 |
+|Wed Oct 7 |Recurrent Neural Networks ([slides](/assets/lectures/13_rnns.pdf)) |PML 15.1-15.2 |
 |Fri Oct 9 |No Section (Fall Break) [](){: .schedule-break}| | 
 |Mon Oct 12 |Sequence-to-sequence, Attention |PML 15.4 | **Homework 2 due** |
 |Wed Oct 14|Decision Trees, ensembles |PML 18.1-18.5 | 
