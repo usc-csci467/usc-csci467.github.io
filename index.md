@@ -32,10 +32,10 @@ Source: [xkcd](https://xkcd.com/1425/)
 * **[Final Project information](project)**
 
 **News:** 
-* Practice midterm exams are available: [midterm 1](/assets/exams/midterm_1.pdf), [solutions 1](/assets/exams/midterm_1.pdf),
-[midterm 2](/assets/exams/midterm_2.pdf), [solutions 2](/assets/exams/midterm_2.pdf),
-[midterm 3](/assets/exams/midterm_3.pdf), [solutions 3](/assets/exams/midterm_3.pdf). 
-[midterm 4](/assets/exams/midterm_4.pdf), [solutions 4](/assets/exams/midterm_4.pdf). 
+* Practice midterm exams are available: [midterm 1](/assets/exams/midterm_1.pdf), [solutions 1](/assets/exams/midterm_1_solutions.pdf),
+[midterm 2](/assets/exams/midterm_2.pdf), [solutions 2](/assets/exams/midterm_2_solutions.pdf),
+[midterm 3](/assets/exams/midterm_3.pdf), [solutions 3](/assets/exams/midterm_3_solutions.pdf). 
+[midterm 4](/assets/exams/midterm_4.pdf), [solutions 4](/assets/exams/midterm_4_solutions.pdf). 
 Note: You may ignore any questions that mention k-nearest neighbors or kernels, as we are not covering these topics this semester.
 * Homework 2 has been released {{ hw2 | strip_newlines }}. It is due **Monday, October 12**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
