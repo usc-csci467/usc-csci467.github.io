@@ -152,7 +152,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Wed Oct 7 |Recurrent Neural Networks ([slides](/assets/lectures/13_rnns.pdf)) |PML 15.1-15.2 |
 |Fri Oct 9 |No Section (Fall Break) [](){: .schedule-break}| | 
 |Mon Oct 12 |Sequence-to-sequence, Attention ([slides](/assets/lectures/14_attention.pdf)) |PML 15.4 | **Homework 2 due** |
-|Wed Oct 14|Decision Trees, ensembles |PML 18.1-18.5 | 
+|Wed Oct 14|Decision Trees, ensembles; Midterm review ([slides](/assets/lectures/15_trees.pdf)) |PML 18.1-18.5 | 
 |Fri Oct 16 |Section: Midterm preparation [](){: .schedule-section}| | 
 |Mon Oct 19|**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Wed Oct 21|Transformers I |PML 15.5-15.6| 
