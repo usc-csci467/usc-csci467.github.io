@@ -155,7 +155,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Wed Oct 14|Decision Trees, ensembles; Midterm review ([slides](/assets/lectures/15_trees.pdf)) |PML 18.1-18.5 | 
 |Fri Oct 16 |Section: Midterm preparation ([slides](https://docs.google.com/presentation/d/1A7FW9p9f1XqD5EfJx1wWM8GKz42a-CK3WvzIhRuOOq0/edit?usp=sharing)){: .schedule-section}| | 
 |Mon Oct 19|**In-class Midterm Exam** [](){: .schedule-exam} | | 
-|Wed Oct 21|Transformers I |PML 15.5-15.6| 
+|Wed Oct 21|Transformers I ([slides](/assets/lectures/16_transformers.pdf)) |PML 15.5-15.6| 
 |Fri Oct 23|Section: Reading AlexNet paper ([link](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)) [](){: .schedule-section}| | 
 |Mon Oct 26|Transformers II, Pretraining |PML 15.7 |
 |Wed Oct 28 |k-Means Clustering ([visualization](https://www.youtube.com/watch?v=5I3Ei69I40s)) | PML 21.3||
