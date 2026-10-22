@@ -153,13 +153,13 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Oct 9 |No Section (Fall Break) [](){: .schedule-break}| | 
 |Mon Oct 12 |Sequence-to-sequence, Attention ([slides](/assets/lectures/14_attention.pdf)) |PML 15.4 | **Homework 2 due** |
 |Wed Oct 14|Decision Trees, ensembles; Midterm review ([slides](/assets/lectures/15_trees.pdf)) |PML 18.1-18.5 | 
-|Fri Oct 16 |Section: Midterm preparation ([slides](https://docs.google.com/presentation/d/1A7FW9p9f1XqD5EfJx1wWM8GKz42a-CK3WvzIhRuOOq0/edit?usp=sharing)){: .schedule-section}| | 
+|Fri Oct 16 |Section: Midterm preparation ([slides](https://docs.google.com/presentation/d/1A7FW9p9f1XqD5EfJx1wWM8GKz42a-CK3WvzIhRuOOq0/edit?usp=sharing))| | 
 |Mon Oct 19|**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Wed Oct 21|Transformers I ([slides](/assets/lectures/16_transformers.pdf)) |PML 15.5-15.6| 
-|Fri Oct 23|Section: Reading AlexNet paper ([link](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)) [](){: .schedule-section}| | 
+|Fri Oct 23|Section: RNNs and backpropagation in pytorch ([tutorial](https://docs.pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html))| | 
 |Mon Oct 26|Transformers II, Pretraining |PML 15.7 |
 |Wed Oct 28 |k-Means Clustering ([visualization](https://www.youtube.com/watch?v=5I3Ei69I40s)) | PML 21.3||
-|Fri Oct 30|Section: RNNs and backpropagation in pytorch [](){: .schedule-section}| | 
+|Fri Oct 30|Section: Reading AlexNet paper ([link](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)) [](){: .schedule-section}| | 
 |Mon Nov 2 | Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 | **Project Midterm Report due**
 |Wed Nov 4|Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 |
 |Fri Nov 6 |Section: Reading Transformers paper ([link](https://arxiv.org/abs/1706.03762)) [](){: .schedule-section}| | 
