@@ -153,7 +153,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Oct 9 |No Section (Fall Break) [](){: .schedule-break}| | 
 |Mon Oct 12 |Sequence-to-sequence, Attention ([slides](/assets/lectures/14_attention.pdf)) |PML 15.4 | **Homework 2 due** |
 |Wed Oct 14|Decision Trees, ensembles; Midterm review ([slides](/assets/lectures/15_trees.pdf)) |PML 18.1-18.5 | 
-|Fri Oct 16 |Section: Midterm preparation ([slides](https://docs.google.com/presentation/d/1A7FW9p9f1XqD5EfJx1wWM8GKz42a-CK3WvzIhRuOOq0/edit?usp=sharing))| | 
+|Fri Oct 16 |Section: Midterm preparation ([slides](https://docs.google.com/presentation/d/1A7FW9p9f1XqD5EfJx1wWM8GKz42a-CK3WvzIhRuOOq0/edit?usp=sharing)) [](){: .schedule-section}| | 
 |Mon Oct 19|**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Wed Oct 21|Transformers I ([slides](/assets/lectures/16_transformers.pdf)) |PML 15.5-15.6| 
 |Fri Oct 23|Section: RNNs and backpropagation in pytorch ([tutorial](https://docs.pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html))| | 
