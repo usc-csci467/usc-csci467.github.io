@@ -156,7 +156,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Oct 16 |Section: Midterm preparation ([slides](https://docs.google.com/presentation/d/1A7FW9p9f1XqD5EfJx1wWM8GKz42a-CK3WvzIhRuOOq0/edit?usp=sharing)) [](){: .schedule-section}| | 
 |Mon Oct 19|**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Wed Oct 21|Transformers I ([slides](/assets/lectures/16_transformers.pdf)) |PML 15.5-15.6| 
-|Fri Oct 23|Section: RNNs and backpropagation in pytorch ([tutorial](https://docs.pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)) [](){: .schedule-section}| | 
+|Fri Oct 23|Section: RNNs and backpropagation in pytorch ([colab]([https://docs.pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html](https://colab.research.google.com/drive/1q_GmOQjFPyJ-HV27g0UF5nMg3g8kRbRJ?usp=sharing))) [](){: .schedule-section}| | 
 |Mon Oct 26|Transformers II, Pretraining |PML 15.7 |
 |Wed Oct 28 |k-Means Clustering ([visualization](https://www.youtube.com/watch?v=5I3Ei69I40s)) | PML 21.3||
 |Fri Oct 30|Section: Reading AlexNet paper ([link](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)) [](){: .schedule-section}| | 
