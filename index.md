@@ -37,7 +37,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 [midterm 3](/assets/exams/midterm_3.pdf), [solutions 3](/assets/exams/midterm_3_solutions.pdf). 
 [midterm 4](/assets/exams/midterm_4.pdf), [solutions 4](/assets/exams/midterm_4_solutions.pdf). 
 Note: You may ignore any questions that mention k-nearest neighbors or kernels, as we are not covering these topics this semester.
-* Homework 2 has been released {{ hw2 | strip_newlines }}. It is due **Monday, October 12**.
+* Homework 3 has been released {{ hw3 | strip_newlines }}. It is due **Monday, November 9**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
 Some problems in computer science admit precise algorithmic solutions.
@@ -157,7 +157,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Mon Oct 19|**In-class Midterm Exam** [](){: .schedule-exam} | | 
 |Wed Oct 21|Transformers I ([slides](/assets/lectures/16_transformers.pdf)) |PML 15.5-15.6| 
 |Fri Oct 23|Section: RNNs and backpropagation in pytorch ([colab](https://colab.research.google.com/drive/1q_GmOQjFPyJ-HV27g0UF5nMg3g8kRbRJ?usp=sharing)) [](){: .schedule-section}| | 
-|Mon Oct 26|Transformers II, Pretraining ([slides](/assets/lectures/17_transformers2.pdf))  |PML 15.7 |
+|Mon Oct 26|Transformers II, Pretraining ([slides](/assets/lectures/17_transformers2.pdf))  |PML 15.7 | Homework 3 released {{ hw3 | strip_newlines }}
 |Wed Oct 28 |k-Means Clustering ([visualization](https://www.youtube.com/watch?v=5I3Ei69I40s)) | PML 21.3||
 |Fri Oct 30|Section: Reading AlexNet paper ([link](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)) [](){: .schedule-section}| | 
 |Mon Nov 2 | Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 | **Project Midterm Report due**
