@@ -162,10 +162,10 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Oct 30|Section: Reading AlexNet paper ([link](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)) [](){: .schedule-section}| | 
 |Mon Nov 2 | Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 | **Project Midterm Report due**
 |Wed Nov 4|Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 |
-|Fri Nov 6 |Section: Reading Transformers paper ([link](https://arxiv.org/abs/1706.03762)) [](){: .schedule-section}| | 
+|Fri Nov 6 |Section: Practical guide to pretrained deep learning models [](){: .schedule-section}| | 
 |Mon Nov 9|Q-Learning |PML2 35.2 | **Homework 3 due**
 |Wed Nov 11|No class (Veteran's Day) [](){: .schedule-break}|
-|Fri Nov 13|Section: Practical guide to pretrained deep learning models [](){: .schedule-section}| | 
+|Fri Nov 13|Section: Reading Transformers paper ([link](https://arxiv.org/abs/1706.03762)) [](){: .schedule-section}| | 
 |Mon Nov 16|Policy Gradient| PML2 35.3 |
 |Wed Nov 18|Adversarial Examples, Privacy |PML2 19.1-19.8 |
 |Fri Nov 20|Section: Reading CLIP paper ([link](https://arxiv.org/abs/2103.00020))  [](){: .schedule-section}| |
