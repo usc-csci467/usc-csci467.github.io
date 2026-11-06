@@ -162,7 +162,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Oct 30|Section: Reading AlexNet paper ([link](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)) [](){: .schedule-section}| | 
 |Mon Nov 2 | Dimensionality Reduction, Principal Component Analysis |PML 20.1, 20.4 | **Project Midterm Report due**
 |Wed Nov 4|Markov Decision Processes, Reinforcement Learning |PML2 34.5-34.6, 35.1, 35.4 |
-|Fri Nov 6 |Section: Practical guide to pretrained deep learning models [](){: .schedule-section}| | 
+|Fri Nov 6 |Section: Practical guide to pretrained deep learning models ([colab](https://colab.research.google.com/drive/1ZTx76d9ImFnK-KLpvyxF0ifeUgQVjbwR?usp=sharing)) [](){: .schedule-section}| | 
 |Mon Nov 9|Q-Learning |PML2 35.2 | **Homework 3 due**
 |Wed Nov 11|No class (Veteran's Day) [](){: .schedule-break}|
 |Fri Nov 13|Section: Reading Transformers paper ([link](https://arxiv.org/abs/1706.03762)) [](){: .schedule-section}| | 
