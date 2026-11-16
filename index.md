@@ -37,7 +37,7 @@ Source: [xkcd](https://xkcd.com/1425/)
 [midterm 3](/assets/exams/midterm_3.pdf), [solutions 3](/assets/exams/midterm_3_solutions.pdf). 
 [midterm 4](/assets/exams/midterm_4.pdf), [solutions 4](/assets/exams/midterm_4_solutions.pdf). 
 Note: You may ignore any questions that mention k-nearest neighbors or kernels, as we are not covering these topics this semester.
-* Homework 3 has been released {{ hw3 | strip_newlines }}. It is due **Monday, November 9**.
+* Homework 4 has been released {{ hw4 | strip_newlines }}. It is due **Monday, November 30**.
 * If you want to review prerequisite material for this class, I have a list of recommended [resources](#resources) below.
 
 Some problems in computer science admit precise algorithmic solutions.
@@ -166,7 +166,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Mon Nov 9|Q-Learning |PML2 35.2 | **Homework 3 due**
 |Wed Nov 11|No class (Veteran's Day) [](){: .schedule-break}|
 |Fri Nov 13|Section: Reading Transformers paper ([link](https://arxiv.org/abs/1706.03762)) [](){: .schedule-section}| | 
-|Mon Nov 16|Policy Gradient| PML2 35.3 |
+|Mon Nov 16|Policy Gradient| PML2 35.3 | **Homework 4 released** {{ hw4 | strip_newlines }}|
 |Wed Nov 18|Adversarial Examples, Privacy |PML2 19.1-19.8 |
 |Fri Nov 20|Section: Reading CLIP paper ([link](https://arxiv.org/abs/2103.00020))  [](){: .schedule-section}| |
 |Mon Nov 23|Spurious Correlations, Fairness in Machine Learning ([slides](/assets/lectures/27_fairness.pdf)) | FAML 1-4 | 
