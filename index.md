@@ -168,7 +168,7 @@ All assignments are due by **11:59pm** on the indicated date.
 |Fri Nov 13|Section: Reading Transformers paper ([link](https://arxiv.org/abs/1706.03762)) [](){: .schedule-section}| | 
 |Mon Nov 16|Policy Gradient| PML2 35.3 | **Homework 4 released** {{ hw4 | strip_newlines }}|
 |Wed Nov 18|Adversarial Examples, Spurious Correlations ([slides](/assets/lectures/23_adversarial.pdf))  |PML2 19.1-19.8 |
-|Fri Nov 20|Section: Reading CLIP paper ([link](https://arxiv.org/abs/2103.00020))  [](){: .schedule-section}| |
+|Fri Nov 20|No Section  [](){: .schedule-break}| |
 |Mon Nov 23|Fairness in Machine Learning, Privacy | FAML 1-4 | 
 |Nov 25-27|No class or section (Thanksgiving Break) [](){: .schedule-break}|
 |Mon Nov 30|Large Language Models | | **Homework 4 due**
