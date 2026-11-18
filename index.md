@@ -167,12 +167,12 @@ All assignments are due by **11:59pm** on the indicated date.
 |Wed Nov 11|No class (Veteran's Day) [](){: .schedule-break}|
 |Fri Nov 13|Section: Reading Transformers paper ([link](https://arxiv.org/abs/1706.03762)) [](){: .schedule-section}| | 
 |Mon Nov 16|Policy Gradient| PML2 35.3 | **Homework 4 released** {{ hw4 | strip_newlines }}|
-|Wed Nov 18|Adversarial Examples, Privacy |PML2 19.1-19.8 |
+|Wed Nov 18|Adversarial Examples, Spurious Correlations ([slides](/assets/lectures/23_adversarial.pdf))  |PML2 19.1-19.8 |
 |Fri Nov 20|Section: Reading CLIP paper ([link](https://arxiv.org/abs/2103.00020))  [](){: .schedule-section}| |
-|Mon Nov 23|Spurious Correlations, Fairness in Machine Learning ([slides](/assets/lectures/27_fairness.pdf)) | FAML 1-4 | 
+|Mon Nov 23|Fairness in Machine Learning, Privacy | FAML 1-4 | 
 |Nov 25-27|No class or section (Thanksgiving Break) [](){: .schedule-break}|
 |Mon Nov 30|Large Language Models | | **Homework 4 due**
-|Wed Dec 2 |Conclusion ([slides](/assets/lectures/29_conclusion.pdf)) |
+|Wed Dec 2 |Conclusion |
 |Fri Dec 4 |Section: Final Exam preparation [](){: .schedule-section}| | 
 |Fri Dec 11|**Final Exam, 2-4pm** [](){:.schedule-exam} | | **Project Final Report due Monday, December 7**|
 {: .schedule #schedule-table}
